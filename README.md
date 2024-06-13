@@ -14,3 +14,4 @@
 
 ## Books:
 - Machine Learning Interviews by Susan Shu Chang
+- Quick Start Guide to Large Language Models by Sinan Ozdemir
