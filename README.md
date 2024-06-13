@@ -1,5 +1,4 @@
-# Machine_Learning
-Machine Learning resources and roadmap
+# Machine Learning Plan
 
 ## Month 1: 𝗠𝗮𝘁𝗵𝗲𝗺𝗮𝘁𝗶𝗰𝘀 & 𝗦𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝘀
 
