@@ -3,9 +3,38 @@
 > Plan to become a Machine Learning Engineer inspired by (and many links borrowed from) [ml-engineer-roadmap](https://github.com/enkaranfiles/Machine-Learning-Engineer-Roadmap)
 
 # Mathematics & Statistics:
-- [Linear Algebra](#linear-algebra)
-- [Calculus](#calculus)
-- [Probability and Statistics](#probability-and-statistics)
+
+## Linear Algebra
+- [Essence of Linear Algebra by 3Blue1Brown (must)](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [Mathematics for Machine Learning (Linear Algebra) (edx course) (must)](https://www.youtube.com/watch?v=T73ldK46JqE&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
+- [Linear Algebra By Khan Academy (must)](https://www.youtube.com/watch?v=xyAuNHPsq-g&list=PLFD0EB975BA0CC1E0)
+- [Matrices](https://www.youtube.com/watch?v=eV3NidpjfNg&list=PLEbnTDJUr_IdiveZ4bvOc1Oh2zEp7J8z6)
+- [Mathematics for Machine Learning: Linear Algebra](https://www.youtube.com/watch?v=tVQZvJwi-ec)
+- [Linear Algebra and Optimization for Machine Learning: A Textbook (Book)](https://www.amazon.com/Linear-Algebra-Optimization-Machine-Learning/dp/3030403432/ref=sr_1_9?dchild=1&keywords=machine+learning&qid=1604315007&s=books&sr=1-9)
+
+## Calculus
+- [Essence of Calculus By 3Blue1Brown](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+- [Calculus Introduction](https://www.youtube.com/watch?v=rCxi-O79sVo)
+- [Calculus by Professor Leonard](https://www.youtube.com/watch?v=fYyARMqiaag&list=PLF797E961509B4EB5)
+- [Calculus full College Course](https://www.youtube.com/watch?v=HfACrKJ_Y2w)
+- [Calculus by Khan Academy](https://www.youtube.com/watch?v=EKvHQc3QEow&list=PL19E79A0638C8D449)
+
+
+## Probability and Statistics
+- [Statistics Fundamentals by StatsQuest (must)](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
+- [Statistics by Khan Academy](https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566)
+- [Statistics by Professor Leonard](https://www.youtube.com/watch?v=9FtHB7V14Fo&list=PL5102DFDC6790F3D0)
+- [Statistics full University Course on Data Science](https://www.youtube.com/watch?v=xxpc-HPKN28)
+- [Probability by Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk&list=PLC58778F28211FA19)
+- [Probability Basics by 365 Data Science](https://www.youtube.com/watch?v=WsnBNjXP0CM&list=PLaFfQroTgZnxtnfht3BzBHVfxodX9AR9F)
+- [Bayesian Statistics Made Simple (Scipy) (Talks)](https://www.youtube.com/watch?v=-X0BiV9n_fQ)
+- [Think stats (Book)](https://greenteapress.com/thinkstats/)
+- [Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python (Book)](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/149207294X/ref=sr_1_1?dchild=1&keywords=statistics&qid=1604311077&s=books&sr=1-1)
+- [Naked Statistics (Book)](https://www.amazon.com/Naked-Statistics-Stripping-Dread-Data/dp/039334777X/ref=sr_1_2?dchild=1&keywords=statistics&qid=1604311077&s=books&sr=1-2)
+- [Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series) (Book)](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020)
+- [Pattern Recognition and Machine Learning (Information Science and Statistics) by Christopher M. Bishop (Author) (Book)](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
+- [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics) (Book)](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/ref=pd_sbs_14_3/133-6489713-5922644?_encoding=UTF8&pd_rd_i=0387848576&pd_rd_r=6e5c1ac8-1257-4cb0-965b-9c8e0b408a86&pd_rd_w=Qtqlj&pd_rd_wg=IGdFO&pf_rd_p=ff9b5089-1414-4e8f-9675-3397e98bf276&pf_rd_r=K1A7972744H1541W861Z&psc=1&refRID=K1A7972744H1541W861Z)
+
 
 # SQL & Databases:
 
