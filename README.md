@@ -19,7 +19,6 @@
 - [Calculus full College Course](https://www.youtube.com/watch?v=HfACrKJ_Y2w)
 - [Calculus by Khan Academy](https://www.youtube.com/watch?v=EKvHQc3QEow&list=PL19E79A0638C8D449)
 
-
 ## Probability and Statistics
 - [Statistics Fundamentals by StatsQuest (must)](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
 - [Statistics by Khan Academy](https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566)
@@ -34,7 +33,6 @@
 - [Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series) (Book)](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020)
 - [Pattern Recognition and Machine Learning (Information Science and Statistics) by Christopher M. Bishop (Author) (Book)](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
 - [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics) (Book)](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/ref=pd_sbs_14_3/133-6489713-5922644?_encoding=UTF8&pd_rd_i=0387848576&pd_rd_r=6e5c1ac8-1257-4cb0-965b-9c8e0b408a86&pd_rd_w=Qtqlj&pd_rd_wg=IGdFO&pf_rd_p=ff9b5089-1414-4e8f-9675-3397e98bf276&pf_rd_r=K1A7972744H1541W861Z&psc=1&refRID=K1A7972744H1541W861Z)
-
 
 # SQL & Databases:
 
@@ -131,6 +129,39 @@
 
 # Programming Skills:
 
+## Data Structures & Algorithms
+- [Algorithms by Abdul Bari (must)](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+- [Algorithms Lectures (must)](https://www.youtube.com/watch?v=aGjL7YXI31Q&list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0)
+- [Easy to Advanced Data Structure using Java](https://www.youtube.com/watch?v=RBSGKlAvoiM&t=10854s)
+- [CS Dojo Data structures and Algorithms (must)](https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
+- [Dynamic Programming](https://www.youtube.com/watch?v=jTjRGe0wRvI&list=PLVrpF4r7WIhTT1hJqZmjP10nxsmrbRvlf)
+- [Data Structures by Neso Academy](https://www.youtube.com/watch?v=xLetJpcjHS0&list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y&index=1)
+- [Data Structures using C++](https://www.youtube.com/watch?v=XCyuHSJS7XE&list=PLIY8eNdw5tW_zX3OCzX7NJ8bL1p6pWfgG)
+- [Algorithmic Design and Techniques (edx.org)](https://www.edx.org/course/algorithmic-design-and-techniques)
+- [Graph Algorithms (edx.org)](https://www.edx.org/course/graph-algorithms)
+- [NP-Complete Problems (edx.org)](https://www.edx.org/course/np-complete-problems)
+
+## OOP Concepts
+- [Python OOP by Corey Schafer](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
+- [Python OOP for beginners (must)](https://www.youtube.com/watch?v=JeznW_7DlB0)
+- [OOP in python (must)](https://www.youtube.com/watch?v=MikphENIrOo)
+- [C++ OOP by derek banas (must)](https://www.youtube.com/watch?v=ZOKLjJF54Xc)
+- [C++ Programming All-in-one (beginner to advanced)](https://www.youtube.com/watch?v=_bYFu9mBnr4)
+- [Object Oriented Programming in C++](https://www.youtube.com/watch?v=AGrcyWV7hL8&list=PLrjkTql3jnm-Voi7giH4JITCi6cuZSN42&index=1)
+
+## Software design and Architecture
+- [Software Design using Python](https://www.youtube.com/watch?v=FLtqAi7WNBY&list=PLzMcBGfZo4-nVu4ANTe7NuU0Ny6_oyQmV)
+- [A philosophy of Software Design (Talks)](https://www.youtube.com/watch?v=bmSAYlu0NcY)
+- [Software Design in 21st Century by Martin Flower (Talks)](https://www.youtube.com/watch?v=6wDoopbtEqk)
+- [SOLID using Python](https://www.youtube.com/watch?v=acmPg6aV-Zs&list=PLyLkn_nipSjNVOpdOG-nETxKfgEpbubMQ)
+- [Be a Better Developer by Using SOLID design principles](https://www.youtube.com/watch?v=rtmFCcjEgEw)
+
+## Design Patterns
+- [Design Patterns in Object Oriented Programming (must)](https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
+- [Design Patterns in Python (Talks)](https://www.youtube.com/watch?v=bsyjSW46TDg&t=966s)
+- [Design Patterns in Python](https://www.youtube.com/watch?v=3GoiinBUwCU&list=PL1WVjBsN-_NK13Vf2UqdLZtukQ23TxeSx&index=7)
+- [Advanced Python Programming](https://www.youtube.com/watch?v=9VFc55nlVx8&list=PLL2hlSFBmWwyJ9dh3Rrr1sw8l4e4SLMx1&index=1)
+
 # Model Training & Tuning Techniques, Advanced Deep Learning Models:
 
 # Deployment, Monitoring, & Maintenance:
@@ -170,8 +201,11 @@
 
 # AI Safety:
 
-# ML and AI Related Books:
+# ML Interviews:
 - Machine Learning Interviews by Susan Shu Chang
+
+
+# ML and AI Related Books:
 - Quick Start Guide to Large Language Models by Sinan Ozdemir
 - Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Corville
 - The Coming Wave by Mustafa Suleyman
