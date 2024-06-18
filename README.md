@@ -112,13 +112,6 @@
 - [Programming PyTorch for Deep Learning: Creating and Deploying Deep Learning Applications (Book)](https://www.amazon.com/Programming-PyTorch-Deep-Learning-Applications/dp/1492045357/ref=sr_1_3?dchild=1&keywords=pytorch&qid=1604315349&s=books&sr=1-3)
 - [Deep Learning with PyTorch: Build, train, and tune neural networks using Python tools (Book)](https://www.amazon.com/Deep-Learning-PyTorch-Eli-Stevens/dp/1617295264/ref=sr_1_2?dchild=1&keywords=pytorch&qid=1604315349&s=books&sr=1-2)
 
-**MLOps:**
-- [What are MLOps and Why Does it Matter?](https://medium.com/@ODSC/what-are-mlops-and-why-does-it-matter-8cff060d4067)
-- [MLOps: Overview of Machine Learning Operations on the Cloud AISC](https://www.youtube.com/watch?v=VU5Em1qkWDU)
-- [Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps](https://www.amazon.com/Machine-Learning-Design-Patterns-Preparation/dp/1098115783/ref=sr_1_1?dchild=1&keywords=MLops&qid=1604314055&s=books&sr=1-1)
-- [MLops Community "Videos Collection"](https://www.youtube.com/watch?v=hqxQO7MoQIE&list=PL3vkEKxWd-uvXEsuCAEfQhdvDRc7X_jOx)
-- [MLOps: Machine Learning as an Engineering Discipline (Blog)](https://towardsdatascience.com/ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f)
-
 **Projects and Resources:**
 - [Andrew ng Machine Learning Course](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 - [Standford CS229: Machine Learning](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
@@ -145,6 +138,21 @@
 **Datasets:**
 - [AWESOME PUBLIC DATASETS](https://github.com/awesomedata/awesome-public-datasets)
 - [70+ machine Learning Datasets](https://data-flair.training/blogs/machine-learning-datasets/)
+
+**Natural Language Processing:**
+- [Book: Natural Language Processing with Transformers](https://transformersbook.com/)
+- [Stanford CS224U: Natural Language Understanding \| Spring 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)
+- [Stanford CS224N: Stanford CS224N: NLP with Deep Learning \| Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+- [CMU: Low-resource NLP Bootcamp 2020](https://www.youtube.com/playlist?list=PL8PYTP1V4I8A1CpCzURXAUa6H4HO7PF2c)
+- [CMU Multilingual NLP 2020](http://demo.clab.cs.cmu.edu/11737fa20/)
+- [Datacamp: Feature Engineering for NLP in Python](https://www.datacamp.com/courses/feature-engineering-for-nlp-in-python)
+- [Datacamp: Natural Language Processing Fundamentals in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python)
+- [Datacamp: Regular Expressions in Python](https://www.datacamp.com/courses/regular-expressions-in-python)
+- [Datacamp: RNN for Language Modeling](https://www.datacamp.com/courses/recurrent-neural-networks-for-language-modeling-in-python)
+- [Datacamp: Natural Language Generation in Python](https://www.datacamp.com/courses/natural-language-generation-in-python)
+- [Datacamp: Building Chatbots in Python](https://www.datacamp.com/courses/building-chatbots-in-python)
+- [Datacamp: Sentiment Analysis in Python](https://www.datacamp.com/courses/sentiment-analysis-in-python)
+- [Datacamp: Machine Translation in Python](https://www.datacamp.com/courses/machine-translation-in-python)
 
 # Programming Skills
 
@@ -184,6 +192,13 @@
 # Model Training & Tuning Techniques, Advanced Deep Learning Models
 
 # Deployment, Monitoring, & Maintenance
+
+**MLOps:**
+- [What are MLOps and Why Does it Matter?](https://medium.com/@ODSC/what-are-mlops-and-why-does-it-matter-8cff060d4067)
+- [MLOps: Overview of Machine Learning Operations on the Cloud AISC](https://www.youtube.com/watch?v=VU5Em1qkWDU)
+- [Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps](https://www.amazon.com/Machine-Learning-Design-Patterns-Preparation/dp/1098115783/ref=sr_1_1?dchild=1&keywords=MLops&qid=1604314055&s=books&sr=1-1)
+- [MLops Community "Videos Collection"](https://www.youtube.com/watch?v=hqxQO7MoQIE&list=PL3vkEKxWd-uvXEsuCAEfQhdvDRc7X_jOx)
+- [MLOps: Machine Learning as an Engineering Discipline (Blog)](https://towardsdatascience.com/ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f)
 
 **Testing:**
 - [Python Testing with pytest: Simple, Rapid, Effective, and Scalable (Book)](https://www.amazon.com/Python-Testing-pytest-Effective-Scalable/dp/1680502409)
