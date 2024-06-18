@@ -1,15 +1,15 @@
-# Machine Learning Plan
+# Machine Learning Plan 2024 - 2025
 
 > Plan to become a Machine Learning Engineer inspired by (and many links borrowed from) [ml-engineer-roadmap](https://github.com/enkaranfiles/Machine-Learning-Engineer-Roadmap)
 
-# Mathematics & Statistics
+# Mathematics & Statistics:
 - [Linear Algebra](#linear-algebra)
 - [Calculus](#calculus)
 - [Probability and Statistics](#probability-and-statistics)
 
 # SQL & Databases:
 
-# Core Concepts of Machine Learning
+# Core Concepts of Machine Learning:
 
 ## Supervised Learning
 - [The Supervised Learning Workshop: A New, Interactive Approach to Understanding Supervised Learning Algorithms, 2nd Edition (Book)](https://www.amazon.com/Supervised-Learning-Workshop-Interactive-Understanding-ebook/dp/B085DQVYHH/ref=sr_1_1?dchild=1&keywords=supervised&qid=1604311395&s=books&sr=1-1)
@@ -72,7 +72,7 @@
 - [MLops Community "Videos Collection"](https://www.youtube.com/watch?v=hqxQO7MoQIE&list=PL3vkEKxWd-uvXEsuCAEfQhdvDRc7X_jOx)
 - [MLOps: Machine Learning as an Engineering Discipline (Blog)](https://towardsdatascience.com/ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f)
 
-# Projects and Resources
+## Projects and Resources
 - [Andrew ng Machine Learning Course](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 - [Standford CS229: Machine Learning](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 - [Deep Learning Essentials , Mila University (edx.org)](https://courses.edx.org/courses/course-v1:UMontrealX+IVADO-DL-101+1T2020/course/)
@@ -100,11 +100,11 @@
 - [70+ machine Learning Datasets](https://data-flair.training/blogs/machine-learning-datasets/)
 
 
-# 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗦𝗸𝗶𝗹𝗹𝘀 (𝗣𝘆𝘁𝗵𝗼𝗻 & 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀)
+# Programming Skills:
 
-# 𝗠𝗼𝗱𝗲𝗹 𝗧𝗿𝗮𝗶𝗻𝗶𝗻𝗴 & 𝗧𝘂𝗻𝗶𝗻𝗴 𝗧𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲𝘀, 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗗𝗲𝗲𝗽 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗠𝗼𝗱𝗲𝗹𝘀
+# Model Training & Tuning Techniques, Advanced Deep Learning Models:
 
-# Deployment, Monitoring, & Maintenance
+# Deployment, Monitoring, & Maintenance:
 
 ## Testing
 - [Python Testing with pytest: Simple, Rapid, Effective, and Scalable (Book)](https://www.amazon.com/Python-Testing-pytest-Effective-Scalable/dp/1680502409)
