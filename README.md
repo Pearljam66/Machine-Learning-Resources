@@ -189,7 +189,7 @@
 - [Design Patterns in Python](https://www.youtube.com/watch?v=3GoiinBUwCU&list=PL1WVjBsN-_NK13Vf2UqdLZtukQ23TxeSx&index=7)
 - [Advanced Python Programming](https://www.youtube.com/watch?v=9VFc55nlVx8&list=PLL2hlSFBmWwyJ9dh3Rrr1sw8l4e4SLMx1&index=1)
 
-# Model Training & Tuning Techniques, Advanced Deep Learning Models
+# Model Training & Tuning Techniques Plus Advanced Deep Learning Models
 
 # Deployment, Monitoring, & Maintenance
 
