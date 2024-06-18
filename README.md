@@ -1,5 +1,7 @@
 # Machine Learning Plan
 
+> Plan to become machine learning Engineer inspired by [ml-engineer-roadmap](https://github.com/enkaranfiles/Machine-Learning-Engineer-Roadmap)
+
 ## Month 1: 𝗠𝗮𝘁𝗵𝗲𝗺𝗮𝘁𝗶𝗰𝘀 & 𝗦𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝘀
 
 ## Month 2: 𝗦𝗤𝗟 & 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀 𝗮𝗻𝗱 𝗠𝗼𝗿𝗲 𝗦𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝘀
