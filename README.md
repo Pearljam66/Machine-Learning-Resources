@@ -9,7 +9,7 @@
 
 # SQL & Databases:
 
-# Core Concepts of Machine Learning:
+# Core Concepts of Machine Learning
 
 ## Supervised Learning
 - [The Supervised Learning Workshop: A New, Interactive Approach to Understanding Supervised Learning Algorithms, 2nd Edition (Book)](https://www.amazon.com/Supervised-Learning-Workshop-Interactive-Understanding-ebook/dp/B085DQVYHH/ref=sr_1_1?dchild=1&keywords=supervised&qid=1604311395&s=books&sr=1-1)
@@ -65,7 +65,7 @@
 - [Programming PyTorch for Deep Learning: Creating and Deploying Deep Learning Applications (Book)](https://www.amazon.com/Programming-PyTorch-Deep-Learning-Applications/dp/1492045357/ref=sr_1_3?dchild=1&keywords=pytorch&qid=1604315349&s=books&sr=1-3)
 - [Deep Learning with PyTorch: Build, train, and tune neural networks using Python tools (Book)](https://www.amazon.com/Deep-Learning-PyTorch-Eli-Stevens/dp/1617295264/ref=sr_1_2?dchild=1&keywords=pytorch&qid=1604315349&s=books&sr=1-2)
 
-## MLops
+## MLOps
 - [What are MLOps and Why Does it Matter?](https://medium.com/@ODSC/what-are-mlops-and-why-does-it-matter-8cff060d4067)
 - [MLOps: Overview of Machine Learning Operations on the Cloud AISC](https://www.youtube.com/watch?v=VU5Em1qkWDU)
 - [Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps](https://www.amazon.com/Machine-Learning-Design-Patterns-Preparation/dp/1098115783/ref=sr_1_1?dchild=1&keywords=MLops&qid=1604314055&s=books&sr=1-1)
@@ -94,15 +94,19 @@
 - [An End-to End Data Science Project on California Housing Price Prediction](https://www.youtube.com/watch?v=kUsNb_gOo_s)
 - [Machine Learning Engineering (Book)](https://www.amazon.com/Machine-Learning-Engineering-Andriy-Burkov/dp/1999579577/ref=sr_1_2?dchild=1&keywords=machine+learning&qid=1604314928&s=books&sr=1-2)
 - [Building Machine Learning Powered Applications: Going from Idea to Product (Book)](https://www.amazon.com/Building-Machine-Learning-Powered-Applications/dp/149204511X/ref=sr_1_6?dchild=1&keywords=machine+learning&qid=1604314954&s=books&sr=1-6)
+ 
+## Datasets
+- [AWESOME PUBLIC DATASETS](https://github.com/awesomedata/awesome-public-datasets)
+- [70+ machine Learning Datasets](https://data-flair.training/blogs/machine-learning-datasets/)
 
 
-## Month 4: 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗦𝗸𝗶𝗹𝗹𝘀 (𝗣𝘆𝘁𝗵𝗼𝗻 & 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀)
+# 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗦𝗸𝗶𝗹𝗹𝘀 (𝗣𝘆𝘁𝗵𝗼𝗻 & 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀)
 
-## Month 5: 𝗠𝗼𝗱𝗲𝗹 𝗧𝗿𝗮𝗶𝗻𝗶𝗻𝗴 & 𝗧𝘂𝗻𝗶𝗻𝗴 𝗧𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲𝘀, 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗗𝗲𝗲𝗽 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗠𝗼𝗱𝗲𝗹𝘀
+# 𝗠𝗼𝗱𝗲𝗹 𝗧𝗿𝗮𝗶𝗻𝗶𝗻𝗴 & 𝗧𝘂𝗻𝗶𝗻𝗴 𝗧𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲𝘀, 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗗𝗲𝗲𝗽 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗠𝗼𝗱𝗲𝗹𝘀
 
-## Month 6: 𝗗𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁, 𝗠𝗼𝗻𝗶𝘁𝗼𝗿𝗶𝗻𝗴, & 𝗠𝗮𝗶𝗻𝘁𝗲𝗻𝗮𝗻𝗰𝗲 𝗮𝗻𝗱 𝗥𝗲𝘀𝘂𝗺𝗲 𝗣𝗿𝗲𝗽𝗮𝗿𝗮𝘁𝗶𝗼𝗻, 𝗦𝗼𝗳𝘁 𝗦𝗸𝗶𝗹𝗹𝘀 & 𝗧𝗶𝗽𝘀
+# 𝗗𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁, 𝗠𝗼𝗻𝗶𝘁𝗼𝗿𝗶𝗻𝗴, & 𝗠𝗮𝗶𝗻𝘁𝗲𝗻𝗮𝗻𝗰𝗲 𝗮𝗻𝗱 𝗥𝗲𝘀𝘂𝗺𝗲 𝗣𝗿𝗲𝗽𝗮𝗿𝗮𝘁𝗶𝗼𝗻, 𝗦𝗼𝗳𝘁 𝗦𝗸𝗶𝗹𝗹𝘀 & 𝗧𝗶𝗽𝘀
 
-## Books:
+# Books:
 - Machine Learning Interviews by Susan Shu Chang
 - Quick Start Guide to Large Language Models by Sinan Ozdemir
 - Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Corville
