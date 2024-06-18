@@ -104,7 +104,40 @@
 
 # 𝗠𝗼𝗱𝗲𝗹 𝗧𝗿𝗮𝗶𝗻𝗶𝗻𝗴 & 𝗧𝘂𝗻𝗶𝗻𝗴 𝗧𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲𝘀, 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗗𝗲𝗲𝗽 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗠𝗼𝗱𝗲𝗹𝘀
 
-# 𝗗𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁, 𝗠𝗼𝗻𝗶𝘁𝗼𝗿𝗶𝗻𝗴, & 𝗠𝗮𝗶𝗻𝘁𝗲𝗻𝗮𝗻𝗰𝗲 𝗮𝗻𝗱 𝗥𝗲𝘀𝘂𝗺𝗲 𝗣𝗿𝗲𝗽𝗮𝗿𝗮𝘁𝗶𝗼𝗻, 𝗦𝗼𝗳𝘁 𝗦𝗸𝗶𝗹𝗹𝘀 & 𝗧𝗶𝗽𝘀
+# Deployment, Monitoring, & Maintenance
+
+## Testing
+- [Python Testing with pytest: Simple, Rapid, Effective, and Scalable (Book)](https://www.amazon.com/Python-Testing-pytest-Effective-Scalable/dp/1680502409)
+- [Learn Pytest in 60 minutes](https://www.youtube.com/watch?v=bbp_849-RZ4)
+- [Pytest: Test Framework](https://www.youtube.com/watch?v=CNB1iRv5hZo&list=PLFGoYjJG_fqoMMmCKLeLGQzh6Jz4CmO2Y)
+- [Python testing 101 with Pytest (must-talks)](https://www.youtube.com/watch?v=etosV2IWBF0)
+- [Testing Your code with Pytest (talks)](https://www.youtube.com/watch?v=LX2ksGYXJ80)
+
+## Cloud
+- [Introduction to Cloud](https://www.youtube.com/watch?v=usYySG1nbfI)
+- [Cloud Computing Full Course](https://www.youtube.com/watch?v=EN4fEbcFZ_E)
+- [Aws for Beginners](https://www.youtube.com/watch?v=k1RI5locZE4)
+- [What is serverless?](https://www.youtube.com/watch?v=Fx3ZGy-mbV4)
+- [Introduction to AWS Lambda and Serverless Architecture](https://www.youtube.com/watch?v=EBSdyoO3goc)
+- [AWS S3 Tutorial](https://www.youtube.com/watch?v=9HsEMyKrlnw)
+- [AWS SageMaker for ML and DL](https://www.youtube.com/watch?v=LkR3GNDB0HI&list=PLZoTAELRMXVONh5mHrXowH6-dgyWoC_Ew)
+
+## Containerization
+- [Docker for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo)
+- [This is how docker works! The fun way (Talks)](https://www.youtube.com/watch?v=-NzfOhSAZpA)
+- [Docker Beginner Tutorial](https://www.youtube.com/watch?v=wi-MGFhrad0&list=PLhW3qG5bs-L99pQsZ74f-LC-tOEsBp2rK)
+- [Docker Tutorials For Beginners](https://www.youtube.com/watch?v=3c-iBn73dDE)
+- [Simplify all things with Docker-Compose](https://www.youtube.com/watch?v=QeQ2MH5f_BE)
+- [What is kubernetes?](https://www.youtube.com/watch?v=VnvRFRk_51k)
+- [Kubernetes in 5 mins](https://www.youtube.com/watch?v=PH-2FfFD2PU)
+- [Kubernetes beginners Tutorials](https://www.youtube.com/watch?v=l_lWfipUimk&list=PLhW3qG5bs-L8EU_Oocu6RkNPpYpaamtXX)
+
+
+## Api Development
+- [Learn Flask (Only 45 mins video)](https://www.youtube.com/watch?v=Z1RJmh_OqeA)
+- [Building a Flask Rest API](https://www.youtube.com/watch?v=GMppyAPbLYk)
+- [Deploy machine learning model using Flask](https://www.youtube.com/watch?v=UbCWoMf80PY)
+- [How to deploy machine learning model in Production (Talks)](https://www.youtube.com/watch?v=-UYyyeYJAoQ)
 
 # Books:
 - Machine Learning Interviews by Susan Shu Chang
