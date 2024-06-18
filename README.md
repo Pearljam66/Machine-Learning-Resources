@@ -1,8 +1,8 @@
 # Machine Learning Plan
 
-> Plan to become machine learning Engineer inspired by (and many links borrowed from him also) [ml-engineer-roadmap](https://github.com/enkaranfiles/Machine-Learning-Engineer-Roadmap)
+> Plan to become a Machine Learning Engineer inspired by (and many links borrowed from) [ml-engineer-roadmap](https://github.com/enkaranfiles/Machine-Learning-Engineer-Roadmap)
 
-# 𝗠𝗮𝘁𝗵𝗲𝗺𝗮𝘁𝗶𝗰𝘀 & 𝗦𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝘀
+# Mathematics & Statistics
 - [Linear Algebra](#linear-algebra)
 - [Calculus](#calculus)
 - [Probability and Statistics](#probability-and-statistics)
