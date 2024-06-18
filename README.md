@@ -168,7 +168,9 @@
 - [Deploy machine learning model using Flask](https://www.youtube.com/watch?v=UbCWoMf80PY)
 - [How to deploy machine learning model in Production (Talks)](https://www.youtube.com/watch?v=-UYyyeYJAoQ)
 
-# Books:
+# AI Safety:
+
+# ML and AI Related Books:
 - Machine Learning Interviews by Susan Shu Chang
 - Quick Start Guide to Large Language Models by Sinan Ozdemir
 - Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Corville
