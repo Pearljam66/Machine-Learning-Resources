@@ -34,7 +34,13 @@
 - [Pattern Recognition and Machine Learning (Information Science and Statistics) by Christopher M. Bishop (Author) (Book)](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
 - [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics) (Book)](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/ref=pd_sbs_14_3/133-6489713-5922644?_encoding=UTF8&pd_rd_i=0387848576&pd_rd_r=6e5c1ac8-1257-4cb0-965b-9c8e0b408a86&pd_rd_w=Qtqlj&pd_rd_wg=IGdFO&pf_rd_p=ff9b5089-1414-4e8f-9675-3397e98bf276&pf_rd_r=K1A7972744H1541W861Z&psc=1&refRID=K1A7972744H1541W861Z)
 
-# SQL & Databases:
+# Databases & Query Languages:
+- [Redis Crash Course](https://www.youtube.com/watch?v=Hbt56gFj998)
+- [Column vs Row Oriented Databases](https://www.youtube.com/watch?v=Vw1fCeD06YI)
+- [5 use Cases of Redis (Talks)](https://www.youtube.com/watch?v=znjGckK8abw)
+- [Introduction to noSQl database](https://www.youtube.com/watch?v=xQnIN9bW0og)
+- [ Nosql vs Sql ](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
+- [Learning MYSQL](https://www.youtube.com/watch?v=a9W7OpS4LfI&list=PLyuRouwmQCjlXvBkTfGeDTq79r9_GoMt9)
 
 # Core Concepts of Machine Learning:
 
