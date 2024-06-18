@@ -3,10 +3,23 @@
 > Plan to become machine learning Engineer inspired by [ml-engineer-roadmap](https://github.com/enkaranfiles/Machine-Learning-Engineer-Roadmap)
 
 ## Month 1: 𝗠𝗮𝘁𝗵𝗲𝗺𝗮𝘁𝗶𝗰𝘀 & 𝗦𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝘀
+- [Linear Algebra](#linear-algebra)
+- [Calculus](#calculus)
+- [Probability and Statistics](#probability-and-statistics)
 
 ## Month 2: 𝗦𝗤𝗟 & 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀 𝗮𝗻𝗱 𝗠𝗼𝗿𝗲 𝗦𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝘀
 
 ## Month 3: 𝗖𝗼𝗿𝗲 𝗖𝗼𝗻𝗰𝗲𝗽𝘁𝘀 𝗼𝗳 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴
+- [Supervised Learning](#supervised-learning)
+- [Unsupervised Learning](#unsupervised-learning)
+- [Numpy](#numpy)
+- [Pandas](#pandas)
+- [Sklearn](#sklearn)
+- [Neural Network](#neural-network)
+- [Pytorch/Tensorflow](#pytorch)
+- [MLops](#mlops)
+- [Complete Projects and Resources at The end](#projects)
+- [Datasets](#datasets)
 
 ## Month 4: 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗦𝗸𝗶𝗹𝗹𝘀 (𝗣𝘆𝘁𝗵𝗼𝗻 & 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀)
 
