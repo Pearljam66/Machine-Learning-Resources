@@ -274,16 +274,16 @@
 
 # AI Safety
 - [Stanford Center for AI Safety](https://aisafety.stanford.edu)
-- ["The Alignment Problem: Machine Learning and Human Values" by Brian Christian (Book)](brianchristian.org/the-alignment-problem)
-- ["Superintelligence: Paths, Dangers, Strategies" by Nick Bostrom (Book)](amazon.com/Superintelligence-Paths-Dangers-Strategies-Nick-Bostrom/dp/0198739834)
-- ["Concrete Problems in AI Safety" (Research Paper)](arxiv.org/abs/1606.06565)
-- [AI Safety Research at OpenAI)](openai.com/research)
-- [AI Alignment Forum](alignmentforum.org)
-- ["AI Safety Needs Social Scientists"](futureoflife.org/2019/04/30/ai-safety-needs-social-scientists)
-- [Center for Human-Compatible AI](humancompatible.ai)
-- [Future of Humanity Institute at Oxford University](fhi.ox.ac.uk)
-- ["Ethics of Artificial Intelligence and Robotics"](plato.stanford.edu/entries/ethics-ai)
-- [Machine Intelligence Research Institute (MIRI)](intelligence.org)
+- ["The Alignment Problem: Machine Learning and Human Values" by Brian Christian (Book)](https://brianchristian.org/the-alignment-problem)
+- ["Superintelligence: Paths, Dangers, Strategies" by Nick Bostrom (Book)](https://amazon.com/Superintelligence-Paths-Dangers-Strategies-Nick-Bostrom/dp/0198739834)
+- ["Concrete Problems in AI Safety" (Research Paper)](https://arxiv.org/abs/1606.06565)
+- [AI Safety Research at OpenAI](https://openai.com/research)
+- [AI Alignment Forum](https://alignmentforum.org)
+- ["AI Safety Needs Social Scientists"](https://futureoflife.org/2019/04/30/ai-safety-needs-social-scientists)
+- [Center for Human-Compatible AI](https://humancompatible.ai)
+- [Future of Humanity Institute at Oxford University](https://fhi.ox.ac.uk)
+- ["Ethics of Artificial Intelligence and Robotics"](https://plato.stanford.edu/entries/ethics-ai)
+- [Machine Intelligence Research Institute (MIRI)](https://intelligence.org)
 
 # ML Interviews
 - Machine Learning Interviews by Susan Shu Chang
