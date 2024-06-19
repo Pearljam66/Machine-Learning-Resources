@@ -111,6 +111,8 @@
 - [Lecture Pytorch (New York University)](https://www.youtube.com/watch?v=0bMe_vCZo30&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
 - [Programming PyTorch for Deep Learning: Creating and Deploying Deep Learning Applications (Book)](https://www.amazon.com/Programming-PyTorch-Deep-Learning-Applications/dp/1492045357/ref=sr_1_3?dchild=1&keywords=pytorch&qid=1604315349&s=books&sr=1-3)
 - [Deep Learning with PyTorch: Build, train, and tune neural networks using Python tools (Book)](https://www.amazon.com/Deep-Learning-PyTorch-Eli-Stevens/dp/1617295264/ref=sr_1_2?dchild=1&keywords=pytorch&qid=1604315349&s=books&sr=1-2)
+- [Deeplizard: Neural Network Programming - Deep Learning with PyTorch](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
+- [Article: PyTorch internals](https://blog.ezyang.com/2019/05/pytorch-internals/)
 
 **Tensorflow & Keras:**
 - [Datacamp: Introduction to TensorFlow in Python](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python)
@@ -142,6 +144,10 @@
 - [An End-to End Data Science Project on California Housing Price Prediction](https://www.youtube.com/watch?v=kUsNb_gOo_s)
 - [Machine Learning Engineering (Book)](https://www.amazon.com/Machine-Learning-Engineering-Andriy-Burkov/dp/1999579577/ref=sr_1_2?dchild=1&keywords=machine+learning&qid=1604314928&s=books&sr=1-2)
 - [Building Machine Learning Powered Applications: Going from Idea to Product (Book)](https://www.amazon.com/Building-Machine-Learning-Powered-Applications/dp/149204511X/ref=sr_1_6?dchild=1&keywords=machine+learning&qid=1604314954&s=books&sr=1-6)
+- https://github.com/ZuzooVn/machine-learning-for-software-engineers
+- https://github.com/Avik-Jain/100-Days-Of-ML-Code
+- https://github.com/yanshengjia/ml-road
+- [8 Fun Machine Learning Projects For Beginners](https://elitedatascience.com/machine-learning-projects-for-beginners)
  
 **Datasets:**
 - [AWESOME PUBLIC DATASETS](https://github.com/awesomedata/awesome-public-datasets)
@@ -161,6 +167,32 @@
 - [Datacamp: Building Chatbots in Python](https://www.datacamp.com/courses/building-chatbots-in-python)
 - [Datacamp: Sentiment Analysis in Python](https://www.datacamp.com/courses/sentiment-analysis-in-python)
 - [Datacamp: Machine Translation in Python](https://www.datacamp.com/courses/machine-translation-in-python)
+
+**Generative AI:**
+- [Article: OpenAI Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
+- [Article: Your AI Product Needs Evals](https://hamel.dev/blog/posts/evals)
+- [Article: Prompting Fundamentals and How to Apply them Effectively](https://eugeneyan.com/writing/prompting/)
+- [Article: Task-Specific LLM Evals that Do & Don't Work](https://eugeneyan.com/writing/evals/)
+- [Article: LLM From the Trenches: 10 Lessons Learned Operationalizing Models at GoDaddy](https://www.godaddy.com/resources/news/llm-from-the-trenches-10-lessons-learned-operationalizing-models-at-godaddy#h-3-prompts-aren-t-portable-across-models)
+- [Article: Prompt Engineering(Liliang Weng)](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
+- [Article: Prompt Engineering 201: Advanced methods and toolkits](https://amatria.in/blog/prompt201)
+- [DeepLearning.AI: Building and Evaluating Advanced RAG Applications](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/)
+- [DeepLearning.AI: Efficiently Serving LLMs](https://www.deeplearning.ai/short-courses/efficiently-serving-llms/)
+- [DeepLearning.AI: Finetuning Large Language Models](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)
+- [DeepLearning.AI: Vector Databases: from Embeddings to Applications](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/)
+- [DeepLearning.AI: Reinforcement Learning from Human Feedback](https://www.deeplearning.ai/short-courses/reinforcement-learning-from-human-feedback)
+- [DeepLearning.AI: Advanced Retrieval for AI with Chroma](https://www.deeplearning.ai/short-courses/advanced-retrieval-for-ai/)
+- [DeepLearning.AI: Automated Testing for LLMOps](https://www.deeplearning.ai/short-courses/automated-testing-llmops/)
+- [DeepLearning.AI: Red Teaming LLM Applications](https://www.deeplearning.ai/short-courses/red-teaming-llm-applications/)
+- [LLMOps: Building with LLMs](https://www.comet.com/site/llm-course/)
+- [LLM Bootcamp - Spring 2023](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)
+- [Large Language Models with Semantic Search](https://www.deeplearning.ai/short-courses/large-language-models-semantic-search) [`1hr`]
+- [Karpathy: Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) [`1hr`]
+- [Karpathy: Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE) [`2hr13m`]||
+- [Youtube: A Hackers' Guide to Language Models](https://www.youtube.com/watch?v=jkrNMKz9pWU) [`1hr30m`]
+- [Youtube: A Survey of Techniques for Maximizing LLM Performance](https://www.youtube.com/watch?v=ahnGLM-RC1Y)
+- [Youtube: Prompt Engineering Overview](https://www.youtube.com/watch?v=dOxUroR57xs) [`1hr4m`]
+- [Youtube: Building Blocks for LLM Systems & Products: Eugene Yan](https://www.youtube.com/watch?v=LzeC1AQ-U5o)
 
 # Programming Skills
 
@@ -242,12 +274,41 @@
 
 # AI Safety
 - [Stanford Center for AI Safety](https://aisafety.stanford.edu)
+- ["The Alignment Problem: Machine Learning and Human Values" by Brian Christian (Book)](brianchristian.org/the-alignment-problem)
+- ["Superintelligence: Paths, Dangers, Strategies" by Nick Bostrom (Book)](amazon.com/Superintelligence-Paths-Dangers-Strategies-Nick-Bostrom/dp/0198739834)
+- ["Concrete Problems in AI Safety" (Research Paper)](arxiv.org/abs/1606.06565)
+- [AI Safety Research at OpenAI)](openai.com/research)
+- [AI Alignment Forum](alignmentforum.org)
+- ["AI Safety Needs Social Scientists"](futureoflife.org/2019/04/30/ai-safety-needs-social-scientists)
+- [Center for Human-Compatible AI](humancompatible.ai)
+- [Future of Humanity Institute at Oxford University](fhi.ox.ac.uk)
+- ["Ethics of Artificial Intelligence and Robotics"](plato.stanford.edu/entries/ethics-ai)
+- [Machine Intelligence Research Institute (MIRI)](intelligence.org)
 
 # ML Interviews
 - Machine Learning Interviews by Susan Shu Chang
+- https://github.com/alexeygrigorev/data-science-interviews
 
-# ML & AI Related Books
+# ML & AI Related Books/Further Reading
 - Quick Start Guide to Large Language Models by Sinan Ozdemir
 - Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Corville
 - The Coming Wave by Mustafa Suleyman
 - Superintelligence: Paths, Dangers, Strategies by Nick Bostrom
+- [The cold start problem: how to break into machine learning](https://towardsdatascience.com/the-cold-start-problem-how-to-break-into-machine-learning-732ee9fedf1d) (Towardsdatascience)
+- [How to Start Learning Machine Learning?](https://www.geeksforgeeks.org/how-to-start-learning-machine-learning/) (GeekforGeeks)
+- [How to get started in machine learning - best books and sites for machine learning](https://www.youtube.com/watch?v=itzmu0l93wM) (YouTube)
+- [How you can get a world-class machine learning education for free](https://elitedatascience.com/learn-machine-learning#step-0) (Elite Data Science)
+- [Get started with AI and machine learning in 3 months](https://medium.com/@gordicaleksa/get-started-with-ai-and-machine-learning-in-3-months-5236d5e0f230) (Aleksa Gordić)
+- https://towardsdatascience.com/beginners-guide-to-machine-learning-with-python-b9ff35bc9c51
+- [One year of deep learning](https://www.fast.ai/2019/01/02/one-year-of-deep-learning/) (Fast.ai)
+- [Getting Started with Applied Machine Learning](https://machinelearningmastery.com/start-here/#getstarted) (Machine Learning Mastery)
+- [Book: Automate The Boring Stuff with Python](https://automatetheboringstuff.com/) (Till Chapter 6 for Python Basics, the remaining chapters include the applications of Python)
+- [Book: Python Crash Course by Erric Matthes](https://ehmatthes.github.io/pcc_2e/regular_index/)
+- [Book: Learning Python by Mark Lutz](https://www.oreilly.com/library/view/learning-python-5th/9781449355722/)
+- [Basics of Neural Networks, how they learn and some of the involved Mathematics(3Blue1Brown series)](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+- [Article on Beginner Level Datasets](https://medium.com/machine-learning-india/getting-started-in-data-science-beginner-level-datasets-376ffe60c6fe)
+- [Article on Life Cycle of a Data Science Project](https://medium.com/machine-learning-india/the-life-cycle-of-a-data-science-project-d614d8d233b7)
+- [Book: Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People](https://www.manning.com/books/grokking-algorithms)
+- [Book: Mathematics for Machine Learning](https://mml-book.github.io/) (with tutorials - FREE)
+- [Book: An Introduction to Statistical Learning](https://www.statlearning.com/) (- FREE)
+- [Essentials of Statistics by Monica Wahi](https://www.youtube.com/watch?v=8mxrwJcB2eI&list=PL64SCLAD3d1FlVowhKnYrY7JGuVd24HWm&ab_channel=MonikaWahi) (YouTube)
