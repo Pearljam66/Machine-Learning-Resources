@@ -241,6 +241,7 @@
 - [How to deploy machine learning model in Production (Talks)](https://www.youtube.com/watch?v=-UYyyeYJAoQ)
 
 # AI Safety
+- [Stanford Center for AI Safety](https://aisafety.stanford.edu)
 
 # ML Interviews
 - Machine Learning Interviews by Susan Shu Chang
