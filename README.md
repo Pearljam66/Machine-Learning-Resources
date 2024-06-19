@@ -112,6 +112,14 @@
 - [Programming PyTorch for Deep Learning: Creating and Deploying Deep Learning Applications (Book)](https://www.amazon.com/Programming-PyTorch-Deep-Learning-Applications/dp/1492045357/ref=sr_1_3?dchild=1&keywords=pytorch&qid=1604315349&s=books&sr=1-3)
 - [Deep Learning with PyTorch: Build, train, and tune neural networks using Python tools (Book)](https://www.amazon.com/Deep-Learning-PyTorch-Eli-Stevens/dp/1617295264/ref=sr_1_2?dchild=1&keywords=pytorch&qid=1604315349&s=books&sr=1-2)
 
+**Tensorflow & Keras:**
+- [Datacamp: Introduction to TensorFlow in Python](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python)
+- [Datacamp: Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
+- [Datacamp: Introduction to Deep Learning with Keras](https://www.datacamp.com/courses/deep-learning-with-keras-in-python)
+- [Datacamp: Advanced Deep Learning with Keras](https://www.datacamp.com/courses/advanced-deep-learning-with-keras-in-python)
+- [Deeplizard: Keras - Python Deep Learning Neural Network API](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)
+- [Udacity: Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+
 **Projects and Resources:**
 - [Andrew ng Machine Learning Course](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 - [Standford CS229: Machine Learning](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
