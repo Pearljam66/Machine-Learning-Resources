@@ -20,7 +20,7 @@
 - [Calculus full College Course](https://www.youtube.com/watch?v=HfACrKJ_Y2w)
 - [Calculus by Khan Academy](https://www.youtube.com/watch?v=EKvHQc3QEow&list=PL19E79A0638C8D449)
 
-**Probability and Statistics:**
+**Probability & Statistics:**
 - [Statistics Fundamentals by StatsQuest (must)](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
 - [Statistics by Khan Academy](https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566)
 - [Statistics by Professor Leonard](https://www.youtube.com/watch?v=9FtHB7V14Fo&list=PL5102DFDC6790F3D0)
@@ -120,7 +120,7 @@
 - [Deeplizard: Keras - Python Deep Learning Neural Network API](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)
 - [Udacity: Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
 
-**Projects and Resources:**
+**Projects & Resources:**
 - [Andrew ng Machine Learning Course](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 - [Standford CS229: Machine Learning](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 - [Deep Learning Essentials , Mila University (edx.org)](https://courses.edx.org/courses/course-v1:UMontrealX+IVADO-DL-101+1T2020/course/)
@@ -184,7 +184,7 @@
 - [C++ Programming All-in-one (beginner to advanced)](https://www.youtube.com/watch?v=_bYFu9mBnr4)
 - [Object Oriented Programming in C++](https://www.youtube.com/watch?v=AGrcyWV7hL8&list=PLrjkTql3jnm-Voi7giH4JITCi6cuZSN42&index=1)
 
-**Software design and Architecture:**
+**Software design & Architecture:**
 - [Software Design using Python](https://www.youtube.com/watch?v=FLtqAi7WNBY&list=PLzMcBGfZo4-nVu4ANTe7NuU0Ny6_oyQmV)
 - [A philosophy of Software Design (Talks)](https://www.youtube.com/watch?v=bmSAYlu0NcY)
 - [Software Design in 21st Century by Martin Flower (Talks)](https://www.youtube.com/watch?v=6wDoopbtEqk)
@@ -245,7 +245,7 @@
 # ML Interviews
 - Machine Learning Interviews by Susan Shu Chang
 
-# ML and AI Related Books
+# ML & AI Related Books
 - Quick Start Guide to Large Language Models by Sinan Ozdemir
 - Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Corville
 - The Coming Wave by Mustafa Suleyman
