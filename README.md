@@ -239,6 +239,7 @@
 - [Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps](https://www.amazon.com/Machine-Learning-Design-Patterns-Preparation/dp/1098115783/ref=sr_1_1?dchild=1&keywords=MLops&qid=1604314055&s=books&sr=1-1)
 - [MLops Community "Videos Collection"](https://www.youtube.com/watch?v=hqxQO7MoQIE&list=PL3vkEKxWd-uvXEsuCAEfQhdvDRc7X_jOx)
 - [MLOps: Machine Learning as an Engineering Discipline (Blog)](https://towardsdatascience.com/ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f)
+- [MLOps with Ray](https://www.amazon.com/MLOps-Ray-Practices-Strategies-Operations/dp/B0CZQMFYF6/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.siwLM5EpLwXJQ0vQ0qdihgF5bYwRYTMu3y1NtoS9hJdlyMueXvMBI4V0SVOa4fEAzLeHGpK8hqaIhR1KushwZg.7iPD2bpuQCMakguM4DwDUZ4ny11V4l5n3B8tRAEIAHM&qid=1718907488&sr=8-1)
 
 **Testing:**
 - [Python Testing with pytest: Simple, Rapid, Effective, and Scalable (Book)](https://www.amazon.com/Python-Testing-pytest-Effective-Scalable/dp/1680502409)
