@@ -73,12 +73,12 @@
 # Core Concepts of Machine Learning
 
 **General ML:**
-- [The cold start problem: how to break into machine learning](https://towardsdatascience.com/the-cold-start-problem-how-to-break-into-machine-learning-732ee9fedf1d) (Towardsdatascience)
-- [How to Start Learning Machine Learning?](https://www.geeksforgeeks.org/how-to-start-learning-machine-learning/) (GeekforGeeks)
-- [How to get started in machine learning - best books and sites for machine learning](https://www.youtube.com/watch?v=itzmu0l93wM) (YouTube)
-- [How you can get a world-class machine learning education for free](https://elitedatascience.com/learn-machine-learning#step-0) (Elite Data Science)
-- [Getting Started with Applied Machine Learning](https://machinelearningmastery.com/start-here/#getstarted) (Machine Learning Mastery)
-- [Get started with AI and machine learning in 3 months](https://medium.com/@gordicaleksa/get-started-with-ai-and-machine-learning-in-3-months-5236d5e0f230) (Aleksa Gordić)
+- [The cold start problem: how to break into machine learning](https://towardsdatascience.com/the-cold-start-problem-how-to-break-into-machine-learning-732ee9fedf1d)
+- [How to Start Learning Machine Learning?](https://www.geeksforgeeks.org/how-to-start-learning-machine-learning/)
+- [How to get started in machine learning - best books and sites for machine learning](https://www.youtube.com/watch?v=itzmu0l93wM)
+- [How you can get a world-class machine learning education for free](https://elitedatascience.com/learn-machine-learning#step-0)
+- [Getting Started with Applied Machine Learning](https://machinelearningmastery.com/start-here/#getstarted)
+- [Get started with AI and machine learning in 3 months](https://medium.com/@gordicaleksa/get-started-with-ai-and-machine-learning-in-3-months-5236d5e0f230)
 
 **Supervised Learning:**
 - [The Supervised Learning Workshop: A New, Interactive Approach to Understanding Supervised Learning Algorithms, 2nd Edition (Book)](https://www.amazon.com/Supervised-Learning-Workshop-Interactive-Understanding-ebook/dp/B085DQVYHH/ref=sr_1_1?dchild=1&keywords=supervised&qid=1604311395&s=books&sr=1-1)
