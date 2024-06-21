@@ -4,71 +4,15 @@
 
 ## Table of Contents
 
+- [Core Concepts of Machine Learning](#core-concepts-of-machine-learning)
 - [Mathematics & Statistics](#mathematics--statistics)
 - [Databases & Query Languages](#databases--query-languages)
-- [Core Concepts of Machine Learning](#core-concepts-of-machine-learning)
 - [Programming Skills](#programming-skills)
 - [Model Training & Tuning Techniques Plus Advanced Deep Learning Models](#model-training--tuning-techniques-plus-advanced-deep-learning-models)
 - [Deployment, Monitoring, & Maintenance](#deployment-monitoring--maintenance)
 - [AI Safety](#ai-safety)
 - [ML Interviews](#ml-interviews)
 - [ML & AI Related Books & Podcasts](#ml--ai-related-books--podcasts)
-
-# Mathematics & Statistics
-
-**Linear Algebra:**
-- [Essence of Linear Algebra by 3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-- [Mathematics for Machine Learning (Linear Algebra) (edx course)](https://www.youtube.com/watch?v=T73ldK46JqE&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
-- [Linear Algebra By Khan Academy](https://www.youtube.com/watch?v=xyAuNHPsq-g&list=PLFD0EB975BA0CC1E0)
-- [Matrices](https://www.youtube.com/watch?v=eV3NidpjfNg&list=PLEbnTDJUr_IdiveZ4bvOc1Oh2zEp7J8z6)
-- [Mathematics for Machine Learning: Linear Algebra](https://www.youtube.com/watch?v=tVQZvJwi-ec)
-- [Linear Algebra and Optimization for Machine Learning: A Textbook](https://www.amazon.com/Linear-Algebra-Optimization-Machine-Learning/dp/3030403432/ref=sr_1_9?dchild=1&keywords=machine+learning&qid=1604315007&s=books&sr=1-9)
-
-**Calculus:**
-- [Essence of Calculus By 3Blue1Brown](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
-- [Calculus Introduction](https://www.youtube.com/watch?v=rCxi-O79sVo)
-- [Calculus by Professor Leonard](https://www.youtube.com/watch?v=fYyARMqiaag&list=PLF797E961509B4EB5)
-- [Calculus full College Course](https://www.youtube.com/watch?v=HfACrKJ_Y2w)
-- [Calculus by Khan Academy](https://www.youtube.com/watch?v=EKvHQc3QEow&list=PL19E79A0638C8D449)
-
-**Probability & Statistics:**
-- [Statistics Fundamentals by StatsQuest](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
-- [Statistics by Khan Academy](https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566)
-- [Statistics by Professor Leonard](https://www.youtube.com/watch?v=9FtHB7V14Fo&list=PL5102DFDC6790F3D0)
-- [Statistics full University Course on Data Science](https://www.youtube.com/watch?v=xxpc-HPKN28)
-- [Probability by Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk&list=PLC58778F28211FA19)
-- [Probability Basics by 365 Data Science](https://www.youtube.com/watch?v=WsnBNjXP0CM&list=PLaFfQroTgZnxtnfht3BzBHVfxodX9AR9F)
-- [Bayesian Statistics Made Simple (Scipy)](https://www.youtube.com/watch?v=-X0BiV9n_fQ)
-- [Think stats (Book)](https://greenteapress.com/thinkstats/)
-- [Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/149207294X/ref=sr_1_1?dchild=1&keywords=statistics&qid=1604311077&s=books&sr=1-1)
-- [Naked Statistics](https://www.amazon.com/Naked-Statistics-Stripping-Dread-Data/dp/039334777X/ref=sr_1_2?dchild=1&keywords=statistics&qid=1604311077&s=books&sr=1-2)
-- [Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series)](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020)
-- [Pattern Recognition and Machine Learning (Information Science and Statistics) by Christopher M. Bishop (Author)](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
-- [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics)](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/ref=pd_sbs_14_3/133-6489713-5922644?_encoding=UTF8&pd_rd_i=0387848576&pd_rd_r=6e5c1ac8-1257-4cb0-965b-9c8e0b408a86&pd_rd_w=Qtqlj&pd_rd_wg=IGdFO&pf_rd_p=ff9b5089-1414-4e8f-9675-3397e98bf276&pf_rd_r=K1A7972744H1541W861Z&psc=1&refRID=K1A7972744H1541W861Z)
-- [Mathematics for Machine Learning](https://mml-book.github.io/)
-- [An Introduction to Statistical Learning](https://www.statlearning.com/)
-- [Essentials of Statistics by Monica Wahi](https://www.youtube.com/watch?v=8mxrwJcB2eI&list=PL64SCLAD3d1FlVowhKnYrY7JGuVd24HWm&ab_channel=MonikaWahi)
-
-# Databases & Query Languages
-- [Redis Crash Course](https://www.youtube.com/watch?v=Hbt56gFj998)
-- [Column vs Row Oriented Databases](https://www.youtube.com/watch?v=Vw1fCeD06YI)
-- [5 use Cases of Redis](https://www.youtube.com/watch?v=znjGckK8abw)
-- [Introduction to noSQl database](https://www.youtube.com/watch?v=xQnIN9bW0og)
-- [ Nosql vs Sql ](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
-- [Learning MYSQL](https://www.youtube.com/watch?v=a9W7OpS4LfI&list=PLyuRouwmQCjlXvBkTfGeDTq79r9_GoMt9)
-- [Udacity: Intro to relational database](https://www.udacity.com/course/intro-to-relational-databases--ud197)
-- [Udacity: Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)
-- [Datacamp: Database Design](https://www.datacamp.com/courses/database-design)
-- [Datacamp: Introduction to Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python)
-- [Datacamp: Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
-- [Datacamp: Intermediate SQL](https://www.datacamp.com/courses/intermediate-sql)
-- [Datacamp: Joining Data in PostgreSQL](https://www.datacamp.com/courses/joining-data-in-postgresql)
-- [Udacity: SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
-- [Datacamp: Exploratory Data Analysis in SQL](https://www.datacamp.com/courses/sql-for-exploratory-data-analysis)
-- [Datacamp: Applying SQL to Real-World Problems](https://www.datacamp.com/courses/applying-sql-to-real-world-problems)
-- [Datacamp: Analyzing Business Data in SQL](https://www.datacamp.com/courses/analyzing-business-data-in-sql)
-- [Datacamp: Reporting in SQL](https://www.datacamp.com/courses/reporting-in-sql)
-- [Datacamp: Data-Driven Decision Making in SQL](https://www.datacamp.com/courses/data-driven-decision-making-with-sql)
 
 # Core Concepts of Machine Learning
 
@@ -79,6 +23,9 @@
 - [How you can get a world-class machine learning education for free](https://elitedatascience.com/learn-machine-learning#step-0)
 - [Getting Started with Applied Machine Learning](https://machinelearningmastery.com/start-here/#getstarted)
 - [Get started with AI and machine learning in 3 months](https://medium.com/@gordicaleksa/get-started-with-ai-and-machine-learning-in-3-months-5236d5e0f230)
+
+**Deep Learning:**
+- [Inside Deep Learning: Math, Algorithms, Models](https://a.co/d/02Fq4g2S)
 
 **Supervised Learning:**
 - [The Supervised Learning Workshop: A New, Interactive Approach to Understanding Supervised Learning Algorithms, 2nd Edition (Book)](https://www.amazon.com/Supervised-Learning-Workshop-Interactive-Understanding-ebook/dp/B085DQVYHH/ref=sr_1_1?dchild=1&keywords=supervised&qid=1604311395&s=books&sr=1-1)
@@ -218,6 +165,62 @@
 - [Youtube: Prompt Engineering Overview](https://www.youtube.com/watch?v=dOxUroR57xs) [`1hr4m`]
 - [Youtube: Building Blocks for LLM Systems & Products: Eugene Yan](https://www.youtube.com/watch?v=LzeC1AQ-U5o)
 
+# Mathematics & Statistics
+
+**Linear Algebra:**
+- [Essence of Linear Algebra by 3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [Mathematics for Machine Learning (Linear Algebra) (edx course)](https://www.youtube.com/watch?v=T73ldK46JqE&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
+- [Linear Algebra By Khan Academy](https://www.youtube.com/watch?v=xyAuNHPsq-g&list=PLFD0EB975BA0CC1E0)
+- [Matrices](https://www.youtube.com/watch?v=eV3NidpjfNg&list=PLEbnTDJUr_IdiveZ4bvOc1Oh2zEp7J8z6)
+- [Mathematics for Machine Learning: Linear Algebra](https://www.youtube.com/watch?v=tVQZvJwi-ec)
+- [Linear Algebra and Optimization for Machine Learning: A Textbook](https://www.amazon.com/Linear-Algebra-Optimization-Machine-Learning/dp/3030403432/ref=sr_1_9?dchild=1&keywords=machine+learning&qid=1604315007&s=books&sr=1-9)
+
+**Calculus:**
+- [Essence of Calculus By 3Blue1Brown](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+- [Calculus Introduction](https://www.youtube.com/watch?v=rCxi-O79sVo)
+- [Calculus by Professor Leonard](https://www.youtube.com/watch?v=fYyARMqiaag&list=PLF797E961509B4EB5)
+- [Calculus full College Course](https://www.youtube.com/watch?v=HfACrKJ_Y2w)
+- [Calculus by Khan Academy](https://www.youtube.com/watch?v=EKvHQc3QEow&list=PL19E79A0638C8D449)
+
+**Probability & Statistics:**
+- [Statistics Fundamentals by StatsQuest](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
+- [Statistics by Khan Academy](https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566)
+- [Statistics by Professor Leonard](https://www.youtube.com/watch?v=9FtHB7V14Fo&list=PL5102DFDC6790F3D0)
+- [Statistics full University Course on Data Science](https://www.youtube.com/watch?v=xxpc-HPKN28)
+- [Probability by Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk&list=PLC58778F28211FA19)
+- [Probability Basics by 365 Data Science](https://www.youtube.com/watch?v=WsnBNjXP0CM&list=PLaFfQroTgZnxtnfht3BzBHVfxodX9AR9F)
+- [Bayesian Statistics Made Simple (Scipy)](https://www.youtube.com/watch?v=-X0BiV9n_fQ)
+- [Think stats (Book)](https://greenteapress.com/thinkstats/)
+- [Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/149207294X/ref=sr_1_1?dchild=1&keywords=statistics&qid=1604311077&s=books&sr=1-1)
+- [Naked Statistics](https://www.amazon.com/Naked-Statistics-Stripping-Dread-Data/dp/039334777X/ref=sr_1_2?dchild=1&keywords=statistics&qid=1604311077&s=books&sr=1-2)
+- [Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series)](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020)
+- [Pattern Recognition and Machine Learning (Information Science and Statistics) by Christopher M. Bishop (Author)](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
+- [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics)](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/ref=pd_sbs_14_3/133-6489713-5922644?_encoding=UTF8&pd_rd_i=0387848576&pd_rd_r=6e5c1ac8-1257-4cb0-965b-9c8e0b408a86&pd_rd_w=Qtqlj&pd_rd_wg=IGdFO&pf_rd_p=ff9b5089-1414-4e8f-9675-3397e98bf276&pf_rd_r=K1A7972744H1541W861Z&psc=1&refRID=K1A7972744H1541W861Z)
+- [Mathematics for Machine Learning](https://mml-book.github.io/)
+- [An Introduction to Statistical Learning](https://www.statlearning.com/)
+- [Essentials of Statistics by Monica Wahi](https://www.youtube.com/watch?v=8mxrwJcB2eI&list=PL64SCLAD3d1FlVowhKnYrY7JGuVd24HWm&ab_channel=MonikaWahi)
+
+# Databases & Query Languages
+- [Redis Crash Course](https://www.youtube.com/watch?v=Hbt56gFj998)
+- [Column vs Row Oriented Databases](https://www.youtube.com/watch?v=Vw1fCeD06YI)
+- [5 use Cases of Redis](https://www.youtube.com/watch?v=znjGckK8abw)
+- [Introduction to noSQl database](https://www.youtube.com/watch?v=xQnIN9bW0og)
+- [ Nosql vs Sql ](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
+- [Learning MYSQL](https://www.youtube.com/watch?v=a9W7OpS4LfI&list=PLyuRouwmQCjlXvBkTfGeDTq79r9_GoMt9)
+- [Udacity: Intro to relational database](https://www.udacity.com/course/intro-to-relational-databases--ud197)
+- [Udacity: Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)
+- [Datacamp: Database Design](https://www.datacamp.com/courses/database-design)
+- [Datacamp: Introduction to Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python)
+- [Datacamp: Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
+- [Datacamp: Intermediate SQL](https://www.datacamp.com/courses/intermediate-sql)
+- [Datacamp: Joining Data in PostgreSQL](https://www.datacamp.com/courses/joining-data-in-postgresql)
+- [Udacity: SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
+- [Datacamp: Exploratory Data Analysis in SQL](https://www.datacamp.com/courses/sql-for-exploratory-data-analysis)
+- [Datacamp: Applying SQL to Real-World Problems](https://www.datacamp.com/courses/applying-sql-to-real-world-problems)
+- [Datacamp: Analyzing Business Data in SQL](https://www.datacamp.com/courses/analyzing-business-data-in-sql)
+- [Datacamp: Reporting in SQL](https://www.datacamp.com/courses/reporting-in-sql)
+- [Datacamp: Data-Driven Decision Making in SQL](https://www.datacamp.com/courses/data-driven-decision-making-with-sql)
+
 # Programming Skills
 
 **Data Structures & Algorithms:**
@@ -234,9 +237,10 @@
 - [Book: Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People](https://www.manning.com/books/grokking-algorithms)
 
 **Python:**
-- [Book: Automate The Boring Stuff with Python](https://automatetheboringstuff.com/)
-- [Book: Python Crash Course by Erric Matthes](https://ehmatthes.github.io/pcc_2e/regular_index/)
-- [Book: Learning Python by Mark Lutz](https://www.oreilly.com/library/view/learning-python-5th/9781449355722/)
+- [Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter](https://a.co/d/0gzV89xk)
+- [Automate The Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [Python Crash Course by Erric Matthes](https://ehmatthes.github.io/pcc_2e/regular_index/)
+- [Learning Python by Mark Lutz](https://www.oreilly.com/library/view/learning-python-5th/9781449355722/)
 - [Python OOP by Corey Schafer](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
 - [Python OOP for beginners](https://www.youtube.com/watch?v=JeznW_7DlB0)
 - [OOP in python](https://www.youtube.com/watch?v=MikphENIrOo)
