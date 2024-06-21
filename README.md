@@ -22,7 +22,7 @@
 # Core Concepts of Machine Learning
 
 **General ML:**
-- [The cold start problem: how to break into machine learning](https://towardsdatascience.com/the-cold-start-problem-how-to-break-into-machine-learning-732ee9fedf1d)
+- [The cold start problem: how to break into machine learning](https://towardsdatascience.com/the-cold-start-problem-how-to-break-into-machine-learning-732ee9fedf1d) ✅
 - [How to Start Learning Machine Learning?](https://www.geeksforgeeks.org/how-to-start-learning-machine-learning/) ✅
 - [How to get started in machine learning - best books and sites for machine learning](https://www.youtube.com/watch?v=itzmu0l93wM)
 - [How you can get a world-class machine learning education for free](https://elitedatascience.com/learn-machine-learning#step-0)
