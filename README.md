@@ -183,7 +183,6 @@
 - https://github.com/fastai/numerical-linear-algebra
 - [Essence of Linear Algebra by 3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [Mathematics for Machine Learning (Linear Algebra) (edx course)](https://www.youtube.com/watch?v=T73ldK46JqE&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
-- [Linear Algebra By Khan Academy](https://www.youtube.com/watch?v=xyAuNHPsq-g&list=PLFD0EB975BA0CC1E0)
 - [Matrices](https://www.youtube.com/watch?v=eV3NidpjfNg&list=PLEbnTDJUr_IdiveZ4bvOc1Oh2zEp7J8z6)
 - [Mathematics for Machine Learning: Linear Algebra](https://www.youtube.com/watch?v=tVQZvJwi-ec)
 - [Linear Algebra and Optimization for Machine Learning: A Textbook](https://www.amazon.com/Linear-Algebra-Optimization-Machine-Learning/dp/3030403432/ref=sr_1_9?dchild=1&keywords=machine+learning&qid=1604315007&s=books&sr=1-9)
