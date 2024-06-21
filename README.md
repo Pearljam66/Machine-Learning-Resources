@@ -29,7 +29,7 @@
 - [Generative Deep Learning: Teaching Machines To Paint, Write, Compose, and Play](https://a.co/d/05eavlbG)
 
 **Supervised Learning:**
-- [The Supervised Learning Workshop: A New, Interactive Approach to Understanding Supervised Learning Algorithms, 2nd Edition (Book)](https://www.amazon.com/Supervised-Learning-Workshop-Interactive-Understanding-ebook/dp/B085DQVYHH/ref=sr_1_1?dchild=1&keywords=supervised&qid=1604311395&s=books&sr=1-1)
+- [The Supervised Learning Workshop: A New, Interactive Approach to Understanding Supervised Learning Algorithms, 2nd Edition](https://www.amazon.com/Supervised-Learning-Workshop-Interactive-Understanding-ebook/dp/B085DQVYHH/ref=sr_1_1?dchild=1&keywords=supervised&qid=1604311395&s=books&sr=1-1)
 - [The Hundred-Page Machine Learning Book (Book)](https://www.amazon.com/Hundred-Page-Machine-Learning-Book/dp/199957950X/ref=sr_1_5?crid=7FDN68KTV77B&dchild=1&keywords=supervised+learning&qid=1604311425&s=books&sprefix=supervised+%2Cstripbooks-intl-ship%2C412&sr=1-5)
 - [Supervised Learning Crash Course](https://www.youtube.com/watch?v=4qVRBYAdLAo)
 - [An Introduction to Linear Regression](https://www.youtube.com/watch?v=zPG4NjIkCjc)
@@ -274,6 +274,16 @@
 
 # Model Training & Tuning Techniques Plus Advanced Deep Learning Models
 - [Article on Life Cycle of a Data Science Project](https://medium.com/machine-learning-india/the-life-cycle-of-a-data-science-project-d614d8d233b7)
+- [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980)
+- [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167)
+- [Layer Normalization](https://arxiv.org/abs/1607.06450)
+- [Intriguing properties of neural networks](https://arxiv.org/abs/1312.6199)
+- [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860)
+- [Autoformalization with Large Language Models](https://arxiv.org/abs/2205.12615)
+- [Memorizing Transformers](https://arxiv.org/abs/2203.08913)
+- [Which Algorithmic Choices Matter at Which Batch Sizes? Insights From a Noisy Quadratic Model](https://arxiv.org/abs/1907.04164)
+- [Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer](https://arxiv.org/abs/2203.03466)
+- [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
 
 # Deployment, Monitoring, & Maintenance
 
