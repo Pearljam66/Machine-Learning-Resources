@@ -317,7 +317,7 @@
 - [Stanford Center for AI Safety](https://aisafety.stanford.edu)
 - ["The Alignment Problem: Machine Learning and Human Values" by Brian Christian](https://brianchristian.org/the-alignment-problem)
 - ["Superintelligence: Paths, Dangers, Strategies" by Nick Bostrom](https://amazon.com/Superintelligence-Paths-Dangers-Strategies-Nick-Bostrom/dp/0198739834)
-- [Concrete Problems in AI Safety)](https://arxiv.org/abs/1606.06565)
+- [Concrete Problems in AI Safety](https://arxiv.org/abs/1606.06565)
 - [AI Safety Research at OpenAI](https://openai.com/research)
 - [AI Alignment Forum](https://alignmentforum.org)
 - [AI Safety Needs Social Scientists](https://futureoflife.org/2019/04/30/ai-safety-needs-social-scientists)
