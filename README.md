@@ -45,6 +45,9 @@
 - [Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series) (Book)](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020)
 - [Pattern Recognition and Machine Learning (Information Science and Statistics) by Christopher M. Bishop (Author) (Book)](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
 - [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics) (Book)](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/ref=pd_sbs_14_3/133-6489713-5922644?_encoding=UTF8&pd_rd_i=0387848576&pd_rd_r=6e5c1ac8-1257-4cb0-965b-9c8e0b408a86&pd_rd_w=Qtqlj&pd_rd_wg=IGdFO&pf_rd_p=ff9b5089-1414-4e8f-9675-3397e98bf276&pf_rd_r=K1A7972744H1541W861Z&psc=1&refRID=K1A7972744H1541W861Z)
+- [Book: Mathematics for Machine Learning](https://mml-book.github.io/) (with tutorials - FREE)
+- [Book: An Introduction to Statistical Learning](https://www.statlearning.com/) (- FREE)
+- [Essentials of Statistics by Monica Wahi](https://www.youtube.com/watch?v=8mxrwJcB2eI&list=PL64SCLAD3d1FlVowhKnYrY7JGuVd24HWm&ab_channel=MonikaWahi) (YouTube)
 
 # Databases & Query Languages
 - [Redis Crash Course](https://www.youtube.com/watch?v=Hbt56gFj998)
@@ -219,10 +222,15 @@
 - [Graph Algorithms (edx.org)](https://www.edx.org/course/graph-algorithms)
 - [NP-Complete Problems (edx.org)](https://www.edx.org/course/np-complete-problems)
 
-**OOP Concepts:**
+**Python:**
+- [Book: Automate The Boring Stuff with Python](https://automatetheboringstuff.com/) (Till Chapter 6 for Python Basics, the remaining chapters include the applications of Python)
+- [Book: Python Crash Course by Erric Matthes](https://ehmatthes.github.io/pcc_2e/regular_index/)
+- [Book: Learning Python by Mark Lutz](https://www.oreilly.com/library/view/learning-python-5th/9781449355722/)
 - [Python OOP by Corey Schafer](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
 - [Python OOP for beginners (must)](https://www.youtube.com/watch?v=JeznW_7DlB0)
 - [OOP in python (must)](https://www.youtube.com/watch?v=MikphENIrOo)
+
+**C++:**
 - [C++ OOP by derek banas (must)](https://www.youtube.com/watch?v=ZOKLjJF54Xc)
 - [C++ Programming All-in-one (beginner to advanced)](https://www.youtube.com/watch?v=_bYFu9mBnr4)
 - [Object Oriented Programming in C++](https://www.youtube.com/watch?v=AGrcyWV7hL8&list=PLrjkTql3jnm-Voi7giH4JITCi6cuZSN42&index=1)
@@ -314,13 +322,7 @@
 - https://towardsdatascience.com/beginners-guide-to-machine-learning-with-python-b9ff35bc9c51
 - [One year of deep learning](https://www.fast.ai/2019/01/02/one-year-of-deep-learning/) (Fast.ai)
 - [Getting Started with Applied Machine Learning](https://machinelearningmastery.com/start-here/#getstarted) (Machine Learning Mastery)
-- [Book: Automate The Boring Stuff with Python](https://automatetheboringstuff.com/) (Till Chapter 6 for Python Basics, the remaining chapters include the applications of Python)
-- [Book: Python Crash Course by Erric Matthes](https://ehmatthes.github.io/pcc_2e/regular_index/)
-- [Book: Learning Python by Mark Lutz](https://www.oreilly.com/library/view/learning-python-5th/9781449355722/)
 - [Basics of Neural Networks, how they learn and some of the involved Mathematics(3Blue1Brown series)](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [Article on Beginner Level Datasets](https://medium.com/machine-learning-india/getting-started-in-data-science-beginner-level-datasets-376ffe60c6fe)
 - [Article on Life Cycle of a Data Science Project](https://medium.com/machine-learning-india/the-life-cycle-of-a-data-science-project-d614d8d233b7)
 - [Book: Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People](https://www.manning.com/books/grokking-algorithms)
-- [Book: Mathematics for Machine Learning](https://mml-book.github.io/) (with tutorials - FREE)
-- [Book: An Introduction to Statistical Learning](https://www.statlearning.com/) (- FREE)
-- [Essentials of Statistics by Monica Wahi](https://www.youtube.com/watch?v=8mxrwJcB2eI&list=PL64SCLAD3d1FlVowhKnYrY7JGuVd24HWm&ab_channel=MonikaWahi) (YouTube)
