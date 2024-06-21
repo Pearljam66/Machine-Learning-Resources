@@ -2,6 +2,10 @@
 
 > Plan to become a Machine Learning Engineer inspired by (and many links borrowed from) [ml-engineer-roadmap](https://github.com/enkaranfiles/Machine-Learning-Engineer-Roadmap)
 
+## Table of Contents
+
+- [Mathematics & Statistics](#mathematics--statistics)
+- [AI Safety](#ai-safety)
 
 # Mathematics & Statistics
 
