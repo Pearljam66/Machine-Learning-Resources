@@ -332,9 +332,9 @@
 - https://github.com/alexeygrigorev/data-science-interviews
 
 # ML & AI Related Books & Podcasts
-- Quick Start Guide to Large Language Models by Sinan Ozdemir
-- Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Corville
-- The Coming Wave by Mustafa Suleyman
-- Superintelligence: Paths, Dangers, Strategies by Nick Bostrom
+- [Quick Start Guide to Large Language Models: Strategies and Best Practices for Using ChatGPT and Other LLMs](https://a.co/d/0d3Btiqm)
+- [Deep Learning (Adaptive Computation and Machine Learning series)](https://a.co/d/06t5y3xr)
+- [The Coming Wave](https://a.co/d/08w5jQQU)
+- [Superintelligence: Paths, Dangers, Strategies](https://a.co/d/0czbkhMV)
 - [One year of deep learning](https://www.fast.ai/2019/01/02/one-year-of-deep-learning/)
 - [Aravind Srinivas: Perplexity CEO on Future of AI, Search & the Internet | Lex Fridman Podcast](https://www.youtube.com/watch?v=e-gwvmhyU7A)
