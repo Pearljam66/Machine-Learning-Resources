@@ -324,7 +324,6 @@
 - [Concrete Problems in AI Safety](https://arxiv.org/abs/1606.06565)
 - [AI Safety Research at OpenAI](https://openai.com/research)
 - [AI Alignment Forum](https://alignmentforum.org)
-- [AI Safety Needs Social Scientists](https://futureoflife.org/2019/04/30/ai-safety-needs-social-scientists)
 - [Center for Human-Compatible AI](https://humancompatible.ai)
 - [Future of Humanity Institute at Oxford University](https://fhi.ox.ac.uk)
 - [Ethics of Artificial Intelligence and Robotics](https://plato.stanford.edu/entries/ethics-ai)
