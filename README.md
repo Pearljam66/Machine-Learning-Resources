@@ -17,6 +17,7 @@
 - [AI Safety, Ethics, & Bias](#ai-safety-ethics--bias)
 - [ML Interviews](#ml-interviews)
 - [ML & AI Related Books & Podcasts](#ml--ai-related-books--podcasts)
+- [AI Conferences & Competitions](#ai-conferences--competitions)
 
 # Core Concepts of Machine Learning
 
@@ -358,3 +359,9 @@
 - [Aravind Srinivas: Perplexity CEO on Future of AI, Search & the Internet | Lex Fridman Podcast](https://www.youtube.com/watch?v=e-gwvmhyU7A)
 - [Becoming a Data Head: How to Think, Speak, and Understand Data Science, Statistics, and Machine Learning](https://a.co/d/08OHdpNh)
 - [Everything Is Predictable: How Bayesian Statistics Explain Our World](https://a.co/d/0fvOBZ6q)
+
+# AI Conferences & Competitions
+- [ICML (International Conference on Machine Learning)](https://icml.cc)
+- [Association for the Advancement of Artificial Intelligence (AAAI)](https://aaai.org)
+- [Kaggle](https://www.kaggle.com)
+- [Codalab](https://codalab.org)
