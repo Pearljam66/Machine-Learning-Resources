@@ -12,7 +12,7 @@
 - [Deployment, Monitoring, & Maintenance](#deployment-monitoring--maintenance)
 - [AI Safety](#ai-safety)
 - [ML Interviews](#ml-interviews)
-- [ML & AI Related Books/Further Reading](#ml--ai-related-booksfurther-reading)
+- # ML & AI Related Books & Podcasts](#ml--ai-related-books--podcasts)
 
 # Mathematics & Statistics
 
@@ -72,6 +72,14 @@
 
 # Core Concepts of Machine Learning
 
+**General ML:**
+- [The cold start problem: how to break into machine learning](https://towardsdatascience.com/the-cold-start-problem-how-to-break-into-machine-learning-732ee9fedf1d) (Towardsdatascience)
+- [How to Start Learning Machine Learning?](https://www.geeksforgeeks.org/how-to-start-learning-machine-learning/) (GeekforGeeks)
+- [How to get started in machine learning - best books and sites for machine learning](https://www.youtube.com/watch?v=itzmu0l93wM) (YouTube)
+- [How you can get a world-class machine learning education for free](https://elitedatascience.com/learn-machine-learning#step-0) (Elite Data Science)
+- [Getting Started with Applied Machine Learning](https://machinelearningmastery.com/start-here/#getstarted) (Machine Learning Mastery)
+- [Get started with AI and machine learning in 3 months](https://medium.com/@gordicaleksa/get-started-with-ai-and-machine-learning-in-3-months-5236d5e0f230) (Aleksa Gordić)
+
 **Supervised Learning:**
 - [The Supervised Learning Workshop: A New, Interactive Approach to Understanding Supervised Learning Algorithms, 2nd Edition (Book)](https://www.amazon.com/Supervised-Learning-Workshop-Interactive-Understanding-ebook/dp/B085DQVYHH/ref=sr_1_1?dchild=1&keywords=supervised&qid=1604311395&s=books&sr=1-1)
 - [The Hundred-Page Machine Learning Book (Book)](https://www.amazon.com/Hundred-Page-Machine-Learning-Book/dp/199957950X/ref=sr_1_5?crid=7FDN68KTV77B&dchild=1&keywords=supervised+learning&qid=1604311425&s=books&sprefix=supervised+%2Cstripbooks-intl-ship%2C412&sr=1-5)
@@ -113,6 +121,7 @@
 - [Neural Networks and Deep Learning: A Textbook (Book)](https://www.amazon.com/Neural-Networks-Deep-Learning-Textbook/dp/3319944622/ref=sr_1_2?dchild=1&keywords=neural+networks&qid=1604313724&s=books&sr=1-2)
 - [Deep Learning (Adaptive Computation and Machine Learning series) (Book)](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_1?dchild=1&keywords=deep+learning&qid=1604313764&s=books&sr=1-1)
 - [Neural Network Full Course | Neural Network Tutorial For Beginners | Neural Networks](https://www.youtube.com/watch?v=ob1yS9g-Zcs)
+- [Basics of Neural Networks, how they learn and some of the involved Mathematics(3Blue1Brown series)](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
 **Pytorch:**
 - [Pytorch Complete Beginner Course (must)](https://www.youtube.com/watch?v=EMXfZB8FVUA&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)
@@ -166,6 +175,7 @@
 **Datasets:**
 - [AWESOME PUBLIC DATASETS](https://github.com/awesomedata/awesome-public-datasets)
 - [70+ machine Learning Datasets](https://data-flair.training/blogs/machine-learning-datasets/)
+- [Article on Beginner Level Datasets](https://medium.com/machine-learning-india/getting-started-in-data-science-beginner-level-datasets-376ffe60c6fe)
 
 **Natural Language Processing:**
 - [Book: Natural Language Processing with Transformers](https://transformersbook.com/)
@@ -221,6 +231,7 @@
 - [Algorithmic Design and Techniques (edx.org)](https://www.edx.org/course/algorithmic-design-and-techniques)
 - [Graph Algorithms (edx.org)](https://www.edx.org/course/graph-algorithms)
 - [NP-Complete Problems (edx.org)](https://www.edx.org/course/np-complete-problems)
+- [Book: Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People](https://www.manning.com/books/grokking-algorithms)
 
 **Python:**
 - [Book: Automate The Boring Stuff with Python](https://automatetheboringstuff.com/) (Till Chapter 6 for Python Basics, the remaining chapters include the applications of Python)
@@ -229,6 +240,7 @@
 - [Python OOP by Corey Schafer](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
 - [Python OOP for beginners (must)](https://www.youtube.com/watch?v=JeznW_7DlB0)
 - [OOP in python (must)](https://www.youtube.com/watch?v=MikphENIrOo)
+- https://towardsdatascience.com/beginners-guide-to-machine-learning-with-python-b9ff35bc9c51
 
 **C++:**
 - [C++ OOP by derek banas (must)](https://www.youtube.com/watch?v=ZOKLjJF54Xc)
@@ -249,6 +261,7 @@
 - [Advanced Python Programming](https://www.youtube.com/watch?v=9VFc55nlVx8&list=PLL2hlSFBmWwyJ9dh3Rrr1sw8l4e4SLMx1&index=1)
 
 # Model Training & Tuning Techniques Plus Advanced Deep Learning Models
+- [Article on Life Cycle of a Data Science Project](https://medium.com/machine-learning-india/the-life-cycle-of-a-data-science-project-d614d8d233b7)
 
 # Deployment, Monitoring, & Maintenance
 
@@ -309,20 +322,9 @@
 - Machine Learning Interviews by Susan Shu Chang
 - https://github.com/alexeygrigorev/data-science-interviews
 
-# ML & AI Related Books/Further Reading
+# ML & AI Related Books & Podcasts
 - Quick Start Guide to Large Language Models by Sinan Ozdemir
 - Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Corville
 - The Coming Wave by Mustafa Suleyman
 - Superintelligence: Paths, Dangers, Strategies by Nick Bostrom
-- [The cold start problem: how to break into machine learning](https://towardsdatascience.com/the-cold-start-problem-how-to-break-into-machine-learning-732ee9fedf1d) (Towardsdatascience)
-- [How to Start Learning Machine Learning?](https://www.geeksforgeeks.org/how-to-start-learning-machine-learning/) (GeekforGeeks)
-- [How to get started in machine learning - best books and sites for machine learning](https://www.youtube.com/watch?v=itzmu0l93wM) (YouTube)
-- [How you can get a world-class machine learning education for free](https://elitedatascience.com/learn-machine-learning#step-0) (Elite Data Science)
-- [Get started with AI and machine learning in 3 months](https://medium.com/@gordicaleksa/get-started-with-ai-and-machine-learning-in-3-months-5236d5e0f230) (Aleksa Gordić)
-- https://towardsdatascience.com/beginners-guide-to-machine-learning-with-python-b9ff35bc9c51
 - [One year of deep learning](https://www.fast.ai/2019/01/02/one-year-of-deep-learning/) (Fast.ai)
-- [Getting Started with Applied Machine Learning](https://machinelearningmastery.com/start-here/#getstarted) (Machine Learning Mastery)
-- [Basics of Neural Networks, how they learn and some of the involved Mathematics(3Blue1Brown series)](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
-- [Article on Beginner Level Datasets](https://medium.com/machine-learning-india/getting-started-in-data-science-beginner-level-datasets-376ffe60c6fe)
-- [Article on Life Cycle of a Data Science Project](https://medium.com/machine-learning-india/the-life-cycle-of-a-data-science-project-d614d8d233b7)
-- [Book: Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People](https://www.manning.com/books/grokking-algorithms)
