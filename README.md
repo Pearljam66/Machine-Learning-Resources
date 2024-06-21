@@ -26,6 +26,7 @@
 
 **Deep Learning:**
 - [Inside Deep Learning: Math, Algorithms, Models](https://a.co/d/02Fq4g2S)
+- [Generative Deep Learning: Teaching Machines To Paint, Write, Compose, and Play](https://a.co/d/05eavlbG)
 
 **Supervised Learning:**
 - [The Supervised Learning Workshop: A New, Interactive Approach to Understanding Supervised Learning Algorithms, 2nd Edition (Book)](https://www.amazon.com/Supervised-Learning-Workshop-Interactive-Understanding-ebook/dp/B085DQVYHH/ref=sr_1_1?dchild=1&keywords=supervised&qid=1604311395&s=books&sr=1-1)
@@ -282,7 +283,7 @@
 - [Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps](https://www.amazon.com/Machine-Learning-Design-Patterns-Preparation/dp/1098115783/ref=sr_1_1?dchild=1&keywords=MLops&qid=1604314055&s=books&sr=1-1)
 - [MLops Community "Videos Collection"](https://www.youtube.com/watch?v=hqxQO7MoQIE&list=PL3vkEKxWd-uvXEsuCAEfQhdvDRc7X_jOx)
 - [MLOps: Machine Learning as an Engineering Discipline](https://towardsdatascience.com/ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f)
-- [MLOps with Ray](https://www.amazon.com/MLOps-Ray-Practices-Strategies-Operations/dp/B0CZQMFYF6/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.siwLM5EpLwXJQ0vQ0qdihgF5bYwRYTMu3y1NtoS9hJdlyMueXvMBI4V0SVOa4fEAzLeHGpK8hqaIhR1KushwZg.7iPD2bpuQCMakguM4DwDUZ4ny11V4l5n3B8tRAEIAHM&qid=1718907488&sr=8-1)
+- [MLOps with Ray](https://a.co/d/0e4j5ycK)
 
 **Testing:**
 - [Python Testing with pytest: Simple, Rapid, Effective, and Scalable](https://www.amazon.com/Python-Testing-pytest-Effective-Scalable/dp/1680502409)
@@ -341,3 +342,5 @@
 - [Superintelligence: Paths, Dangers, Strategies](https://a.co/d/0czbkhMV)
 - [One year of deep learning](https://www.fast.ai/2019/01/02/one-year-of-deep-learning/)
 - [Aravind Srinivas: Perplexity CEO on Future of AI, Search & the Internet | Lex Fridman Podcast](https://www.youtube.com/watch?v=e-gwvmhyU7A)
+- [Becoming a Data Head: How to Think, Speak, and Understand Data Science, Statistics, and Machine Learning](https://a.co/d/08OHdpNh)
+- [Everything Is Predictable: How Bayesian Statistics Explain Our World](https://a.co/d/0fvOBZ6q)
