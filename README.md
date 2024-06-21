@@ -53,7 +53,8 @@
 - [Python Pandas by Derek Banas](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
 
 **Sklearn:**
-- [Data science From scratch using Python (Book)](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/1492041130/ref=sr_1_13?dchild=1&keywords=sklearn&qid=1604312823&s=books&sr=1-13)
+- [Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python](https://a.co/d/03kjoWyM)
+- [Data science From scratch using Python](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/1492041130/ref=sr_1_13?dchild=1&keywords=sklearn&qid=1604312823&s=books&sr=1-13)
 - [Scikit-Learn Course - Machine Learning in Python Tutorial](https://www.youtube.com/watch?v=pqNCD_5r0IU)
 - [Real-World Python Machine Learning Tutorial w/ Scikit Learn (sklearn basics, NLP, classifiers, etc)](https://www.youtube.com/watch?v=M9Itm95JzL0)
 - [Machine Learning with Scikit-Learn, Part 1 | SciPy 2018 Tutorial | Lemaitre and Grisel](https://www.youtube.com/watch?v=4PXAztQtoTg)
@@ -85,6 +86,7 @@
 - [PyTorch internals](https://blog.ezyang.com/2019/05/pytorch-internals/)
 
 **Tensorflow & Keras:**
+- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://a.co/d/04EULzBl)
 - [Datacamp: Introduction to TensorFlow in Python](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python)
 - [Datacamp: Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
 - [Datacamp: Introduction to Deep Learning with Keras](https://www.datacamp.com/courses/deep-learning-with-keras-in-python)
