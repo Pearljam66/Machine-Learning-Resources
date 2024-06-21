@@ -318,6 +318,7 @@
 - [How to deploy machine learning model in Production](https://www.youtube.com/watch?v=-UYyyeYJAoQ)
 
 # AI Safety
+- [Center for AI Safety](https://www.safe.ai)
 - [Stanford Center for AI Safety](https://aisafety.stanford.edu)
 - ["The Alignment Problem: Machine Learning and Human Values" by Brian Christian](https://brianchristian.org/the-alignment-problem)
 - ["Superintelligence: Paths, Dangers, Strategies" by Nick Bostrom](https://amazon.com/Superintelligence-Paths-Dangers-Strategies-Nick-Bostrom/dp/0198739834)
