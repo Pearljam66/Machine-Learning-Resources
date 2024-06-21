@@ -317,6 +317,7 @@
 - [Future of Humanity Institute at Oxford University](https://fhi.ox.ac.uk)
 - ["Ethics of Artificial Intelligence and Robotics"](https://plato.stanford.edu/entries/ethics-ai)
 - [Machine Intelligence Research Institute (MIRI)](https://intelligence.org)
+- [Roman Yampolskiy: Dangers of Superintelligent AI | Lex Fridman Podcast](https://www.youtube.com/watch?v=NNr6gPelJ3E)
 
 # ML Interviews
 - Machine Learning Interviews by Susan Shu Chang
@@ -328,4 +329,4 @@
 - The Coming Wave by Mustafa Suleyman
 - Superintelligence: Paths, Dangers, Strategies by Nick Bostrom
 - [One year of deep learning](https://www.fast.ai/2019/01/02/one-year-of-deep-learning/) (Fast.ai)
-- [Lex Fridman: Aravind Srinivas: Perplexity CEO on Future of AI, Search & the Internet](https://www.youtube.com/watch?v=e-gwvmhyU7A)
+- [Aravind Srinivas: Perplexity CEO on Future of AI, Search & the Internet | Lex Fridman Podcast](https://www.youtube.com/watch?v=e-gwvmhyU7A)
