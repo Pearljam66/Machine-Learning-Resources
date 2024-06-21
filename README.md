@@ -1,6 +1,6 @@
-# Machine Learning Plan 2024 - 2025
+# Machine Learning Resources
 
-> Plan to become a Machine Learning Engineer inspired by (and many links borrowed from) [ml-engineer-roadmap](https://github.com/enkaranfiles/Machine-Learning-Engineer-Roadmap)
+> Resources needed to become a Machine Learning Engineer inspired by (and many links borrowed from) [ml-engineer-roadmap](https://github.com/enkaranfiles/Machine-Learning-Engineer-Roadmap)
 
 ## Table of Contents
 
