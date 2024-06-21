@@ -251,6 +251,7 @@
 - [Python OOP for beginners](https://www.youtube.com/watch?v=JeznW_7DlB0)
 - [OOP in python](https://www.youtube.com/watch?v=MikphENIrOo)
 - https://towardsdatascience.com/beginners-guide-to-machine-learning-with-python-b9ff35bc9c51
+- [Advanced Python Programming](https://www.youtube.com/watch?v=9VFc55nlVx8&list=PLL2hlSFBmWwyJ9dh3Rrr1sw8l4e4SLMx1&index=1)
 
 **C++:**
 - [C++ OOP by derek banas](https://www.youtube.com/watch?v=ZOKLjJF54Xc)
@@ -258,6 +259,7 @@
 - [Object Oriented Programming in C++](https://www.youtube.com/watch?v=AGrcyWV7hL8&list=PLrjkTql3jnm-Voi7giH4JITCi6cuZSN42&index=1)
 
 **Software design & Architecture:**
+- [Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications](https://a.co/d/0iO9WJJB)
 - [Software Design using Python](https://www.youtube.com/watch?v=FLtqAi7WNBY&list=PLzMcBGfZo4-nVu4ANTe7NuU0Ny6_oyQmV)
 - [A philosophy of Software Design](https://www.youtube.com/watch?v=bmSAYlu0NcY)
 - [Software Design in 21st Century by Martin Flower](https://www.youtube.com/watch?v=6wDoopbtEqk)
@@ -268,7 +270,6 @@
 - [Design Patterns in Object Oriented Programming](https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
 - [Design Patterns in Python](https://www.youtube.com/watch?v=bsyjSW46TDg&t=966s)
 - [Design Patterns in Python](https://www.youtube.com/watch?v=3GoiinBUwCU&list=PL1WVjBsN-_NK13Vf2UqdLZtukQ23TxeSx&index=7)
-- [Advanced Python Programming](https://www.youtube.com/watch?v=9VFc55nlVx8&list=PLL2hlSFBmWwyJ9dh3Rrr1sw8l4e4SLMx1&index=1)
 
 # Model Training & Tuning Techniques Plus Advanced Deep Learning Models
 - [Article on Life Cycle of a Data Science Project](https://medium.com/machine-learning-india/the-life-cycle-of-a-data-science-project-d614d8d233b7)
