@@ -1,4 +1,4 @@
-# Machine Learning Resources
+# Comprehensive List of Machine Learning Resources
 
 > Resources needed to become a Machine Learning Engineer which were inspired by (and many links borrowed from) [ml-engineer-roadmap](https://github.com/enkaranfiles/Machine-Learning-Engineer-Roadmap)
 
