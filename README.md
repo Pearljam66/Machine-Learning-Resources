@@ -32,6 +32,7 @@
 **Deep Learning:**
 - [Inside Deep Learning: Math, Algorithms, Models](https://a.co/d/02Fq4g2S) 📚
 - [Generative Deep Learning: Teaching Machines To Paint, Write, Compose, and Play](https://a.co/d/05eavlbG)
+- [Practical Deep Learning for Coders](https://course.fast.ai)
 
 **Supervised Learning:**
 - [The Supervised Learning Workshop: A New, Interactive Approach to Understanding Supervised Learning Algorithms, 2nd Edition](https://www.amazon.com/Supervised-Learning-Workshop-Interactive-Understanding-ebook/dp/B085DQVYHH/ref=sr_1_1?dchild=1&keywords=supervised&qid=1604311395&s=books&sr=1-1)
