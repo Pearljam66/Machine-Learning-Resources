@@ -14,7 +14,7 @@
 - [Programming Skills](#programming-skills)
 - [Model Training & Tuning Techniques Plus Advanced Deep Learning Models](#model-training--tuning-techniques-plus-advanced-deep-learning-models)
 - [Deployment, Monitoring, & Maintenance](#deployment-monitoring--maintenance)
-- [AI Safety](#ai-safety-ethics--bias)
+- [AI Safety, Ethics, & Bias](#ai-safety-ethics--bias)
 - [ML Interviews](#ml-interviews)
 - [ML & AI Related Books & Podcasts](#ml--ai-related-books--podcasts)
 
