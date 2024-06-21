@@ -328,3 +328,4 @@
 - The Coming Wave by Mustafa Suleyman
 - Superintelligence: Paths, Dangers, Strategies by Nick Bostrom
 - [One year of deep learning](https://www.fast.ai/2019/01/02/one-year-of-deep-learning/) (Fast.ai)
+- [Lex Fridman: Aravind Srinivas: Perplexity CEO on Future of AI, Search & the Internet](https://www.youtube.com/watch?v=e-gwvmhyU7A)
