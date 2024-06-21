@@ -2,6 +2,10 @@
 
 > Resources needed to become a Machine Learning Engineer which were inspired by (and many links borrowed from) [ml-engineer-roadmap](https://github.com/enkaranfiles/Machine-Learning-Engineer-Roadmap)
 
+### Icon Key:
+- ✅ Completed Task
+- 📚 Currently own the book
+
 ## Table of Contents
 
 - [Core Concepts of Machine Learning](#core-concepts-of-machine-learning)
@@ -10,7 +14,7 @@
 - [Programming Skills](#programming-skills)
 - [Model Training & Tuning Techniques Plus Advanced Deep Learning Models](#model-training--tuning-techniques-plus-advanced-deep-learning-models)
 - [Deployment, Monitoring, & Maintenance](#deployment-monitoring--maintenance)
-- [AI Safety](#ai-safety)
+- [AI Safety](#ai-safety-ethics--bias)
 - [ML Interviews](#ml-interviews)
 - [ML & AI Related Books & Podcasts](#ml--ai-related-books--podcasts)
 
@@ -18,14 +22,14 @@
 
 **General ML:**
 - [The cold start problem: how to break into machine learning](https://towardsdatascience.com/the-cold-start-problem-how-to-break-into-machine-learning-732ee9fedf1d)
-- [How to Start Learning Machine Learning?](https://www.geeksforgeeks.org/how-to-start-learning-machine-learning/)
+- [How to Start Learning Machine Learning?](https://www.geeksforgeeks.org/how-to-start-learning-machine-learning/) ✅
 - [How to get started in machine learning - best books and sites for machine learning](https://www.youtube.com/watch?v=itzmu0l93wM)
 - [How you can get a world-class machine learning education for free](https://elitedatascience.com/learn-machine-learning#step-0)
 - [Getting Started with Applied Machine Learning](https://machinelearningmastery.com/start-here/#getstarted)
 - [Get started with AI and machine learning in 3 months](https://medium.com/@gordicaleksa/get-started-with-ai-and-machine-learning-in-3-months-5236d5e0f230)
 
 **Deep Learning:**
-- [Inside Deep Learning: Math, Algorithms, Models](https://a.co/d/02Fq4g2S)
+- [Inside Deep Learning: Math, Algorithms, Models](https://a.co/d/02Fq4g2S) 📚
 - [Generative Deep Learning: Teaching Machines To Paint, Write, Compose, and Play](https://a.co/d/05eavlbG)
 
 **Supervised Learning:**
@@ -54,7 +58,7 @@
 - [Python Pandas by Derek Banas](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
 
 **Sklearn:**
-- [Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python](https://a.co/d/03kjoWyM)
+- [Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python](https://a.co/d/03kjoWyM) 📚
 - [Data science From scratch using Python](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/1492041130/ref=sr_1_13?dchild=1&keywords=sklearn&qid=1604312823&s=books&sr=1-13)
 - [Scikit-Learn Course - Machine Learning in Python Tutorial](https://www.youtube.com/watch?v=pqNCD_5r0IU)
 - [Real-World Python Machine Learning Tutorial w/ Scikit Learn (sklearn basics, NLP, classifiers, etc)](https://www.youtube.com/watch?v=M9Itm95JzL0)
@@ -94,7 +98,7 @@
 - [Datacamp: Advanced Deep Learning with Keras](https://www.datacamp.com/courses/advanced-deep-learning-with-keras-in-python)
 - [Deeplizard: Keras - Python Deep Learning Neural Network API](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)
 - [Udacity: Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
-- [Deep Learning with Swift for TensorFlow](https://a.co/d/0bcGgzme)
+- [Deep Learning with Swift for TensorFlow](https://a.co/d/0bcGgzme) 📚
 
 **Projects & Resources:**
 - [Andrew ng Machine Learning Course](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
@@ -172,7 +176,7 @@
 # Mathematics & Statistics
 
 **Basics:**
-- [Essential Math for Data Science: Take Control of Your Data with Fundamental Linear Algebra, Probability, and Statistics](https://a.co/d/0fqGWArP)
+- [Essential Math for Data Science: Take Control of Your Data with Fundamental Linear Algebra, Probability, and Statistics](https://a.co/d/0fqGWArP) 📚
 
 **Linear Algebra:**
 - [Essence of Linear Algebra by 3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
@@ -244,7 +248,7 @@
 - [Book: Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People](https://www.manning.com/books/grokking-algorithms)
 
 **Python:**
-- [Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter](https://a.co/d/0gzV89xk)
+- [Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter](https://a.co/d/0gzV89xk) 📚
 - [Automate The Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [Python Crash Course by Erric Matthes](https://ehmatthes.github.io/pcc_2e/regular_index/)
 - [Learning Python by Mark Lutz](https://www.oreilly.com/library/view/learning-python-5th/9781449355722/)
@@ -327,7 +331,7 @@
 - [Deploy machine learning model using Flask](https://www.youtube.com/watch?v=UbCWoMf80PY)
 - [How to deploy machine learning model in Production](https://www.youtube.com/watch?v=-UYyyeYJAoQ)
 
-# AI Safety
+# AI Safety, Ethics, & Bias
 - [Center for AI Safety](https://www.safe.ai)
 - [Stanford Center for AI Safety](https://aisafety.stanford.edu)
 - ["The Alignment Problem: Machine Learning and Human Values" by Brian Christian](https://brianchristian.org/the-alignment-problem)
@@ -342,13 +346,13 @@
 - [Roman Yampolskiy: Dangers of Superintelligent AI | Lex Fridman Podcast](https://www.youtube.com/watch?v=NNr6gPelJ3E)
 
 # ML Interviews
-- [Machine Learning Interviews by Susan Shu Chang](https://a.co/d/09J99BH3)
+- [Machine Learning Interviews by Susan Shu Chang](https://a.co/d/09J99BH3) 📚
 - https://github.com/alexeygrigorev/data-science-interviews
 
 # ML & AI Related Books & Podcasts
-- [Quick Start Guide to Large Language Models: Strategies and Best Practices for Using ChatGPT and Other LLMs](https://a.co/d/0d3Btiqm)
-- [Deep Learning (Adaptive Computation and Machine Learning series)](https://a.co/d/06t5y3xr)
-- [The Coming Wave](https://a.co/d/08w5jQQU)
+- [Quick Start Guide to Large Language Models: Strategies and Best Practices for Using ChatGPT and Other LLMs](https://a.co/d/0d3Btiqm) 📚
+- [Deep Learning (Adaptive Computation and Machine Learning series)](https://a.co/d/06t5y3xr) 📚
+- [The Coming Wave](https://a.co/d/08w5jQQU) 📚
 - [Superintelligence: Paths, Dangers, Strategies](https://a.co/d/0czbkhMV)
 - [One year of deep learning](https://www.fast.ai/2019/01/02/one-year-of-deep-learning/)
 - [Aravind Srinivas: Perplexity CEO on Future of AI, Search & the Internet | Lex Fridman Podcast](https://www.youtube.com/watch?v=e-gwvmhyU7A)
