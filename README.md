@@ -12,7 +12,7 @@
 - [Deployment, Monitoring, & Maintenance](#deployment-monitoring--maintenance)
 - [AI Safety](#ai-safety)
 - [ML Interviews](#ml-interviews)
-- # ML & AI Related Books & Podcasts](#ml--ai-related-books--podcasts)
+- [ML & AI Related Books & Podcasts](#ml--ai-related-books--podcasts)
 
 # Mathematics & Statistics
 
