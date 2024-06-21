@@ -8,7 +8,7 @@
 - [Databases & Query Languages](#databases--query-languages)
 - [Core Concepts of Machine Learning](#core-concepts-of-machine-learning)
 - [Programming Skills](#programming-skills)
-- [Model Training & Tuning Techniques Plus Advanced Deep Learning Models](#model-traning--tuning-techniques-plus-advanced-deep-learning-models)
+- [Model Training & Tuning Techniques Plus Advanced Deep Learning Models](#model-training--tuning-techniques-plus-advanced-deep-learning-models)
 - [Deployment, Monitoring, & Maintenance](#deployment-monitoring--maintenance)
 - [AI Safety](#ai-safety)
 - [ML Interviews](#ml-interviews)
