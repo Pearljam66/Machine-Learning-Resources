@@ -9,6 +9,7 @@
 ## Table of Contents
 
 - [Core Concepts of Machine Learning](#core-concepts-of-machine-learning)
+ <details><summary><h2>Core Concepts of Machine Learning</h2></summary>
 - [Mathematics & Statistics](#mathematics--statistics)
 - [Databases & Query Languages](#databases--query-languages)
 - [Programming Skills](#programming-skills)
