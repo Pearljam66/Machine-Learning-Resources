@@ -27,6 +27,7 @@
 - [How you can get a world-class machine learning education for free](https://elitedatascience.com/learn-machine-learning#step-0) ✅
 - [Getting Started with Applied Machine Learning](https://machinelearningmastery.com/start-here/#getstarted)
 - [Get started with AI and machine learning in 3 months](https://medium.com/@gordicaleksa/get-started-with-ai-and-machine-learning-in-3-months-5236d5e0f230)
+- [HarvardX: Data Science: Machine Learning](https://www.edx.org/learn/machine-learning/harvard-university-data-science-machine-learning)
 
 **Deep Learning:**
 - [Inside Deep Learning: Math, Algorithms, Models](https://a.co/d/02Fq4g2S) 📚
