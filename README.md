@@ -34,6 +34,18 @@
 - [Generative Deep Learning: Teaching Machines To Paint, Write, Compose, and Play](https://a.co/d/05eavlbG)
 - [Practical Deep Learning for Coders](https://course.fast.ai)
 
+**The Big Picture:**
+
+**Data Preprocessing:**
+
+**Optimization:**
+
+**Model Evaluation:**
+
+**Sampling & Splitting:**
+
+**Ensemable Learning:**
+
 **Supervised Learning:**
 - [The Supervised Learning Workshop: A New, Interactive Approach to Understanding Supervised Learning Algorithms, 2nd Edition](https://www.amazon.com/Supervised-Learning-Workshop-Interactive-Understanding-ebook/dp/B085DQVYHH/ref=sr_1_1?dchild=1&keywords=supervised&qid=1604311395&s=books&sr=1-1)
 - [The Hundred-Page Machine Learning Book (Book)](https://www.amazon.com/Hundred-Page-Machine-Learning-Book/dp/199957950X/ref=sr_1_5?crid=7FDN68KTV77B&dchild=1&keywords=supervised+learning&qid=1604311425&s=books&sprefix=supervised+%2Cstripbooks-intl-ship%2C412&sr=1-5)
