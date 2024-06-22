@@ -44,7 +44,7 @@
 
 **Sampling & Splitting:**
 
-**Ensemable Learning:**
+**Ensemble Learning:**
 
 **Supervised Learning:**
 - [The Supervised Learning Workshop: A New, Interactive Approach to Understanding Supervised Learning Algorithms, 2nd Edition](https://www.amazon.com/Supervised-Learning-Workshop-Interactive-Understanding-ebook/dp/B085DQVYHH/ref=sr_1_1?dchild=1&keywords=supervised&qid=1604311395&s=books&sr=1-1)
