@@ -8,7 +8,7 @@
 - 📚 Own the book
 
 <details>
-<summary><h2>Core Concepts of Machine Learning</h2></summary>
+<summary><h2>Core Concepts of Machine Learning 👩🏼‍💻</h2></summary>
 
 ### Fundamentals
 - **General ML**
