@@ -6,21 +6,7 @@
 - ✅ Completed Task
 - 📚 Currently own the book
 
-## Table of Contents
-
-- [Core Concepts of Machine Learning](#core-concepts-of-machine-learning)
- <details><summary><h2>Core Concepts of Machine Learning</h2></summary>
-- [Mathematics & Statistics](#mathematics--statistics)
-- [Databases & Query Languages](#databases--query-languages)
-- [Programming Skills](#programming-skills)
-- [Model Training & Tuning Techniques Plus Advanced Deep Learning Models](#model-training--tuning-techniques-plus-advanced-deep-learning-models)
-- [Deployment, Monitoring, & Maintenance](#deployment-monitoring--maintenance)
-- [AI Safety, Ethics, & Bias](#ai-safety-ethics--bias)
-- [ML Interviews](#ml-interviews)
-- [ML & AI Related Books & Podcasts](#ml--ai-related-books--podcasts)
-- [AI Conferences & Competitions](#ai-conferences--competitions)
-
-# Core Concepts of Machine Learning
+<details><summary><h2>Core Concepts of Machine Learning</h2></summary>
 
 **General ML:**
 - [The cold start problem: how to break into machine learning](https://towardsdatascience.com/the-cold-start-problem-how-to-break-into-machine-learning-732ee9fedf1d) ✅
@@ -188,7 +174,7 @@
 - [Youtube: Prompt Engineering Overview](https://www.youtube.com/watch?v=dOxUroR57xs)
 - [Youtube: Building Blocks for LLM Systems & Products: Eugene Yan](https://www.youtube.com/watch?v=LzeC1AQ-U5o)
 
-# Mathematics & Statistics
+</details><details><summary><h2>Mathematics & Statistics</h2></summary>
 
 **Basics:**
 - [Essential Math for Data Science: Take Control of Your Data with Fundamental Linear Algebra, Probability, and Statistics](https://a.co/d/0fqGWArP) 📚
@@ -226,7 +212,8 @@
 - [An Introduction to Statistical Learning](https://www.statlearning.com/)
 - [Essentials of Statistics by Monica Wahi](https://www.youtube.com/watch?v=8mxrwJcB2eI&list=PL64SCLAD3d1FlVowhKnYrY7JGuVd24HWm&ab_channel=MonikaWahi)
 
-# Databases & Query Languages
+</details><details><summary><h2>Databases & Query Languages</h2></summary>
+
 - [Redis Crash Course](https://www.youtube.com/watch?v=Hbt56gFj998)
 - [Column vs Row Oriented Databases](https://www.youtube.com/watch?v=Vw1fCeD06YI)
 - [5 use Cases of Redis](https://www.youtube.com/watch?v=znjGckK8abw)
@@ -247,7 +234,7 @@
 - [Datacamp: Reporting in SQL](https://www.datacamp.com/courses/reporting-in-sql)
 - [Datacamp: Data-Driven Decision Making in SQL](https://www.datacamp.com/courses/data-driven-decision-making-with-sql)
 
-# Programming Skills
+</details><details><summary><h2>Programming Skills</h2></summary>
 
 **Data Structures & Algorithms:**
 - [Algorithms by Abdul Bari](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
@@ -291,7 +278,8 @@
 - [Design Patterns in Python](https://www.youtube.com/watch?v=bsyjSW46TDg&t=966s)
 - [Design Patterns in Python](https://www.youtube.com/watch?v=3GoiinBUwCU&list=PL1WVjBsN-_NK13Vf2UqdLZtukQ23TxeSx&index=7)
 
-# Model Training & Tuning Techniques Plus Advanced Deep Learning Models
+</details><details><summary><h2>Model Training & Tuning Techniques Plus Advanced Deep Learning Models</h2></summary>
+
 - [Article on Life Cycle of a Data Science Project](https://medium.com/machine-learning-india/the-life-cycle-of-a-data-science-project-d614d8d233b7)
 - [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980)
 - [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167)
@@ -304,7 +292,7 @@
 - [Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer](https://arxiv.org/abs/2203.03466)
 - [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
 
-# Deployment, Monitoring, & Maintenance
+</details><details><summary><h2>Deployment, Monitoring, & Maintenance</h2></summary>
 
 **MLOps:**
 - [What are MLOps and Why Does it Matter?](https://medium.com/@ODSC/what-are-mlops-and-why-does-it-matter-8cff060d4067)
@@ -346,7 +334,8 @@
 - [Deploy machine learning model using Flask](https://www.youtube.com/watch?v=UbCWoMf80PY)
 - [How to deploy machine learning model in Production](https://www.youtube.com/watch?v=-UYyyeYJAoQ)
 
-# AI Safety, Ethics, & Bias
+</details><details><summary><h2>AI Safety, Ethics, & Bias</h2></summary>
+ 
 - [Center for AI Safety](https://www.safe.ai)
 - [Stanford Center for AI Safety](https://aisafety.stanford.edu)
 - ["The Alignment Problem: Machine Learning and Human Values" by Brian Christian](https://brianchristian.org/the-alignment-problem)
@@ -360,11 +349,13 @@
 - [Machine Intelligence Research Institute (MIRI)](https://intelligence.org)
 - [Roman Yampolskiy: Dangers of Superintelligent AI | Lex Fridman Podcast](https://www.youtube.com/watch?v=NNr6gPelJ3E)
 
-# ML Interviews
+</details><details><summary><h2>ML Interviews</h2></summary>
+ 
 - [Machine Learning Interviews by Susan Shu Chang](https://a.co/d/09J99BH3) 📚
 - https://github.com/alexeygrigorev/data-science-interviews
 
-# ML & AI Related Books & Podcasts
+</details><details><summary><h2>ML & AI Related Books & Podcasts</h2></summary>
+ 
 - [Quick Start Guide to Large Language Models: Strategies and Best Practices for Using ChatGPT and Other LLMs](https://a.co/d/0d3Btiqm) 📚
 - [Deep Learning (Adaptive Computation and Machine Learning series)](https://a.co/d/06t5y3xr) 📚
 - [The Coming Wave](https://a.co/d/08w5jQQU) 📚
@@ -374,7 +365,8 @@
 - [Becoming a Data Head: How to Think, Speak, and Understand Data Science, Statistics, and Machine Learning](https://a.co/d/08OHdpNh)
 - [Everything Is Predictable: How Bayesian Statistics Explain Our World](https://a.co/d/0fvOBZ6q)
 
-# AI Conferences & Competitions
+</details><details><summary><h2>AI Conferences & Competitions</h2></summary>
+
 - [ICML (International Conference on Machine Learning)](https://icml.cc)
 - [Association for the Advancement of Artificial Intelligence (AAAI)](https://aaai.org)
 - [Kaggle](https://www.kaggle.com)
