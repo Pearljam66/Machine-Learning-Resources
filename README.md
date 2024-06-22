@@ -208,7 +208,7 @@
 - [Naked Statistics](https://www.amazon.com/Naked-Statistics-Stripping-Dread-Data/dp/039334777X/ref=sr_1_2?dchild=1&keywords=statistics&qid=1604311077&s=books&sr=1-2)
 - [Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series)](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020)
 - [Pattern Recognition and Machine Learning (Information Science and Statistics) by Christopher M. Bishop (Author)](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
-- [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics)](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/ref=pd_sbs_14_3/133-6489713-5922644?_encoding=UTF8&pd_rd_i=0387848576&pd_rd_r=6e5c1ac8-1257-4cb0-965b-9c8e0b408a86&pd_rd_w=Qtqlj&pd_rd_wg=IGdFO&pf_rd_p=ff9b5089-1414-4e8f-9675-3397e98bf276&pf_rd_r=K1A7972744H1541W861Z&psc=1&refRID=K1A7972744H1541W861Z)
+- [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition](https://hastie.su.domains/ElemStatLearn/)
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
 - [An Introduction to Statistical Learning](https://www.statlearning.com/)
 - [Essentials of Statistics by Monica Wahi](https://www.youtube.com/watch?v=8mxrwJcB2eI&list=PL64SCLAD3d1FlVowhKnYrY7JGuVd24HWm&ab_channel=MonikaWahi)
