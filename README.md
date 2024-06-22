@@ -3,8 +3,9 @@
 > Resources needed to become a Machine Learning Engineer which were inspired by (and many links borrowed from) [ml-engineer-roadmap](https://github.com/enkaranfiles/Machine-Learning-Engineer-Roadmap)
 
 ### Icon Key:
+- 👩🏼‍💻 Current Task
 - ✅ Completed Task
-- 📚 Currently own the book
+- 📚 Own the book
 
 <details>
 <summary><h2>Core Concepts of Machine Learning</h2></summary>
@@ -14,7 +15,7 @@
   - [The cold start problem: how to break into machine learning](https://towardsdatascience.com/the-cold-start-problem-how-to-break-into-machine-learning-732ee9fedf1d) ✅
   - [How to Start Learning Machine Learning?](https://www.geeksforgeeks.org/how-to-start-learning-machine-learning/) ✅
   - [How you can get a world-class machine learning education for free](https://elitedatascience.com/learn-machine-learning#step-0) ✅
-  - [Getting Started with Applied Machine Learning](https://machinelearningmastery.com/start-here/#getstarted)
+  - [Getting Started with Applied Machine Learning](https://machinelearningmastery.com/start-here/#getstarted) 👩🏼‍💻
   - [Get started with AI and machine learning in 3 months](https://medium.com/@gordicaleksa/get-started-with-ai-and-machine-learning-in-3-months-5236d5e0f230)
   - [HarvardX: Data Science: Machine Learning](https://www.edx.org/learn/machine-learning/harvard-university-data-science-machine-learning)
 
