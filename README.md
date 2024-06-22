@@ -172,7 +172,9 @@
 - [8 Fun Machine Learning Projects For Beginners](https://elitedatascience.com/machine-learning-projects-for-beginners)
  
 ### Datasets
-- [AWESOME PUBLIC DATASETS](https://github.com/awesomedata/awesome-public-datasets)
+- [U.S. Dovernment Datasets](https://data.gov)
+- [UC Irvine Machine Learning Dataset Repository](https://archive.ics.uci.edu)
+- [GitHub list of public datasets](https://github.com/awesomedata/awesome-public-datasets)
 - [70+ machine Learning Datasets](https://data-flair.training/blogs/machine-learning-datasets/)
 - [Article on Beginner Level Datasets](https://medium.com/machine-learning-india/getting-started-in-data-science-beginner-level-datasets-376ffe60c6fe)
 </details>
