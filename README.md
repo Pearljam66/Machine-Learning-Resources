@@ -21,9 +21,9 @@
   - [HarvardX: Data Science: Machine Learning](https://www.edx.org/learn/machine-learning/harvard-university-data-science-machine-learning) ⌛️
 
 - **Deep Learning**
-  - [Inside Deep Learning: Math, Algorithms, Models](https://a.co/d/02Fq4g2S) 📚
+  - [Inside Deep Learning: Math, Algorithms, Models](https://a.co/d/02Fq4g2S) 📚👩🏼‍💻
   - [Generative Deep Learning: Teaching Machines To Paint, Write, Compose, and Play](https://a.co/d/05eavlbG) ⌛️
-  - [Practical Deep Learning for Coders](https://course.fast.ai) 👩🏼‍💻
+  - [Practical Deep Learning for Coders](https://course.fast.ai) 
 
 ### Core Concepts
 - **The Big Picture**
@@ -366,9 +366,9 @@
 - [Machine Learning Interviews by Susan Shu Chang](https://a.co/d/09J99BH3) 📚
 - https://github.com/alexeygrigorev/data-science-interviews
 
-</details><details><summary><h2>ML & AI Related Books & Podcasts</h2></summary>
+</details><details><summary><h2>ML & AI Related Books & Podcasts 👩🏼‍💻 </h2></summary>
  
-- [Quick Start Guide to Large Language Models: Strategies and Best Practices for Using ChatGPT and Other LLMs](https://a.co/d/0d3Btiqm) 📚
+- [Quick Start Guide to Large Language Models: Strategies and Best Practices for Using ChatGPT and Other LLMs](https://a.co/d/0d3Btiqm) 📚👩🏼‍💻
 - [Deep Learning (Adaptive Computation and Machine Learning series)](https://a.co/d/06t5y3xr) 📚
 - [The Coming Wave](https://a.co/d/08w5jQQU) 📚
 - [Superintelligence: Paths, Dangers, Strategies](https://a.co/d/0czbkhMV)
