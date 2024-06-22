@@ -6,8 +6,8 @@
 - ✅ Completed Task
 - 📚 Currently own the book
 
-<details><summary><h2>Core Concepts of Machine Learning</h2></summary>
-
+<details><summary><h2>Core Concepts of Machine Learning</h2></summary
+                                                             
 **General ML:**
 - [The cold start problem: how to break into machine learning](https://towardsdatascience.com/the-cold-start-problem-how-to-break-into-machine-learning-732ee9fedf1d) ✅
 - [How to Start Learning Machine Learning?](https://www.geeksforgeeks.org/how-to-start-learning-machine-learning/) ✅
@@ -175,7 +175,7 @@
 - [Youtube: Building Blocks for LLM Systems & Products: Eugene Yan](https://www.youtube.com/watch?v=LzeC1AQ-U5o)
 
 </details><details><summary><h2>Mathematics & Statistics</h2></summary>
-
+ 
 **Basics:**
 - [Essential Math for Data Science: Take Control of Your Data with Fundamental Linear Algebra, Probability, and Statistics](https://a.co/d/0fqGWArP) 📚
 
@@ -213,7 +213,7 @@
 - [Essentials of Statistics by Monica Wahi](https://www.youtube.com/watch?v=8mxrwJcB2eI&list=PL64SCLAD3d1FlVowhKnYrY7JGuVd24HWm&ab_channel=MonikaWahi)
 
 </details><details><summary><h2>Databases & Query Languages</h2></summary>
-
+ 
 - [Redis Crash Course](https://www.youtube.com/watch?v=Hbt56gFj998)
 - [Column vs Row Oriented Databases](https://www.youtube.com/watch?v=Vw1fCeD06YI)
 - [5 use Cases of Redis](https://www.youtube.com/watch?v=znjGckK8abw)
@@ -235,7 +235,7 @@
 - [Datacamp: Data-Driven Decision Making in SQL](https://www.datacamp.com/courses/data-driven-decision-making-with-sql)
 
 </details><details><summary><h2>Programming Skills</h2></summary>
-
+ 
 **Data Structures & Algorithms:**
 - [Algorithms by Abdul Bari](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 - [Algorithms Lectures](https://www.youtube.com/watch?v=aGjL7YXI31Q&list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0)
@@ -279,7 +279,7 @@
 - [Design Patterns in Python](https://www.youtube.com/watch?v=3GoiinBUwCU&list=PL1WVjBsN-_NK13Vf2UqdLZtukQ23TxeSx&index=7)
 
 </details><details><summary><h2>Model Training & Tuning Techniques Plus Advanced Deep Learning Models</h2></summary>
-
+ 
 - [Article on Life Cycle of a Data Science Project](https://medium.com/machine-learning-india/the-life-cycle-of-a-data-science-project-d614d8d233b7)
 - [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980)
 - [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167)
@@ -293,7 +293,7 @@
 - [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
 
 </details><details><summary><h2>Deployment, Monitoring, & Maintenance</h2></summary>
-
+ 
 **MLOps:**
 - [What are MLOps and Why Does it Matter?](https://medium.com/@ODSC/what-are-mlops-and-why-does-it-matter-8cff060d4067)
 - [MLOps: Overview of Machine Learning Operations on the Cloud AISC](https://www.youtube.com/watch?v=VU5Em1qkWDU)
@@ -349,7 +349,7 @@
 - [Machine Intelligence Research Institute (MIRI)](https://intelligence.org)
 - [Roman Yampolskiy: Dangers of Superintelligent AI | Lex Fridman Podcast](https://www.youtube.com/watch?v=NNr6gPelJ3E)
 
-</details><details><summary><h2>ML Interviews</h2></summary>
+</details><details><summary><h2>ML Interviews</h2></summary> 
  
 - [Machine Learning Interviews by Susan Shu Chang](https://a.co/d/09J99BH3) 📚
 - https://github.com/alexeygrigorev/data-science-interviews
@@ -366,7 +366,7 @@
 - [Everything Is Predictable: How Bayesian Statistics Explain Our World](https://a.co/d/0fvOBZ6q)
 
 </details><details><summary><h2>AI Conferences & Competitions</h2></summary>
-
+ 
 - [ICML (International Conference on Machine Learning)](https://icml.cc)
 - [Association for the Advancement of Artificial Intelligence (AAAI)](https://aaai.org)
 - [Kaggle](https://www.kaggle.com)
