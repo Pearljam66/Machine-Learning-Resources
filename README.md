@@ -378,7 +378,7 @@
 - [The Coming Wave](https://a.co/d/08w5jQQU) 📚👩🏼‍💻
 - [Superintelligence: Paths, Dangers, Strategies](https://a.co/d/0czbkhMV)
 - [One year of deep learning](https://www.fast.ai/2019/01/02/one-year-of-deep-learning/) ✅
-- [Aravind Srinivas: Perplexity CEO on Future of AI, Search & the Internet | Lex Fridman Podcast](https://www.youtube.com/watch?v=e-gwvmhyU7A)
+- [Aravind Srinivas: Perplexity CEO on Future of AI, Search & the Internet | Lex Fridman Podcast](https://www.youtube.com/watch?v=e-gwvmhyU7A) ✅
 - [Becoming a Data Head: How to Think, Speak, and Understand Data Science, Statistics, and Machine Learning](https://a.co/d/08OHdpNh)
 - [Everything Is Predictable: How Bayesian Statistics Explain Our World](https://a.co/d/0fvOBZ6q)
 - [Gödel, Escher, Bach: An Eternal Golden Braid](https://a.co/d/0eLGaTHc)
