@@ -10,7 +10,7 @@
 - ⭐️ Favorite
 
 <details>
-<summary><h2>Core Concepts of Machine Learning 👩🏼‍💻</h2></summary>
+<summary><h2>Core Concepts of Machine Learning</h2></summary>
 
 ### Fundamentals
 - **General ML**
@@ -22,7 +22,7 @@
   - [HarvardX: Data Science: Machine Learning](https://www.edx.org/learn/machine-learning/harvard-university-data-science-machine-learning) ⌛️
 
 - **Deep Learning**
-  - [Inside Deep Learning: Math, Algorithms, Models](https://a.co/d/02Fq4g2S) 📚👩🏼‍💻
+  - [Inside Deep Learning: Math, Algorithms, Models](https://a.co/d/02Fq4g2S) 📚⌛️
   - [Generative Deep Learning: Teaching Machines To Paint, Write, Compose, and Play](https://a.co/d/05eavlbG) ⌛️
   - [Practical Deep Learning for Coders](https://course.fast.ai) ⌛️
 
