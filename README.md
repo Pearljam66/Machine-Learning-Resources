@@ -308,7 +308,7 @@
 </details><details><summary><h2>Deployment, Monitoring, & Maintenance</h2></summary>
  
 ### MLOps
-- [What are MLOps and Why Does it Matter?](https://medium.com/@ODSC/what-are-mlops-and-why-does-it-matter-8cff060d4067)
+- [What are MLOps and Why Does it Matter?](https://medium.com/@ODSC/what-are-mlops-and-why-does-it-matter-8cff060d4067) ✅
 - [MLOps: Overview of Machine Learning Operations on the Cloud AISC](https://www.youtube.com/watch?v=VU5Em1qkWDU)
 - [Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps](https://www.amazon.com/Machine-Learning-Design-Patterns-Preparation/dp/1098115783/ref=sr_1_1?dchild=1&keywords=MLops&qid=1604314055&s=books&sr=1-1)
 - [MLops Community "Videos Collection"](https://www.youtube.com/watch?v=hqxQO7MoQIE&list=PL3vkEKxWd-uvXEsuCAEfQhdvDRc7X_jOx)
