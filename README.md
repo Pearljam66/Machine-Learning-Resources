@@ -24,7 +24,7 @@
 - **Deep Learning**
   - [Inside Deep Learning: Math, Algorithms, Models](https://a.co/d/02Fq4g2S) 📚👩🏼‍💻
   - [Generative Deep Learning: Teaching Machines To Paint, Write, Compose, and Play](https://a.co/d/05eavlbG) ⌛️
-  - [Practical Deep Learning for Coders](https://course.fast.ai) 
+  - [Practical Deep Learning for Coders](https://course.fast.ai) ⌛️
 
 ### Core Concepts
 - **The Big Picture**
