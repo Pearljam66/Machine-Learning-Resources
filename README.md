@@ -256,10 +256,10 @@
 - [Dynamic Programming](https://www.youtube.com/watch?v=jTjRGe0wRvI&list=PLVrpF4r7WIhTT1hJqZmjP10nxsmrbRvlf)
 - [Data Structures by Neso Academy](https://www.youtube.com/watch?v=xLetJpcjHS0&list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y&index=1)
 - [Data Structures using C++](https://www.youtube.com/watch?v=XCyuHSJS7XE&list=PLIY8eNdw5tW_zX3OCzX7NJ8bL1p6pWfgG)
-- [Algorithmic Design and Techniques (edx.org)](https://www.edx.org/course/algorithmic-design-and-techniques)
-- [Graph Algorithms (edx.org)](https://www.edx.org/course/graph-algorithms)
-- [NP-Complete Problems (edx.org)](https://www.edx.org/course/np-complete-problems)
-- [Book: Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People](https://www.manning.com/books/grokking-algorithms)
+- [Algorithmic Design and Techniques](https://www.edx.org/course/algorithmic-design-and-techniques)
+- [Graph Algorithms](https://www.edx.org/course/graph-algorithms)
+- [NP-Complete Problems](https://www.edx.org/course/np-complete-problems)
+- [Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People](https://a.co/d/01VSUve4)
 
 ### Languages
 - **Python:**
@@ -279,7 +279,7 @@
   - [Object Oriented Programming in C++](https://www.youtube.com/watch?v=AGrcyWV7hL8&list=PLrjkTql3jnm-Voi7giH4JITCi6cuZSN42&index=1)
 
 ### Software design & Architecture
-- [Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications](https://a.co/d/0iO9WJJB)
+- [Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications](https://a.co/d/0iO9WJJB) 📚
 - [Software Design using Python](https://www.youtube.com/watch?v=FLtqAi7WNBY&list=PLzMcBGfZo4-nVu4ANTe7NuU0Ny6_oyQmV)
 - [A philosophy of Software Design](https://www.youtube.com/watch?v=bmSAYlu0NcY)
 - [Software Design in 21st Century by Martin Flower](https://www.youtube.com/watch?v=6wDoopbtEqk)
