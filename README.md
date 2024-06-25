@@ -251,11 +251,9 @@
 ### Data Structures & Algorithms
 - [Algorithms by Abdul Bari](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 - [Algorithms Lectures](https://www.youtube.com/watch?v=aGjL7YXI31Q&list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0)
-- [Easy to Advanced Data Structure using Java](https://www.youtube.com/watch?v=RBSGKlAvoiM&t=10854s)
 - [CS Dojo Data structures and Algorithms](https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
 - [Dynamic Programming](https://www.youtube.com/watch?v=jTjRGe0wRvI&list=PLVrpF4r7WIhTT1hJqZmjP10nxsmrbRvlf)
 - [Data Structures by Neso Academy](https://www.youtube.com/watch?v=xLetJpcjHS0&list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y&index=1)
-- [Data Structures using C++](https://www.youtube.com/watch?v=XCyuHSJS7XE&list=PLIY8eNdw5tW_zX3OCzX7NJ8bL1p6pWfgG)
 - [Algorithmic Design and Techniques](https://www.edx.org/course/algorithmic-design-and-techniques)
 - [Graph Algorithms](https://www.edx.org/course/graph-algorithms)
 - [NP-Complete Problems](https://www.edx.org/course/np-complete-problems)
@@ -277,6 +275,10 @@
   - [C++ OOP by derek banas](https://www.youtube.com/watch?v=ZOKLjJF54Xc)
   - [C++ Programming All-in-one (beginner to advanced)](https://www.youtube.com/watch?v=_bYFu9mBnr4)
   - [Object Oriented Programming in C++](https://www.youtube.com/watch?v=AGrcyWV7hL8&list=PLrjkTql3jnm-Voi7giH4JITCi6cuZSN42&index=1)
+  - [Data Structures using C++](https://www.youtube.com/watch?v=XCyuHSJS7XE&list=PLIY8eNdw5tW_zX3OCzX7NJ8bL1p6pWfgG)
+
+- **Java:**
+  - [Easy to Advanced Data Structure using Java](https://www.youtube.com/watch?v=RBSGKlAvoiM&t=10854s)
 
 ### Software design & Architecture
 - [Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications](https://a.co/d/0iO9WJJB) 📚
