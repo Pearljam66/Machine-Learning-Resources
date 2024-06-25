@@ -96,7 +96,7 @@
 
 ### Advanced Topics
 - **Neural Networks**
-  - [Neural Networks by 3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+  - [Neural Networks by 3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) ⭐️
   - [Beginner Intro to Neural Networks](https://www.youtube.com/watch?v=ZzWaow1Rvho&list=PLxt59R_fWVzT9bDxA76AHm3ig0Gg9S3So)
   - [CS231 winter 2016](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
   - [Make Your Own Neural Network (Book)](https://www.amazon.com/Make-Your-Own-Neural-Network-ebook/dp/B01EER4Z4G/)
