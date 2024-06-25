@@ -263,7 +263,7 @@
 - **Python:**
   - [Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter](https://a.co/d/0gzV89xk) 📚
   - [Automate The Boring Stuff with Python](https://automatetheboringstuff.com/)
-  - [Python Crash Course by Erric Matthes](https://ehmatthes.github.io/pcc_2e/regular_index/)
+  - [Python Crash Course by Erric Matthes](https://a.co/d/09Tjn2fs)
   - [Learning Python by Mark Lutz](https://www.oreilly.com/library/view/learning-python-5th/9781449355722/)
   - [Python OOP by Corey Schafer](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
   - [Python OOP for beginners](https://www.youtube.com/watch?v=JeznW_7DlB0)
