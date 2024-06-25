@@ -185,6 +185,7 @@
  
 ### Basics
 - [Essential Math for Data Science: Take Control of Your Data with Fundamental Linear Algebra, Probability, and Statistics](https://a.co/d/0fqGWArP) 📚
+- [Broadcasting](https://cs231n.github.io/python-numpy-tutorial/#numpy-broadcasting)
 
 ### Linear Algebra
 - https://github.com/fastai/numerical-linear-algebra
