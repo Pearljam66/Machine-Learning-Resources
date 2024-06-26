@@ -284,7 +284,7 @@
 - **R:**
 
 ### Software design & Architecture
-- [Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications](https://a.co/d/0iO9WJJB) 📚
+- [Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications](https://a.co/d/0iO9WJJB) 📚👩🏼‍💻
 - [Software Design using Python](https://www.youtube.com/watch?v=FLtqAi7WNBY&list=PLzMcBGfZo4-nVu4ANTe7NuU0Ny6_oyQmV)
 - [A philosophy of Software Design](https://www.youtube.com/watch?v=bmSAYlu0NcY)
 - [Software Design in 21st Century by Martin Flower](https://www.youtube.com/watch?v=6wDoopbtEqk)
