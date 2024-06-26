@@ -250,14 +250,6 @@
 </details><details><summary><h2>Programming Skills</h2></summary>
  
 ### Data Structures & Algorithms
-- [Algorithms by Abdul Bari](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
-- [Algorithms Lectures](https://www.youtube.com/watch?v=aGjL7YXI31Q&list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0)
-- [CS Dojo Data structures and Algorithms](https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
-- [Dynamic Programming](https://www.youtube.com/watch?v=jTjRGe0wRvI&list=PLVrpF4r7WIhTT1hJqZmjP10nxsmrbRvlf)
-- [Data Structures by Neso Academy](https://www.youtube.com/watch?v=xLetJpcjHS0&list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y&index=1)
-- [Algorithmic Design and Techniques](https://www.edx.org/course/algorithmic-design-and-techniques)
-- [Graph Algorithms](https://www.edx.org/course/graph-algorithms)
-- [NP-Complete Problems](https://www.edx.org/course/np-complete-problems)
 - [Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People](https://a.co/d/01VSUve4)
 
 ### Languages
