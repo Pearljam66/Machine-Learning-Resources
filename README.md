@@ -210,7 +210,7 @@
 - [Probability by Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk&list=PLC58778F28211FA19)
 - [Probability Basics by 365 Data Science](https://www.youtube.com/watch?v=WsnBNjXP0CM&list=PLaFfQroTgZnxtnfht3BzBHVfxodX9AR9F)
 - [Bayesian Statistics Made Simple (Scipy)](https://www.youtube.com/watch?v=-X0BiV9n_fQ)
-- [Think stats (Book)](https://greenteapress.com/thinkstats/)
+- [Think Stats: Exploratory Data Analysis][(https://a.co/d/0aDqJBfV)
 - [Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/149207294X/ref=sr_1_1?dchild=1&keywords=statistics&qid=1604311077&s=books&sr=1-1)
 - [Naked Statistics](https://www.amazon.com/Naked-Statistics-Stripping-Dread-Data/dp/039334777X/ref=sr_1_2?dchild=1&keywords=statistics&qid=1604311077&s=books&sr=1-2)
 - [Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series)](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020)
