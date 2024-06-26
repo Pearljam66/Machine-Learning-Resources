@@ -36,15 +36,13 @@
 
 ### Learning Paradigms
 - **Supervised Learning**
-  - [The Supervised Learning Workshop](https://www.amazon.com/Supervised-Learning-Workshop-Interactive-Understanding-ebook/dp/B085DQVYHH/)
-  - [The Hundred-Page Machine Learning Book](https://www.amazon.com/Hundred-Page-Machine-Learning-Book/dp/199957950X/)
+  - [The Supervised Learning Workshop: A New, Interactive Approach to Understanding Supervised Learning Algorithms, 2nd Edition](https://a.co/d/0j5D1QiC)
+  - [The Hundred-Page Machine Learning Book](https://a.co/d/0bPoJHC8)
   - [Supervised Learning Crash Course](https://www.youtube.com/watch?v=4qVRBYAdLAo)
-  - [An Introduction to Linear Regression](https://www.youtube.com/watch?v=zPG4NjIkCjc)
-  - [Supervised Learning | Linear Regression](https://www.youtube.com/watch?v=lv4wQ9JCg8M)
-  - [Simple Linear Regression](https://www.youtube.com/watch?v=ZkjP5RJLQF4&list=PLIeGtxpvyG-LoKUpV0fSY8BGKIMIdmfCi)
+  - [An Introduction to Linear Regression Analysis](https://www.youtube.com/watch?v=zPG4NjIkCjc)
 
 - **Unsupervised Learning**
-  - [Hands-On Unsupervised Learning Using Python](https://www.amazon.com/Hands-Unsupervised-Learning-Using-Python/dp/1492035645/)
+  - [Hands-On Unsupervised Learning Using Python: How to Build Applied Machine Learning Solutions from Unlabeled Data](https://a.co/d/0aVPVWBQ)
   - [Unsupervised learning explained](https://www.youtube.com/watch?v=lEfrr0Yr684)
   - [Unsupervised Learning Crash Course](https://www.youtube.com/watch?v=JnnaDNNb380)
 
@@ -203,6 +201,7 @@
 - [Calculus by Khan Academy](https://www.youtube.com/watch?v=EKvHQc3QEow&list=PL19E79A0638C8D449)
 
 ### Probability & Statistics
+- [Statistics 101: Linear Regression, The Very Basics](https://www.youtube.com/watch?v=ZkjP5RJLQF4&list=PLIeGtxpvyG-LoKUpV0fSY8BGKIMIdmfCi)
 - [Statistics Fundamentals by StatsQuest](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
 - [Statistics by Khan Academy](https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566)
 - [Statistics by Professor Leonard](https://www.youtube.com/watch?v=9FtHB7V14Fo&list=PL5102DFDC6790F3D0)
@@ -372,6 +371,7 @@
 - [Becoming a Data Head: How to Think, Speak, and Understand Data Science, Statistics, and Machine Learning](https://a.co/d/08OHdpNh)
 - [Everything Is Predictable: How Bayesian Statistics Explain Our World](https://a.co/d/0fvOBZ6q)
 - [Gödel, Escher, Bach: An Eternal Golden Braid](https://a.co/d/0eLGaTHc)
+- [Great YT channel to learn more about ML)(https://www.youtube.com/@deeplizard)
 
 </details><details><summary><h2>AI Conferences & Competitions</h2></summary>
  
