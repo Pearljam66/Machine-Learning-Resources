@@ -370,6 +370,7 @@
  
 - [Machine Learning Interviews by Susan Shu Chang](https://a.co/d/09J99BH3) 📚
 - https://github.com/alexeygrigorev/data-science-interviews
+- [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
 
 </details><details><summary><h2>ML & AI Related Books & Podcasts 👩🏼‍💻 </h2></summary>
  
