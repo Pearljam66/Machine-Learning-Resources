@@ -159,7 +159,7 @@
 - [MLcourse.ai by Yury Kashnitskiy](https://www.youtube.com/watch?v=QKTuw4PNOsU&list=PLVlY_7IJCMJeRfZ68eVfEcu-UcN9BbwiX)
 - [Complete machine learning course by Krish Naik](https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe)
 - [Applied machine learning course 2020](https://www.youtube.com/watch?v=d79mzijMAw0&list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM)
-- [Machine Learning Algorithms](https://www.youtube.com/watch?v=NUXdtN1W1FE&list=PLEiEAq2VkUULNa6MHQAZSOBxzB6HHFXj4)
+
 - [How to make your first Kaggle submission from scratch! (Titanic Dataset)](https://www.youtube.com/watch?v=f1y9wDDxWnA)
 - [End to end ML pipeline to solve real-world industry problems | Machine Learning](https://www.youtube.com/watch?v=SH5nlNY5cO4)
 - [Building a Movie Recommendation Engine | Machine Learning Projects](https://www.youtube.com/watch?v=XoTwndOgXBM)
@@ -210,7 +210,7 @@
 - [Probability by Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk&list=PLC58778F28211FA19)
 - [Probability Basics by 365 Data Science](https://www.youtube.com/watch?v=WsnBNjXP0CM&list=PLaFfQroTgZnxtnfht3BzBHVfxodX9AR9F)
 - [Bayesian Statistics Made Simple (Scipy)](https://www.youtube.com/watch?v=-X0BiV9n_fQ)
-- [Think Stats: Exploratory Data Analysis][(https://a.co/d/0aDqJBfV)
+- [Think Stats: Exploratory Data Analysis](https://a.co/d/0aDqJBfV)
 - [Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/149207294X/ref=sr_1_1?dchild=1&keywords=statistics&qid=1604311077&s=books&sr=1-1)
 - [Naked Statistics](https://www.amazon.com/Naked-Statistics-Stripping-Dread-Data/dp/039334777X/ref=sr_1_2?dchild=1&keywords=statistics&qid=1604311077&s=books&sr=1-2)
 - [Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series)](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020)
@@ -243,14 +243,15 @@
   - [Datacamp: Reporting in SQL](https://www.datacamp.com/courses/reporting-in-sql)
   - [Datacamp: Data-Driven Decision Making in SQL](https://www.datacamp.com/courses/data-driven-decision-making-with-sql)
 - **NoSQL Databases**
-   - [Redis Crash Course](https://www.youtube.com/watch?v=Hbt56gFj998)
-   - [5 use Cases of Redis](https://www.youtube.com/watch?v=znjGckK8abw)
+  - [Redis Crash Course](https://www.youtube.com/watch?v=Hbt56gFj998)
+  - [5 use Cases of Redis](https://www.youtube.com/watch?v=znjGckK8abw)
 </details>
 
 </details><details><summary><h2>Programming Skills</h2></summary>
  
 ### Data Structures & Algorithms
 - [Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People](https://a.co/d/01VSUve4)
+- [Machine Learning Algorithms](https://www.youtube.com/watch?v=NUXdtN1W1FE&list=PLEiEAq2VkUULNa6MHQAZSOBxzB6HHFXj4)
 
 ### Languages
 - **Python:**
@@ -318,14 +319,10 @@
 - [Python testing 101 with Pytest](https://www.youtube.com/watch?v=etosV2IWBF0)
 - [Testing Your code with Pytest](https://www.youtube.com/watch?v=LX2ksGYXJ80)
 
-### Cloud
-- [Introduction to Cloud](https://www.youtube.com/watch?v=usYySG1nbfI)
-- [Cloud Computing Full Course](https://www.youtube.com/watch?v=EN4fEbcFZ_E)
-- [Aws for Beginners](https://www.youtube.com/watch?v=k1RI5locZE4)
-- [What is serverless?](https://www.youtube.com/watch?v=Fx3ZGy-mbV4)
-- [Introduction to AWS Lambda and Serverless Architecture](https://www.youtube.com/watch?v=EBSdyoO3goc)
-- [AWS S3 Tutorial](https://www.youtube.com/watch?v=9HsEMyKrlnw)
-- [AWS SageMaker for ML and DL](https://www.youtube.com/watch?v=LkR3GNDB0HI&list=PLZoTAELRMXVONh5mHrXowH6-dgyWoC_Ew)
+### Cloud Computing
+- [Cloud Computing Tutorial For Beginners](https://www.youtube.com/watch?v=EN4fEbcFZ_E)
+- [What is serverless?](https://www.youtube.com/watch?v=vxJobGtqKVM)
+- [Introduction to AWS Lambda & Serverless Applications](https://www.youtube.com/watch?v=EBSdyoO3goc)
 
 ### Containerization
 - [Docker for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo)
