@@ -213,7 +213,7 @@
 - [Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/149207294X/ref=sr_1_1?dchild=1&keywords=statistics&qid=1604311077&s=books&sr=1-1)
 - [Naked Statistics](https://www.amazon.com/Naked-Statistics-Stripping-Dread-Data/dp/039334777X/ref=sr_1_2?dchild=1&keywords=statistics&qid=1604311077&s=books&sr=1-2)
 - [Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series)](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020)
-- [Pattern Recognition and Machine Learning (Information Science and Statistics) by Christopher M. Bishop (Author)](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
+- [Pattern Recognition and Machine Learning (Information Science and Statistics) by Christopher M. Bishop](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
 - [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition](https://hastie.su.domains/ElemStatLearn/)
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
 - [An Introduction to Statistical Learning](https://www.statlearning.com/)
