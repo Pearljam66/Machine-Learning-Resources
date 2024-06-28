@@ -53,10 +53,10 @@
   - [Introduction to Numerical Computing with NumPy](https://www.youtube.com/watch?v=ZB7BZMhfPgk)
 
 - **Pandas**
-  - [Complete Python Pandas Data Science Tutorial](https://www.youtube.com/watch?v=vmEHCJofslg)
-  - [Introduction to Data Processing in Python with Pandas](https://www.youtube.com/watch?v=5rNu16O3YNE)
+  - [Complete Python Pandas Data Science Tutorial! (Reading CSV/Excel files, Sorting, Filtering, Groupby)](https://www.youtube.com/watch?v=vmEHCJofslg)
+  - [Introduction to Data Processing in Python with Pandas | SciPy 2019 Tutorial | Daniel Chen](https://www.youtube.com/watch?v=5rNu16O3YNE)
   - [Solving real world data science tasks with Python Pandas!](https://www.youtube.com/watch?v=eMOA1pPVUc4)
-  - [Python Pandas by Derek Banas](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
+  - [Python Pandas Tutorial (Part 1): Getting Started with Data Analysis - Installation and Loading Data](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
 
 - **Scikit-learn**
   - [Machine Learning with PyTorch and Scikit-Learn](https://a.co/d/03kjoWyM) 📚
