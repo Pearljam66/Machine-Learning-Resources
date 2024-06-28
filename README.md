@@ -49,8 +49,7 @@
 ### Essential Libraries
 - **Numpy**
   - [Python NumPy tutorials for Beginners](https://www.youtube.com/watch?v=GB9ByFAIAH4)
-  - [NumPy tutorials 2020](https://www.youtube.com/watch?v=8Y0qQEh7dJg)
-  - [Introduction to NumPy](https://www.youtube.com/watch?v=NVTWjd_UpzM&list=PLzgPDYo_3xukqLLjNeuCxj4CwvkJin03Z)
+  - [NumPy Tutorial : Numpy Full Course](https://www.youtube.com/watch?v=8Y0qQEh7dJg)
   - [Introduction to Numerical Computing with NumPy](https://www.youtube.com/watch?v=ZB7BZMhfPgk)
 
 - **Pandas**
