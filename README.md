@@ -125,7 +125,6 @@
   - [DeepLearning.AI: Building and Evaluating Advanced RAG Applications](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/)
   - [DeepLearning.AI: Efficiently Serving LLMs](https://www.deeplearning.ai/short-courses/efficiently-serving-llms/)
   - [DeepLearning.AI: Finetuning Large Language Models](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)
-  - [DeepLearning.AI: Vector Databases: from Embeddings to Applications](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/)
   - [DeepLearning.AI: Reinforcement Learning from Human Feedback](https://www.deeplearning.ai/short-courses/reinforcement-learning-from-human-feedback)
   - [DeepLearning.AI: Advanced Retrieval for AI with Chroma](https://www.deeplearning.ai/short-courses/advanced-retrieval-for-ai/)
   - [DeepLearning.AI: Automated Testing for LLMOps](https://www.deeplearning.ai/short-courses/automated-testing-llmops/)
@@ -140,7 +139,7 @@
   - [Youtube: Prompt Engineering Overview](https://www.youtube.com/watch?v=dOxUroR57xs)
   - [Youtube: Building Blocks for LLM Systems & Products: Eugene Yan](https://www.youtube.com/watch?v=LzeC1AQ-U5o)
 
-###🧹 Projects & Resources
+###🧹 Projects & Resources (need to move these links to other categories)
 - [Andrew ng Machine Learning Course](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 - [Standford CS229: Machine Learning](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 - [Deep Learning Essentials , Mila University](https://courses.edx.org/courses/course-v1:UMontrealX+IVADO-DL-101+1T2020/course/)
@@ -153,7 +152,6 @@
 - [MLcourse.ai by Yury Kashnitskiy](https://www.youtube.com/watch?v=QKTuw4PNOsU&list=PLVlY_7IJCMJeRfZ68eVfEcu-UcN9BbwiX)
 - [Complete machine learning course by Krish Naik](https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe)
 - [Applied machine learning course 2020](https://www.youtube.com/watch?v=d79mzijMAw0&list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM)
-
 - [How to make your first Kaggle submission from scratch! (Titanic Dataset)](https://www.youtube.com/watch?v=f1y9wDDxWnA)
 - [End to end ML pipeline to solve real-world industry problems | Machine Learning](https://www.youtube.com/watch?v=SH5nlNY5cO4)
 - [Building a Movie Recommendation Engine | Machine Learning Projects](https://www.youtube.com/watch?v=XoTwndOgXBM)
@@ -243,6 +241,9 @@
   - [5 use Cases of Redis](https://www.youtube.com/watch?v=znjGckK8abw)
 - **Vector Databases**
   - [Why are vector databases so FAST?](https://www.youtube.com/watch?v=cpLi-82koFM)
+  - [Vector Databases simply explained! (Embeddings & Indexes)](https://www.youtube.com/watch?v=dN0lsF2cvm4)
+  - [Pinecomb User Guide Playlist](https://www.youtube.com/playlist?list=PLRLVhGQeJDTLiw-ZJpgUtZW-bseS2gq9-)
+  - [DeepLearning.AI: Vector Databases: from Embeddings to Applications](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/)
 </details>
 
 </details><details><summary><h2>Programming Skills</h2></summary>
