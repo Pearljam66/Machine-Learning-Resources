@@ -70,11 +70,9 @@
 - **Pytorch:**
   - [Pytorch Tutorial(follow entire series](https://www.youtube.com/watch?v=EMXfZB8FVUA&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)
   - [Pytorch Tutorial - Setting up a Deep Learning Environment (Anaconda & PyCharm)](https://www.youtube.com/watch?v=2S1dgHpqCdk&list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz)
-  - [PyTorch Explained - Python Deep Learning Neural Network API](https://www.youtube.com/watch?v=iTKbyFh-7GM&list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG&index=2)
   - [Programming PyTorch for Deep Learning: Creating and Deploying Deep Learning Applications](https://a.co/d/0bT9Vh8Q)
-  - [Deep Learning with PyTorch: Build, train, and tune neural networks using Python tools](c)
-  - [Deeplizard: Neural Network Programming - Deep Learning with PyTorch](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
-  - [PyTorch internals](https://blog.ezyang.com/2019/05/pytorch-internals/)
+  - [Deep Learning with PyTorch: Build, train, and tune neural networks using Python tools](https://a.co/d/0iJWdouw)
+  - [PyTorch - Python Deep Learning Neural Network API Series](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
   - [Pytorch Official Repository Code Examples](https://github.com/pytorch/examples)
   - [Pytorch Official Repisitory Tutorials](https://github.com/pytorch/tutorials)
   - [Pytorch Code Examples](https://github.com/yunjey/pytorch-tutorial)
