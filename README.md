@@ -139,7 +139,7 @@
   - [Youtube: Prompt Engineering Overview](https://www.youtube.com/watch?v=dOxUroR57xs)
   - [Youtube: Building Blocks for LLM Systems & Products: Eugene Yan](https://www.youtube.com/watch?v=LzeC1AQ-U5o)
 
-###🧹 Projects & Resources (need to move these links to other categories)
+### 🧹Projects & Resources (need to move these links to other categories)
 - [Andrew ng Machine Learning Course](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 - [Standford CS229: Machine Learning](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 - [Deep Learning Essentials , Mila University](https://courses.edx.org/courses/course-v1:UMontrealX+IVADO-DL-101+1T2020/course/)
