@@ -60,12 +60,11 @@
 
 - **Scikit-learn**
   - [Machine Learning with PyTorch and Scikit-Learn](https://a.co/d/03kjoWyM) 📚
-  - [Data science From scratch using Python](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/1492041130/)
+  - [Data Science from Scratch: First Principles with Python](https://a.co/d/02awIyRQ)
   - [Scikit-Learn Course - Machine Learning in Python Tutorial](https://www.youtube.com/watch?v=pqNCD_5r0IU)
-  - [Real-World Python Machine Learning Tutorial w/ Scikit Learn](https://www.youtube.com/watch?v=M9Itm95JzL0)
-  - [Machine Learning with Scikit-Learn, Part 1](https://www.youtube.com/watch?v=4PXAztQtoTg)
-  - [Machine Learning with scikit-learn Part 2](https://www.youtube.com/watch?v=gK43gtGh49o)
-  - [Machine Learning with Python](https://www.youtube.com/watch?v=gmvvaobm7eQ&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)
+  - [Real-World Python Machine Learning Tutorial w/ Scikit Learn (sklearn basics, NLP, classifiers, etc)](https://www.youtube.com/watch?v=M9Itm95JzL0)
+  - [Machine Learning with Scikit-Learn, Part 1 | SciPy 2018 Tutorial | Lemaitre and Grisel](https://www.youtube.com/watch?v=4PXAztQtoTg)
+  - [Machine Learning with scikit-learn Part 2 | SciPy 2018 Tutorial | Lemaitre and Grisel](https://www.youtube.com/watch?v=gK43gtGh49o)
   
 - **Pytorch:**
   - [Pytorch Complete Beginner Course](https://www.youtube.com/watch?v=EMXfZB8FVUA&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)
