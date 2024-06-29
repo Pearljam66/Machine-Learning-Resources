@@ -8,6 +8,7 @@
 - ⌛️ To do later
 - 📚 Own the book
 - ⭐️ Favorite
+- 🧹 Need to clean up section
 
 <details>
 <summary><h2>Core Concepts of Machine Learning</h2></summary>
@@ -77,7 +78,7 @@
   - [Pytorch Official Repisitory Tutorials](https://github.com/pytorch/tutorials)
   - [Pytorch Code Examples](https://github.com/yunjey/pytorch-tutorial)
 
-- **Tensorflow & Keras:**
+- **🧹Tensorflow & Keras:**
   - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://a.co/d/04EULzBl)
   - [Datacamp: Introduction to TensorFlow in Python](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python)
   - [Datacamp: Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
@@ -88,7 +89,7 @@
   - [Deep Learning with Swift for TensorFlow](https://a.co/d/0bcGgzme) 📚
 
 ### Advanced Topics
-- **Neural Networks**
+- **🧹Neural Networks**
   - [Neural Networks by 3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) ✅ ⭐️
   - [Beginner Intro to Neural Networks](https://www.youtube.com/watch?v=ZzWaow1Rvho&list=PLxt59R_fWVzT9bDxA76AHm3ig0Gg9S3So)
   - [CS231 winter 2016](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
@@ -98,7 +99,7 @@
   - [Neural Network Full Course](https://www.youtube.com/watch?v=ob1yS9g-Zcs)
   - [Basics of Neural Networks (3Blue1Brown series)](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
  
-- **Natural Language Processing:**
+- **🧹Natural Language Processing:**
   - [Natural Language Processing with Transformers](https://transformersbook.com/)
   - [Stanford CS224U: Natural Language Understanding \| Spring 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)
   - [Stanford CS224N: Stanford CS224N: NLP with Deep Learning \| Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
@@ -113,7 +114,7 @@
   - [Datacamp: Sentiment Analysis in Python](https://www.datacamp.com/courses/sentiment-analysis-in-python)
   - [Datacamp: Machine Translation in Python](https://www.datacamp.com/courses/machine-translation-in-python)
 
-- **Generative AI:**
+- **🧹Generative AI:**
   - [Article: OpenAI Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
   - [Article: Your AI Product Needs Evals](https://hamel.dev/blog/posts/evals)
   - [Article: Prompting Fundamentals and How to Apply them Effectively](https://eugeneyan.com/writing/prompting/)
@@ -139,7 +140,7 @@
   - [Youtube: Prompt Engineering Overview](https://www.youtube.com/watch?v=dOxUroR57xs)
   - [Youtube: Building Blocks for LLM Systems & Products: Eugene Yan](https://www.youtube.com/watch?v=LzeC1AQ-U5o)
 
-### Projects & Resources
+###🧹 Projects & Resources
 - [Andrew ng Machine Learning Course](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 - [Standford CS229: Machine Learning](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 - [Deep Learning Essentials , Mila University](https://courses.edx.org/courses/course-v1:UMontrealX+IVADO-DL-101+1T2020/course/)
@@ -180,7 +181,7 @@
 - [Essential Math for Data Science: Take Control of Your Data with Fundamental Linear Algebra, Probability, and Statistics](https://a.co/d/0fqGWArP) 📚
 - [Broadcasting](https://cs231n.github.io/python-numpy-tutorial/#numpy-broadcasting)
 
-### Linear Algebra
+### 🧹Linear Algebra
 - https://github.com/fastai/numerical-linear-algebra
 - [Essence of Linear Algebra by 3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [Mathematics for Machine Learning (Linear Algebra)](https://www.youtube.com/watch?v=T73ldK46JqE&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
@@ -188,14 +189,14 @@
 - [Mathematics for Machine Learning: Linear Algebra](https://www.youtube.com/watch?v=tVQZvJwi-ec)
 - [Linear Algebra and Optimization for Machine Learning: A Textbook](https://a.co/d/0gAB515I)
 
-### Calculus
+###🧹 Calculus
 - [Essence of Calculus By 3Blue1Brown](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 - [Calculus Introduction](https://www.youtube.com/watch?v=rCxi-O79sVo)
 - [Calculus by Professor Leonard](https://www.youtube.com/watch?v=fYyARMqiaag&list=PLF797E961509B4EB5)
 - [Calculus full College Course](https://www.youtube.com/watch?v=HfACrKJ_Y2w)
 - [Calculus by Khan Academy](https://www.youtube.com/watch?v=EKvHQc3QEow&list=PL19E79A0638C8D449)
 
-### Probability & Statistics
+### 🧹Probability & Statistics
 - [Statistics 101: Linear Regression, The Very Basics](https://www.youtube.com/watch?v=ZkjP5RJLQF4&list=PLIeGtxpvyG-LoKUpV0fSY8BGKIMIdmfCi)
 - [Statistics Fundamentals by StatsQuest](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
 - [Statistics by Khan Academy](https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566)
@@ -216,27 +217,27 @@
 
 </details><details><summary><h2>Databases & Query Languages</h2></summary>
   
-- **Database Concepts**
+- **🧹Database Concepts**
   - [Column vs Row Oriented Databases](https://www.youtube.com/watch?v=Vw1fCeD06YI)
   - [Introduction to noSQl database](https://www.youtube.com/watch?v=xQnIN9bW0og)
   - [ Nosql vs Sql ](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
   - [Udacity: Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)
   - [Datacamp: Database Design](https://www.datacamp.com/courses/database-design)  
-- **SQL and Relational Databases**
+- **🧹SQL and Relational Databases**
   - [Learning MYSQL](https://www.youtube.com/watch?v=a9W7OpS4LfI&list=PLyuRouwmQCjlXvBkTfGeDTq79r9_GoMt9)
   - [Udacity: Intro to relational database](https://www.udacity.com/course/intro-to-relational-databases--ud197)
   - [Datacamp: Introduction to Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python)
   - [Datacamp: Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
   - [Datacamp: Intermediate SQL](https://www.datacamp.com/courses/intermediate-sql)
   - [Datacamp: Joining Data in PostgreSQL](https://www.datacamp.com/courses/joining-data-in-postgresql)
-- **Advanced SQL and Data Analysis**
+- **🧹Advanced SQL and Data Analysis**
   - [Udacity: SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
   - [Datacamp: Exploratory Data Analysis in SQL](https://www.datacamp.com/courses/sql-for-exploratory-data-analysis)
   - [Datacamp: Applying SQL to Real-World Problems](https://www.datacamp.com/courses/applying-sql-to-real-world-problems)
   - [Datacamp: Analyzing Business Data in SQL](https://www.datacamp.com/courses/analyzing-business-data-in-sql)
   - [Datacamp: Reporting in SQL](https://www.datacamp.com/courses/reporting-in-sql)
   - [Datacamp: Data-Driven Decision Making in SQL](https://www.datacamp.com/courses/data-driven-decision-making-with-sql)
-- **NoSQL Databases**
+- **🧹NoSQL Databases**
   - [Redis Crash Course](https://www.youtube.com/watch?v=Hbt56gFj998)
   - [5 use Cases of Redis](https://www.youtube.com/watch?v=znjGckK8abw)
 </details>
@@ -248,7 +249,7 @@
 - [Machine Learning Algorithms](https://www.youtube.com/watch?v=NUXdtN1W1FE&list=PLEiEAq2VkUULNa6MHQAZSOBxzB6HHFXj4)
 
 ### Languages
-- **Python:**
+- **🧹Python:**
   - [Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter](https://a.co/d/0gzV89xk) 📚
   - [Automate The Boring Stuff with Python](https://automatetheboringstuff.com/)
   - [Python Crash Course by Erric Matthes](https://a.co/d/09Tjn2fs)
@@ -259,18 +260,18 @@
   - https://towardsdatascience.com/beginners-guide-to-machine-learning-with-python-b9ff35bc9c51
   - [Advanced Python Programming](https://www.youtube.com/watch?v=9VFc55nlVx8&list=PLL2hlSFBmWwyJ9dh3Rrr1sw8l4e4SLMx1&index=1)
 
-- **C++:**
+- **🧹C++:**
   - [C++ OOP by derek banas](https://www.youtube.com/watch?v=ZOKLjJF54Xc)
   - [C++ Programming All-in-one (beginner to advanced)](https://www.youtube.com/watch?v=_bYFu9mBnr4)
   - [Object Oriented Programming in C++](https://www.youtube.com/watch?v=AGrcyWV7hL8&list=PLrjkTql3jnm-Voi7giH4JITCi6cuZSN42&index=1)
   - [Data Structures using C++](https://www.youtube.com/watch?v=XCyuHSJS7XE&list=PLIY8eNdw5tW_zX3OCzX7NJ8bL1p6pWfgG)
 
-- **Java:**
+- **🧹Java:**
   - [Easy to Advanced Data Structure using Java](https://www.youtube.com/watch?v=RBSGKlAvoiM&t=10854s)
 
 - **R:**
 
-### Software design & Architecture
+###🧹 Software design & Architecture
 - [Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications](https://a.co/d/0iO9WJJB) 📚👩🏼‍💻
 - [Software Design using Python](https://www.youtube.com/watch?v=FLtqAi7WNBY&list=PLzMcBGfZo4-nVu4ANTe7NuU0Ny6_oyQmV)
 - [A philosophy of Software Design](https://www.youtube.com/watch?v=bmSAYlu0NcY)
@@ -278,11 +279,11 @@
 - [SOLID using Python](https://www.youtube.com/watch?v=acmPg6aV-Zs&list=PLyLkn_nipSjNVOpdOG-nETxKfgEpbubMQ)
 - [Be a Better Developer by Using SOLID design principles](https://www.youtube.com/watch?v=rtmFCcjEgEw)
 
-### Design Patterns
+### 🧹Design Patterns
 - [Design Patterns in Object Oriented Programming](https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
 - [Design Patterns in Python](https://www.youtube.com/watch?v=bsyjSW46TDg&t=966s)
 
-</details><details><summary><h2>Model Training & Tuning Techniques Plus Advanced Deep Learning Models</h2></summary>
+</details><details><summary><h2>🧹Model Training & Tuning Techniques Plus Advanced Deep Learning Models</h2></summary>
  
 - [Article on Life Cycle of a Data Science Project](https://medium.com/machine-learning-india/the-life-cycle-of-a-data-science-project-d614d8d233b7) ✅
 - [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980)
@@ -298,7 +299,7 @@
 
 </details><details><summary><h2>Deployment, Monitoring, & Maintenance</h2></summary>
  
-### MLOps
+###🧹 MLOps
 - [What are MLOps and Why Does it Matter?](https://medium.com/@ODSC/what-are-mlops-and-why-does-it-matter-8cff060d4067) ✅
 - [MLOps: Overview of Machine Learning Operations on the Cloud AISC](https://www.youtube.com/watch?v=VU5Em1qkWDU)
 - [Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps](https://www.amazon.com/Machine-Learning-Design-Patterns-Preparation/dp/1098115783/ref=sr_1_1?dchild=1&keywords=MLops&qid=1604314055&s=books&sr=1-1)
@@ -306,7 +307,7 @@
 - [MLOps: Machine Learning as an Engineering Discipline](https://towardsdatascience.com/ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f)
 - [MLOps with Ray](https://a.co/d/0e4j5ycK)
 
-### Testing
+###🧹 Testing
 - [Python Testing with pytest: Simple, Rapid, Effective, and Scalable](https://www.amazon.com/Python-Testing-pytest-Effective-Scalable/dp/1680502409)
 - [Learn Pytest in 60 minutes](https://www.youtube.com/watch?v=bbp_849-RZ4)
 - [Pytest: Test Framework](https://www.youtube.com/watch?v=CNB1iRv5hZo&list=PLFGoYjJG_fqoMMmCKLeLGQzh6Jz4CmO2Y)
@@ -318,7 +319,7 @@
 - [What is serverless?](https://www.youtube.com/watch?v=vxJobGtqKVM)
 - [Introduction to AWS Lambda & Serverless Applications](https://www.youtube.com/watch?v=EBSdyoO3goc)
 
-### Containerization
+### 🧹Containerization
 - [Docker for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo)
 - [This is how docker works! The fun way](https://www.youtube.com/watch?v=-NzfOhSAZpA)
 - [Docker Beginner Tutorial](https://www.youtube.com/watch?v=wi-MGFhrad0&list=PLhW3qG5bs-L99pQsZ74f-LC-tOEsBp2rK)
@@ -328,7 +329,7 @@
 - [Kubernetes in 5 mins](https://www.youtube.com/watch?v=PH-2FfFD2PU)
 - [Kubernetes beginners Tutorials](https://www.youtube.com/watch?v=l_lWfipUimk&list=PLhW3qG5bs-L8EU_Oocu6RkNPpYpaamtXX)
 
-### API Development
+###🧹 API Development
 - [Learn Flask](https://www.youtube.com/watch?v=Z1RJmh_OqeA)
 - [Building a Flask Rest API](https://www.youtube.com/watch?v=GMppyAPbLYk)
 - [Deploy machine learning model using Flask](https://www.youtube.com/watch?v=UbCWoMf80PY)
