@@ -240,6 +240,8 @@
 - **🧹NoSQL Databases**
   - [Redis Crash Course](https://www.youtube.com/watch?v=Hbt56gFj998)
   - [5 use Cases of Redis](https://www.youtube.com/watch?v=znjGckK8abw)
+- **Vector Databases**
+  - [Why are vector databases so FAST?](https://www.youtube.com/watch?v=cpLi-82koFM)
 </details>
 
 </details><details><summary><h2>Programming Skills</h2></summary>
