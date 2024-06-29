@@ -189,7 +189,7 @@
 - [Mathematics for Machine Learning: Linear Algebra](https://www.youtube.com/watch?v=tVQZvJwi-ec)
 - [Linear Algebra and Optimization for Machine Learning: A Textbook](https://a.co/d/0gAB515I)
 
-###🧹 Calculus
+### 🧹Calculus
 - [Essence of Calculus By 3Blue1Brown](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 - [Calculus Introduction](https://www.youtube.com/watch?v=rCxi-O79sVo)
 - [Calculus by Professor Leonard](https://www.youtube.com/watch?v=fYyARMqiaag&list=PLF797E961509B4EB5)
@@ -301,7 +301,7 @@
 
 </details><details><summary><h2>Deployment, Monitoring, & Maintenance</h2></summary>
  
-###🧹 MLOps
+### 🧹MLOps
 - [What are MLOps and Why Does it Matter?](https://medium.com/@ODSC/what-are-mlops-and-why-does-it-matter-8cff060d4067) ✅
 - [MLOps: Overview of Machine Learning Operations on the Cloud AISC](https://www.youtube.com/watch?v=VU5Em1qkWDU)
 - [Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps](https://www.amazon.com/Machine-Learning-Design-Patterns-Preparation/dp/1098115783/ref=sr_1_1?dchild=1&keywords=MLops&qid=1604314055&s=books&sr=1-1)
@@ -309,7 +309,7 @@
 - [MLOps: Machine Learning as an Engineering Discipline](https://towardsdatascience.com/ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f)
 - [MLOps with Ray](https://a.co/d/0e4j5ycK)
 
-###🧹 Testing
+### 🧹Testing
 - [Python Testing with pytest: Simple, Rapid, Effective, and Scalable](https://www.amazon.com/Python-Testing-pytest-Effective-Scalable/dp/1680502409)
 - [Learn Pytest in 60 minutes](https://www.youtube.com/watch?v=bbp_849-RZ4)
 - [Pytest: Test Framework](https://www.youtube.com/watch?v=CNB1iRv5hZo&list=PLFGoYjJG_fqoMMmCKLeLGQzh6Jz4CmO2Y)
@@ -331,7 +331,7 @@
 - [Kubernetes in 5 mins](https://www.youtube.com/watch?v=PH-2FfFD2PU)
 - [Kubernetes beginners Tutorials](https://www.youtube.com/watch?v=l_lWfipUimk&list=PLhW3qG5bs-L8EU_Oocu6RkNPpYpaamtXX)
 
-###🧹 API Development
+### 🧹API Development
 - [Learn Flask](https://www.youtube.com/watch?v=Z1RJmh_OqeA)
 - [Building a Flask Rest API](https://www.youtube.com/watch?v=GMppyAPbLYk)
 - [Deploy machine learning model using Flask](https://www.youtube.com/watch?v=UbCWoMf80PY)
