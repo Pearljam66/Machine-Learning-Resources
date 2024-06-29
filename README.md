@@ -25,6 +25,7 @@
   - [Inside Deep Learning: Math, Algorithms, Models](https://a.co/d/02Fq4g2S) 📚⌛️
   - [Generative Deep Learning: Teaching Machines To Paint, Write, Compose, and Play](https://a.co/d/05eavlbG) ⌛️
   - [Practical Deep Learning for Coders](https://course.fast.ai) ⌛️
+  - [NYU Deep Learning Course Series](https://www.youtube.com/watch?v=0bMe_vCZo30&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
 
 ### Core Concepts
 - **The Big Picture**
@@ -67,18 +68,16 @@
   - [Machine Learning with scikit-learn Part 2 | SciPy 2018 Tutorial | Lemaitre and Grisel](https://www.youtube.com/watch?v=gK43gtGh49o)
   
 - **Pytorch:**
-  - [Pytorch Complete Beginner Course](https://www.youtube.com/watch?v=EMXfZB8FVUA&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)
-  - [Pytorch Examples](https://github.com/pytorch/examples)
-  - [Pytorch Tutorials Yunjey](https://github.com/yunjey/pytorch-tutorial)
-  - [Pytorch Tutorials](https://github.com/pytorch/tutorials)
-  - [Pytorch Tutorials](https://www.youtube.com/watch?v=2S1dgHpqCdk&list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz)
-  - [Pytorch for Deep Learning](https://www.youtube.com/watch?v=GIsg-ZUy0MY)
-  - [Neural Network Programming with Pytorch](https://www.youtube.com/watch?v=v5cngxo4mIg&list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
-  - [Lecture Pytorch (NYU)](https://www.youtube.com/watch?v=0bMe_vCZo30&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
-  - [Programming PyTorch for Deep Learning: Creating and Deploying Deep Learning Applications](https://www.amazon.com/Programming-PyTorch-Deep-Learning-Applications/dp/1492045357/ref=sr_1_3?dchild=1&keywords=pytorch&qid=1604315349&s=books&sr=1-3)
-  - [Deep Learning with PyTorch: Build, train, and tune neural networks using Python tools](https://www.amazon.com/Deep-Learning-PyTorch-Eli-Stevens/dp/1617295264/ref=sr_1_2?dchild=1&keywords=pytorch&qid=1604315349&s=books&sr=1-2)
+  - [Pytorch Tutorial(follow entire series](https://www.youtube.com/watch?v=EMXfZB8FVUA&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)
+  - [Pytorch Tutorial - Setting up a Deep Learning Environment (Anaconda & PyCharm)](https://www.youtube.com/watch?v=2S1dgHpqCdk&list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz)
+  - [PyTorch Explained - Python Deep Learning Neural Network API](https://www.youtube.com/watch?v=iTKbyFh-7GM&list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG&index=2)
+  - [Programming PyTorch for Deep Learning: Creating and Deploying Deep Learning Applications](https://a.co/d/0bT9Vh8Q)
+  - [Deep Learning with PyTorch: Build, train, and tune neural networks using Python tools](c)
   - [Deeplizard: Neural Network Programming - Deep Learning with PyTorch](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
   - [PyTorch internals](https://blog.ezyang.com/2019/05/pytorch-internals/)
+  - [Pytorch Official Repository Code Examples](https://github.com/pytorch/examples)
+  - [Pytorch Official Repisitory Tutorials](https://github.com/pytorch/tutorials)
+  - [Pytorch Code Examples](https://github.com/yunjey/pytorch-tutorial)
 
 - **Tensorflow & Keras:**
   - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://a.co/d/04EULzBl)
