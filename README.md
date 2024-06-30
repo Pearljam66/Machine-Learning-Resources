@@ -1,6 +1,6 @@
 # Comprehensive List of Machine Learning Resources
 
-> Resources needed to become a Machine Learning Engineer which were inspired by (and many links borrowed from) [ml-engineer-roadmap](https://github.com/enkaranfiles/Machine-Learning-Engineer-Roadmap)
+> Resources (a majority of which are free) needed to become a Machine Learning Engineer which were inspired by (and many links borrowed from) [ml-engineer-roadmap](https://github.com/enkaranfiles/Machine-Learning-Engineer-Roadmap)
 
 ### Icon Key:
 - 👩🏼‍💻 Current task
@@ -8,7 +8,7 @@
 - ⌛️ To do later
 - 📚 Own the book
 - ⭐️ Favorite
-- 🧹 Need to clean up section
+- 🧹 Need to clean up and test links in section
 
 <details>
 <summary><h2>Core Concepts of Machine Learning</h2></summary>
