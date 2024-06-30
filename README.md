@@ -78,13 +78,9 @@
   - [Pytorch Official Repisitory Tutorials](https://github.com/pytorch/tutorials)
   - [Pytorch Code Examples](https://github.com/yunjey/pytorch-tutorial)
 
-- **🧹Tensorflow & Keras:**
+- ** Tensorflow & Keras:**
   - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://a.co/d/04EULzBl)
-  - [Datacamp: Introduction to TensorFlow in Python](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python)
-  - [Datacamp: Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
-  - [Datacamp: Introduction to Deep Learning with Keras](https://www.datacamp.com/courses/deep-learning-with-keras-in-python)
-  - [Datacamp: Advanced Deep Learning with Keras](https://www.datacamp.com/courses/advanced-deep-learning-with-keras-in-python)
-  - [Deeplizard: Keras - Python Deep Learning Neural Network API](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)
+  - [TensorFlow - Python Deep Learning Neural Network API Playlist](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)
   - [Udacity: Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
   - [Deep Learning with Swift for TensorFlow](https://a.co/d/0bcGgzme) 📚
 
