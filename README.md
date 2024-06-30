@@ -28,14 +28,6 @@
   - [Practical Deep Learning for Coders](https://course.fast.ai) ⌛️
   - [NYU Deep Learning Course Series](https://www.youtube.com/watch?v=0bMe_vCZo30&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
 
-### Core Concepts
-- **The Big Picture**
-- **Data Preprocessing**
-- **Optimization**
-- **Model Evaluation**
-- **Sampling & Splitting**
-- **Ensemble Learning**
-
 ### Learning Paradigms
 - **Supervised Learning**
   - [The Supervised Learning Workshop: A New, Interactive Approach to Understanding Supervised Learning Algorithms, 2nd Edition](https://a.co/d/0j5D1QiC)
@@ -85,15 +77,15 @@
   - [Deep Learning with Swift for TensorFlow](https://a.co/d/0bcGgzme) 📚
 
 ### Advanced Topics
-- **🧹Neural Networks**
+- ** Neural Networks**
   - [Neural Networks by 3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) ✅ ⭐️
-  - [Beginner Intro to Neural Networks](https://www.youtube.com/watch?v=ZzWaow1Rvho&list=PLxt59R_fWVzT9bDxA76AHm3ig0Gg9S3So)
-  - [CS231 winter 2016](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
-  - [Make Your Own Neural Network (Book)](https://www.amazon.com/Make-Your-Own-Neural-Network-ebook/dp/B01EER4Z4G/)
-  - [Neural Networks and Deep Learning: A Textbook](https://www.amazon.com/Neural-Networks-Deep-Learning-Textbook/dp/3319944622/)
-  - [Deep Learning (Adaptive Computation and Machine Learning series)](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/)
-  - [Neural Network Full Course](https://www.youtube.com/watch?v=ob1yS9g-Zcs)
-  - [Basics of Neural Networks (3Blue1Brown series)](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+  - [Beginner Introduction to Neural Networks Playlist](https://www.youtube.com/playlist?list=PLxt59R_fWVzT9bDxA76AHm3ig0Gg9S3So)
+  - [CS231n Winter 2016 Playlist](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
+  - [Make Your Own Neural Network](https://a.co/d/0fJAUlJz)
+  - [Neural Networks and Deep Learning: A Textbook](https://a.co/d/00X5CE4c)
+  - [Deep Learning (Adaptive Computation and Machine Learning series)](https://a.co/d/0cmGSaV1)📚
+  - [Neural Network Full Course | Neural Network Tutorial For Beginners | Neural Networks | Simplilearn](https://www.youtube.com/watch?v=ob1yS9g-Zcs)
+  - [Neural networks Playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
  
 - **🧹Natural Language Processing:**
   - [Natural Language Processing with Transformers](https://transformersbook.com/)
