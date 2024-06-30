@@ -61,7 +61,7 @@
   - [Machine Learning with scikit-learn Part 2 | SciPy 2018 Tutorial | Lemaitre and Grisel](https://www.youtube.com/watch?v=gK43gtGh49o)
   
 - **Pytorch:**
-  - [Pytorch Tutorial(follow entire series](https://www.youtube.com/watch?v=EMXfZB8FVUA&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)
+  - [PyTorch Tutorials - Complete Beginner Course Playlist](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)
   - [Pytorch Tutorial - Setting up a Deep Learning Environment (Anaconda & PyCharm)](https://www.youtube.com/watch?v=2S1dgHpqCdk&list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz)
   - [Programming PyTorch for Deep Learning: Creating and Deploying Deep Learning Applications](https://a.co/d/0bT9Vh8Q)
   - [Deep Learning with PyTorch: Build, train, and tune neural networks using Python tools](https://a.co/d/0iJWdouw)
