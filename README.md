@@ -95,6 +95,7 @@
   - [CMU Multilingual NLP 2020 Class](http://demo.clab.cs.cmu.edu/11737fa20/)
 
 - **Generative AI:**
+  - [Generative AI for Beginners (Version 2) - A Course](https://github.com/microsoft/generative-ai-for-beginners)
   - [OpenAI Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
   - [Your AI Product Needs Evals](https://hamel.dev/blog/posts/evals)
   - [Prompting Fundamentals and How to Apply them Effectively](https://eugeneyan.com/writing/prompting/)
