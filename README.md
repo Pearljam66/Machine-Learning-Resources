@@ -32,7 +32,7 @@
 - **Supervised Learning**
   - [The Supervised Learning Workshop: A New, Interactive Approach to Understanding Supervised Learning Algorithms, 2nd Edition](https://a.co/d/0j5D1QiC)
   - [The Hundred-Page Machine Learning Book](https://a.co/d/0bPoJHC8)
-  - [Supervised Learning Crash Course](https://www.youtube.com/watch?v=4qVRBYAdLAo)
+  - [Supervised Learning Crash Course](https://www.youtube.com/watch?v=4qVRBYAdLAo)✅
   - [An Introduction to Linear Regression Analysis](https://www.youtube.com/watch?v=zPG4NjIkCjc)
 
 - **Unsupervised Learning**
@@ -79,7 +79,7 @@
 ### Advanced Topics
 - **Neural Networks**
   - [Neural Networks by 3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) ✅ ⭐️
-  - [Beginner Introduction to Neural Networks Playlist](https://www.youtube.com/playlist?list=PLxt59R_fWVzT9bDxA76AHm3ig0Gg9S3So)
+  - [Beginner Introduction to Neural Networks Playlist](https://www.youtube.com/playlist?list=PLxt59R_fWVzT9bDxA76AHm3ig0Gg9S3So)👩🏼‍💻
   - [CS231n Winter 2016 Playlist](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
   - [Make Your Own Neural Network](https://a.co/d/0fJAUlJz)
   - [Neural Networks and Deep Learning: A Textbook](https://a.co/d/00X5CE4c)
