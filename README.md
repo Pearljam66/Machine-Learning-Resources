@@ -95,10 +95,10 @@
   - [CMU Multilingual NLP 2020 Class](http://demo.clab.cs.cmu.edu/11737fa20/)
 
 - **🧹Generative AI:**
-  - [Article: OpenAI Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
-  - [Article: Your AI Product Needs Evals](https://hamel.dev/blog/posts/evals)
-  - [Article: Prompting Fundamentals and How to Apply them Effectively](https://eugeneyan.com/writing/prompting/)
-  - [Article: Task-Specific LLM Evals that Do & Don't Work](https://eugeneyan.com/writing/evals/)
+  - [OpenAI Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
+  - [Your AI Product Needs Evals](https://hamel.dev/blog/posts/evals)
+  - [Prompting Fundamentals and How to Apply them Effectively](https://eugeneyan.com/writing/prompting/)
+  - [Article: Task-Specific LLM Evals that Do & Don't Work](Prompting Fundamentals and How to Apply them Effectively)
   - [Article: LLM From the Trenches: 10 Lessons Learned Operationalizing Models at GoDaddy](https://www.godaddy.com/resources/news/llm-from-the-trenches-10-lessons-learned-operationalizing-models-at-godaddy#h-3-prompts-aren-t-portable-across-models)
   - [Article: Prompt Engineering(Liliang Weng)](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
   - [Article: Prompt Engineering 201: Advanced methods and toolkits](https://amatria.in/blog/prompt201)
