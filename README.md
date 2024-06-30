@@ -87,20 +87,12 @@
   - [Neural Network Full Course | Neural Network Tutorial For Beginners | Neural Networks | Simplilearn](https://www.youtube.com/watch?v=ob1yS9g-Zcs)
   - [Neural networks Playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
  
-- **🧹Natural Language Processing:**
-  - [Natural Language Processing with Transformers](https://transformersbook.com/)
-  - [Stanford CS224U: Natural Language Understanding \| Spring 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)
-  - [Stanford CS224N: Stanford CS224N: NLP with Deep Learning \| Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
-  - [CMU: Low-resource NLP Bootcamp 2020](https://www.youtube.com/playlist?list=PL8PYTP1V4I8A1CpCzURXAUa6H4HO7PF2c)
-  - [CMU Multilingual NLP 2020](http://demo.clab.cs.cmu.edu/11737fa20/)
-  - [Datacamp: Feature Engineering for NLP in Python](https://www.datacamp.com/courses/feature-engineering-for-nlp-in-python)
-  - [Datacamp: Natural Language Processing Fundamentals in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python)
-  - [Datacamp: Regular Expressions in Python](https://www.datacamp.com/courses/regular-expressions-in-python)
-  - [Datacamp: RNN for Language Modeling](https://www.datacamp.com/courses/recurrent-neural-networks-for-language-modeling-in-python)
-  - [Datacamp: Natural Language Generation in Python](https://www.datacamp.com/courses/natural-language-generation-in-python)
-  - [Datacamp: Building Chatbots in Python](https://www.datacamp.com/courses/building-chatbots-in-python)
-  - [Datacamp: Sentiment Analysis in Python](https://www.datacamp.com/courses/sentiment-analysis-in-python)
-  - [Datacamp: Machine Translation in Python](https://www.datacamp.com/courses/machine-translation-in-python)
+- **Natural Language Processing:**
+  - [Natural Language Processing with Transformers: Building Language Applications with Hugging Face](https://a.co/d/03yiWqiQ)
+  - [Stanford CS224U: Natural Language Understanding | Spring 2019 Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)
+  - [Stanford CS224N: Stanford CS224N: NLP with Deep Learning | Winter 2019 Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+  - [CMU Low-resource NLP Bootcamp 2020 Playlist](https://www.youtube.com/playlist?list=PL8PYTP1V4I8A1CpCzURXAUa6H4HO7PF2c)
+  - [CMU Multilingual NLP 2020 Class](http://demo.clab.cs.cmu.edu/11737fa20/)
 
 - **🧹Generative AI:**
   - [Article: OpenAI Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
