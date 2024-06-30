@@ -70,14 +70,14 @@
   - [Pytorch Official Repisitory Tutorials](https://github.com/pytorch/tutorials)
   - [Pytorch Code Examples](https://github.com/yunjey/pytorch-tutorial)
 
-- ** Tensorflow & Keras:**
+- **Tensorflow & Keras:**
   - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://a.co/d/04EULzBl)
   - [TensorFlow - Python Deep Learning Neural Network API Playlist](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)
   - [Udacity: Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
   - [Deep Learning with Swift for TensorFlow](https://a.co/d/0bcGgzme) 📚
 
 ### Advanced Topics
-- ** Neural Networks**
+- **Neural Networks**
   - [Neural Networks by 3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) ✅ ⭐️
   - [Beginner Introduction to Neural Networks Playlist](https://www.youtube.com/playlist?list=PLxt59R_fWVzT9bDxA76AHm3ig0Gg9S3So)
   - [CS231n Winter 2016 Playlist](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
