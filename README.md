@@ -197,6 +197,7 @@
 </details><details><summary><h2>Databases & Query Languages</h2></summary>
   
 - **🧹Database Concepts**
+  - [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://a.co/d/0gnicFTy)
   - [Column vs Row Oriented Databases](https://www.youtube.com/watch?v=Vw1fCeD06YI)
   - [Introduction to noSQl database](https://www.youtube.com/watch?v=xQnIN9bW0og)
   - [ Nosql vs Sql ](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
