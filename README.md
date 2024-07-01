@@ -352,6 +352,7 @@
 - [Becoming a Data Head: How to Think, Speak, and Understand Data Science, Statistics, and Machine Learning](https://a.co/d/08OHdpNh)
 - [Everything Is Predictable: How Bayesian Statistics Explain Our World](https://a.co/d/0fvOBZ6q)
 - [Gödel, Escher, Bach: An Eternal Golden Braid](https://a.co/d/0eLGaTHc)
+- [Book of Why](https://a.co/d/0iBcoV4d)
 - [Great YT channel to learn more about ML](https://www.youtube.com/@deeplizard)
 
 </details><details><summary><h2>AI Conferences & Competitions</h2></summary>
