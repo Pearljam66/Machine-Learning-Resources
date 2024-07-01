@@ -354,6 +354,7 @@
 - [Gödel, Escher, Bach: An Eternal Golden Braid](https://a.co/d/0eLGaTHc)
 - [Book of Why](https://a.co/d/0iBcoV4d)
 - [Great YT channel to learn more about ML](https://www.youtube.com/@deeplizard)
+- [Data Science (The MIT Press Essential Knowledge series)](https://a.co/d/0ilRs9sz)
 
 </details><details><summary><h2>AI Conferences & Competitions</h2></summary>
  
