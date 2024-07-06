@@ -225,7 +225,7 @@
   - [Object Oriented Programming in C++](https://www.youtube.com/watch?v=AGrcyWV7hL8&list=PLrjkTql3jnm-Voi7giH4JITCi6cuZSN42&index=1)
   - [Data Structures using C++](https://www.youtube.com/watch?v=XCyuHSJS7XE&list=PLIY8eNdw5tW_zX3OCzX7NJ8bL1p6pWfgG)
 
-- **🧹Java:**
+- **Java:**
   - [Easy to Advanced Data Structure using Java](https://www.youtube.com/watch?v=RBSGKlAvoiM&t=10854s)
 
 - **R:**
