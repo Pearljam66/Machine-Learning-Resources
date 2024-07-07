@@ -136,7 +136,7 @@
 
 ### Linear Algebra
 - https://github.com/fastai/numerical-linear-algebra
-- [Vectors | Chapter 1, Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [Essence of linear algebra Playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [Mathematics for Machine Learning - Linear Algebra Playlist](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
 - [Linear Algebra and Optimization for Machine Learning: A Textbook](https://a.co/d/0gAB515I)
 
