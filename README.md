@@ -165,7 +165,8 @@
   - [Introduction to noSQl database](https://www.youtube.com/watch?v=xQnIN9bW0og)
   - [ Nosql vs Sql ](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
   - [Udacity: Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)
-  - [Datacamp: Database Design](https://www.datacamp.com/courses/database-design)  
+  - [Datacamp: Database Design](https://www.datacamp.com/courses/database-design)
+    
 - **🧹SQL and Relational Databases**
   - [Learning MYSQL](https://www.youtube.com/watch?v=a9W7OpS4LfI&list=PLyuRouwmQCjlXvBkTfGeDTq79r9_GoMt9)
   - [Udacity: Intro to relational database](https://www.udacity.com/course/intro-to-relational-databases--ud197)
@@ -173,6 +174,7 @@
   - [Datacamp: Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
   - [Datacamp: Intermediate SQL](https://www.datacamp.com/courses/intermediate-sql)
   - [Datacamp: Joining Data in PostgreSQL](https://www.datacamp.com/courses/joining-data-in-postgresql)
+    
 - **🧹Advanced SQL and Data Analysis**
   - [Udacity: SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
   - [Datacamp: Exploratory Data Analysis in SQL](https://www.datacamp.com/courses/sql-for-exploratory-data-analysis)
@@ -180,9 +182,11 @@
   - [Datacamp: Analyzing Business Data in SQL](https://www.datacamp.com/courses/analyzing-business-data-in-sql)
   - [Datacamp: Reporting in SQL](https://www.datacamp.com/courses/reporting-in-sql)
   - [Datacamp: Data-Driven Decision Making in SQL](https://www.datacamp.com/courses/data-driven-decision-making-with-sql)
+    
 - **🧹NoSQL Databases**
   - [Redis Crash Course](https://www.youtube.com/watch?v=Hbt56gFj998)
   - [5 use Cases of Redis](https://www.youtube.com/watch?v=znjGckK8abw)
+    
 - **Vector Databases**
   - [Why are vector databases so FAST?](https://www.youtube.com/watch?v=cpLi-82koFM)
   - [Vector Databases simply explained! (Embeddings & Indexes)](https://www.youtube.com/watch?v=dN0lsF2cvm4)
