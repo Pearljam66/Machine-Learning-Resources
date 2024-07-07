@@ -140,12 +140,8 @@
 - [Mathematics for Machine Learning - Linear Algebra Playlist](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
 - [Linear Algebra and Optimization for Machine Learning: A Textbook](https://a.co/d/0gAB515I)
 
-### 🧹Calculus
-- [Essence of Calculus By 3Blue1Brown](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
-- [Calculus Introduction](https://www.youtube.com/watch?v=rCxi-O79sVo)
-- [Calculus by Professor Leonard](https://www.youtube.com/watch?v=fYyARMqiaag&list=PLF797E961509B4EB5)
-- [Calculus full College Course](https://www.youtube.com/watch?v=HfACrKJ_Y2w)
-- [Calculus by Khan Academy](https://www.youtube.com/watch?v=EKvHQc3QEow&list=PL19E79A0638C8D449)
+### Calculus
+- [Essence of calculus Playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
 ### 🧹Probability & Statistics
 - [Statistics 101: Linear Regression, The Very Basics](https://www.youtube.com/watch?v=ZkjP5RJLQF4&list=PLIeGtxpvyG-LoKUpV0fSY8BGKIMIdmfCi)
