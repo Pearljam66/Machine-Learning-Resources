@@ -216,7 +216,7 @@
 - [Design Patterns in Object Oriented Programming](https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
 - [Design Patterns in Python](https://www.youtube.com/watch?v=bsyjSW46TDg&t=966s)
 
-</details><details><summary><h2>🧹Model Training & Tuning Techniques Plus Advanced Deep Learning Models</h2></summary>
+</details><details><summary><h2>Model Training & Tuning Techniques Plus Advanced Deep Learning Models</h2></summary>
  
 - [Article on Life Cycle of a Data Science Project](https://medium.com/machine-learning-india/the-life-cycle-of-a-data-science-project-d614d8d233b7) ✅
 - [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980)
