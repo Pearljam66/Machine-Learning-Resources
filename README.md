@@ -143,24 +143,19 @@
 ### Calculus
 - [Essence of calculus Playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
-### 🧹Probability & Statistics
-- [Statistics 101: Linear Regression, The Very Basics](https://www.youtube.com/watch?v=ZkjP5RJLQF4&list=PLIeGtxpvyG-LoKUpV0fSY8BGKIMIdmfCi)
-- [Statistics Fundamentals by StatsQuest](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
-- [Statistics by Khan Academy](https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566)
-- [Statistics by Professor Leonard](https://www.youtube.com/watch?v=9FtHB7V14Fo&list=PL5102DFDC6790F3D0)
-- [Statistics full University Course on Data Science](https://www.youtube.com/watch?v=xxpc-HPKN28)
-- [Probability by Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk&list=PLC58778F28211FA19)
-- [Probability Basics by 365 Data Science](https://www.youtube.com/watch?v=WsnBNjXP0CM&list=PLaFfQroTgZnxtnfht3BzBHVfxodX9AR9F)
-- [Bayesian Statistics Made Simple (Scipy)](https://www.youtube.com/watch?v=-X0BiV9n_fQ)
+### Probability & Statistics
+- [Statistics PL14 - Simple Linear Regression Playlist](https://www.youtube.com/playlist?list=PLIeGtxpvyG-LoKUpV0fSY8BGKIMIdmfCi)
+- [Statistics Fundamentals](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
+- [Statistics - A Full University Course on Data Science Basics](https://www.youtube.com/watch?v=xxpc-HPKN28)
+- [Probability Playlist](https://www.youtube.com/playlist?list=PLC58778F28211FA19)
+- [Bayesian Statistics Made Simple | Scipy 2019 Tutorial | Allen Downey](https://www.youtube.com/watch?v=-X0BiV9n_fQ)
 - [Think Stats: Exploratory Data Analysis](https://a.co/d/0aDqJBfV)
-- [Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/149207294X/ref=sr_1_1?dchild=1&keywords=statistics&qid=1604311077&s=books&sr=1-1)
-- [Naked Statistics](https://www.amazon.com/Naked-Statistics-Stripping-Dread-Data/dp/039334777X/ref=sr_1_2?dchild=1&keywords=statistics&qid=1604311077&s=books&sr=1-2)
-- [Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series)](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020)
-- [Pattern Recognition and Machine Learning (Information Science and Statistics) by Christopher M. Bishop](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
-- [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition](https://hastie.su.domains/ElemStatLearn/)
+- [Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python](https://a.co/d/0ePVRrzN)
+- [Naked Statistics: Stripping the Dread from the Data](https://a.co/d/0j6upKtk)
+- [Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series)](https://a.co/d/054HGCOU)
+- [Pattern Recognition and Machine Learning (Information Science and Statistics)](https://a.co/d/05EwUSsG)
+- [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics)](https://a.co/d/048KNpku)
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
-- [An Introduction to Statistical Learning](https://www.statlearning.com/)
-- [Essentials of Statistics by Monica Wahi](https://www.youtube.com/watch?v=8mxrwJcB2eI&list=PL64SCLAD3d1FlVowhKnYrY7JGuVd24HWm&ab_channel=MonikaWahi)
 
 </details><details><summary><h2>Databases & Query Languages</h2></summary>
   
