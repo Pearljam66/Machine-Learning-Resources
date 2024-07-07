@@ -185,16 +185,15 @@
 - [Machine Learning Algorithms](https://www.youtube.com/watch?v=NUXdtN1W1FE&list=PLEiEAq2VkUULNa6MHQAZSOBxzB6HHFXj4)
 
 ### Languages
-- **🧹Python:**
+- **Python:**
   - [Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter](https://a.co/d/0gzV89xk) 📚
   - [Automate The Boring Stuff with Python](https://automatetheboringstuff.com/)
-  - [Python Crash Course by Erric Matthes](https://a.co/d/09Tjn2fs)
-  - [Learning Python by Mark Lutz](https://www.oreilly.com/library/view/learning-python-5th/9781449355722/)
-  - [Python OOP by Corey Schafer](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
-  - [Python OOP for beginners](https://www.youtube.com/watch?v=JeznW_7DlB0)
-  - [OOP in python](https://www.youtube.com/watch?v=MikphENIrOo)
-  - https://towardsdatascience.com/beginners-guide-to-machine-learning-with-python-b9ff35bc9c51
-  - [Advanced Python Programming](https://www.youtube.com/watch?v=9VFc55nlVx8&list=PLL2hlSFBmWwyJ9dh3Rrr1sw8l4e4SLMx1&index=1)
+  - [Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming](https://a.co/d/09Tjn2fs)
+  - [Learning Python: Powerful Object-Oriented Programming](https://a.co/d/05v9dcRE)
+  - [Python OOP Tutorials - Working with Classes Playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
+  - [Python Object Oriented Programming (OOP) - For Beginners](https://www.youtube.com/watch?v=JeznW_7DlB0)
+  - [Object Oriented Programming (OOP) in Python](https://www.youtube.com/watch?v=MikphENIrOo)
+  - [Advanced Python - Complete Course Playlist](https://www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2)
 
 - **🧹C++:**
   - [C++ OOP by derek banas](https://www.youtube.com/watch?v=ZOKLjJF54Xc)
