@@ -195,11 +195,9 @@
   - [Object Oriented Programming (OOP) in Python](https://www.youtube.com/watch?v=MikphENIrOo)
   - [Advanced Python - Complete Course Playlist](https://www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2)
 
-- **🧹C++:**
-  - [C++ OOP by derek banas](https://www.youtube.com/watch?v=ZOKLjJF54Xc)
-  - [C++ Programming All-in-one (beginner to advanced)](https://www.youtube.com/watch?v=_bYFu9mBnr4)
-  - [Object Oriented Programming in C++](https://www.youtube.com/watch?v=AGrcyWV7hL8&list=PLrjkTql3jnm-Voi7giH4JITCi6cuZSN42&index=1)
-  - [Data Structures using C++](https://www.youtube.com/watch?v=XCyuHSJS7XE&list=PLIY8eNdw5tW_zX3OCzX7NJ8bL1p6pWfgG)
+- **C++:**
+  - [C++ Tutorial Playlist](https://www.youtube.com/playlist?list=PLGLfVvz_LVvQ9S8YSV0iDsuEU8v11yP9M)
+  - [C++ Programming All-in-One Tutorial Series (10 HOURS!)](https://www.youtube.com/watch?v=_bYFu9mBnr4)
 
 - **Java:**
   - [Easy to Advanced Data Structure using Java](https://www.youtube.com/watch?v=RBSGKlAvoiM&t=10854s)
