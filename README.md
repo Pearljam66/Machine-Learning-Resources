@@ -134,12 +134,10 @@
 - [Broadcasting](https://cs231n.github.io/python-numpy-tutorial/#numpy-broadcasting)
 - [Voronoi Diagrams Explained](https://builtin.com/data-science/voronoi-diagram)
 
-### 🧹Linear Algebra
+### Linear Algebra
 - https://github.com/fastai/numerical-linear-algebra
-- [Essence of Linear Algebra by 3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-- [Mathematics for Machine Learning (Linear Algebra)](https://www.youtube.com/watch?v=T73ldK46JqE&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
-- [Matrices](https://www.youtube.com/watch?v=eV3NidpjfNg&list=PLEbnTDJUr_IdiveZ4bvOc1Oh2zEp7J8z6)
-- [Mathematics for Machine Learning: Linear Algebra](https://www.youtube.com/watch?v=tVQZvJwi-ec)
+- [Vectors | Chapter 1, Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [Mathematics for Machine Learning - Linear Algebra Playlist](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
 - [Linear Algebra and Optimization for Machine Learning: A Textbook](https://a.co/d/0gAB515I)
 
 ### 🧹Calculus
