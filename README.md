@@ -167,9 +167,9 @@
 - **SQL & Relational Databases**
   - [Full MySQL Course for Beginners Playlist](https://www.youtube.com/playlist?list=PLyuRouwmQCjlXvBkTfGeDTq79r9_GoMt9)
     
-- **🧹NoSQL Databases**
-  - [Redis Crash Course](https://www.youtube.com/watch?v=Hbt56gFj998)
-  - [5 use Cases of Redis](https://www.youtube.com/watch?v=znjGckK8abw)
+- **NoSQL Databases**
+  - [Redis Crash Course Tutorial](https://www.youtube.com/watch?v=Hbt56gFj998)
+  - [5 Redis Use Cases with Gur Dotan - Redis Labs](https://www.youtube.com/watch?v=znjGckK8abw)
     
 - **Vector Databases**
   - [Why are vector databases so FAST?](https://www.youtube.com/watch?v=cpLi-82koFM)
