@@ -212,9 +212,9 @@
 - [SOLID using Python](https://www.youtube.com/watch?v=acmPg6aV-Zs&list=PLyLkn_nipSjNVOpdOG-nETxKfgEpbubMQ)
 - [Be a Better Developer by Using SOLID design principles](https://www.youtube.com/watch?v=rtmFCcjEgEw)
 
-### 🧹Design Patterns
-- [Design Patterns in Object Oriented Programming](https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
-- [Design Patterns in Python](https://www.youtube.com/watch?v=bsyjSW46TDg&t=966s)
+### Design Patterns
+- [Design Patterns in Object Oriented Programming Playlist](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
+- [Design Patterns in Python by Peter Ullrich](https://www.youtube.com/watch?v=bsyjSW46TDg&t=966s)
 
 </details><details><summary><h2>Model Training & Tuning Techniques Plus Advanced Deep Learning Models</h2></summary>
  
