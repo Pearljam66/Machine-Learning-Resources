@@ -239,12 +239,10 @@
 - [ML Ops: Machine Learning as an Engineering Discipline](https://towardsdatascience.com/ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f)
 - [MLOps with Ray: Best Practices and Strategies for Adopting Machine Learning Operations](https://a.co/d/0e4j5ycK)
 
-### 🧹Testing
-- [Python Testing with pytest: Simple, Rapid, Effective, and Scalable](https://www.amazon.com/Python-Testing-pytest-Effective-Scalable/dp/1680502409)
-- [Learn Pytest in 60 minutes](https://www.youtube.com/watch?v=bbp_849-RZ4)
-- [Pytest: Test Framework](https://www.youtube.com/watch?v=CNB1iRv5hZo&list=PLFGoYjJG_fqoMMmCKLeLGQzh6Jz4CmO2Y)
-- [Python testing 101 with Pytest](https://www.youtube.com/watch?v=etosV2IWBF0)
-- [Testing Your code with Pytest](https://www.youtube.com/watch?v=LX2ksGYXJ80)
+### Testing
+- [Python Testing with pytest: Simple, Rapid, Effective, and Scalable](https://a.co/d/9h1Tl3h)
+- [Python Testing 101 with pytest](https://www.youtube.com/watch?v=etosV2IWBF0)
+- [Testing your Python Code with PyTest | Scipy 2019 Tutorial | John Leeman, Ryan May](https://www.youtube.com/watch?v=LX2ksGYXJ80)
 
 ### Cloud Computing
 - [Cloud Computing Tutorial For Beginners](https://www.youtube.com/watch?v=EN4fEbcFZ_E)
