@@ -204,13 +204,12 @@
 
 - **R:**
 
-### 🧹Software design & Architecture
+### Software design & Architecture
 - [Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications](https://a.co/d/0iO9WJJB) 📚👩🏼‍💻
-- [Software Design using Python](https://www.youtube.com/watch?v=FLtqAi7WNBY&list=PLzMcBGfZo4-nVu4ANTe7NuU0Ny6_oyQmV)
-- [A philosophy of Software Design](https://www.youtube.com/watch?v=bmSAYlu0NcY)
-- [Software Design in 21st Century by Martin Flower](https://www.youtube.com/watch?v=6wDoopbtEqk)
-- [SOLID using Python](https://www.youtube.com/watch?v=acmPg6aV-Zs&list=PLyLkn_nipSjNVOpdOG-nETxKfgEpbubMQ)
-- [Be a Better Developer by Using SOLID design principles](https://www.youtube.com/watch?v=rtmFCcjEgEw)
+- [Software Design Basics Playlist](https://www.youtube.com/playlist?list=PLzMcBGfZo4-nVu4ANTe7NuU0Ny6_oyQmV)
+- [A Philosophy of Software Design | John Ousterhout | Talks at Google](https://www.youtube.com/watch?v=bmSAYlu0NcY)
+- [Martin Fowler - Software Design in the 21st Century](https://www.youtube.com/watch?v=6wDoopbtEqk)
+- [Becoming a better developer by using the SOLID design principles by Katerina Trajchevska](https://www.youtube.com/watch?v=rtmFCcjEgEw)
 
 ### Design Patterns
 - [Design Patterns in Object Oriented Programming Playlist](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
