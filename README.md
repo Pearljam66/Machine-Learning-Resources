@@ -249,21 +249,16 @@
 - [What is serverless?](https://www.youtube.com/watch?v=vxJobGtqKVM)
 - [Introduction to AWS Lambda & Serverless Applications](https://www.youtube.com/watch?v=EBSdyoO3goc)
 
-### 🧹Containerization
-- [Docker for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo)
-- [This is how docker works! The fun way](https://www.youtube.com/watch?v=-NzfOhSAZpA)
-- [Docker Beginner Tutorial](https://www.youtube.com/watch?v=wi-MGFhrad0&list=PLhW3qG5bs-L99pQsZ74f-LC-tOEsBp2rK)
-- [Docker Tutorials For Beginners](https://www.youtube.com/watch?v=3c-iBn73dDE)
-- [Simplify all things with Docker-Compose](https://www.youtube.com/watch?v=QeQ2MH5f_BE)
-- [What is kubernetes?](https://www.youtube.com/watch?v=VnvRFRk_51k)
-- [Kubernetes in 5 mins](https://www.youtube.com/watch?v=PH-2FfFD2PU)
-- [Kubernetes beginners Tutorials](https://www.youtube.com/watch?v=l_lWfipUimk&list=PLhW3qG5bs-L8EU_Oocu6RkNPpYpaamtXX)
+### Containerization 
+- [Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers](https://www.youtube.com/watch?v=fqMOX6JJhGo)
+- [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=3c-iBn73dDE)
+- [Simplify All the Things with Docker Compose](https://www.youtube.com/watch?v=QeQ2MH5f_BE)
+- [Kubernetes Beginner Tutorials Playlist](https://www.youtube.com/playlist?list=PLhW3qG5bs-L8EU_Oocu6RkNPpYpaamtXX)
 
-### 🧹API Development
-- [Learn Flask](https://www.youtube.com/watch?v=Z1RJmh_OqeA)
-- [Building a Flask Rest API](https://www.youtube.com/watch?v=GMppyAPbLYk)
-- [Deploy machine learning model using Flask](https://www.youtube.com/watch?v=UbCWoMf80PY)
-- [How to deploy machine learning model in Production](https://www.youtube.com/watch?v=-UYyyeYJAoQ)
+### API Development
+- [Learn Flask for Python - Full Tutorial](https://www.youtube.com/watch?v=Z1RJmh_OqeA)
+- [Python REST API Tutorial - Building a Flask REST API](https://www.youtube.com/watch?v=GMppyAPbLYk)
+- [How to deploy machine learning models into production](https://www.youtube.com/watch?v=-UYyyeYJAoQ)
 
 </details><details><summary><h2>AI Safety, Ethics, & Bias</h2></summary>
  
