@@ -231,13 +231,13 @@
 
 </details><details><summary><h2>Deployment, Monitoring, & Maintenance</h2></summary>
  
-### 🧹MLOps
+### MLOps
 - [What are MLOps and Why Does it Matter?](https://medium.com/@ODSC/what-are-mlops-and-why-does-it-matter-8cff060d4067) ✅
-- [MLOps: Overview of Machine Learning Operations on the Cloud AISC](https://www.youtube.com/watch?v=VU5Em1qkWDU)
-- [Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps](https://www.amazon.com/Machine-Learning-Design-Patterns-Preparation/dp/1098115783/ref=sr_1_1?dchild=1&keywords=MLops&qid=1604314055&s=books&sr=1-1)
-- [MLops Community "Videos Collection"](https://www.youtube.com/watch?v=hqxQO7MoQIE&list=PL3vkEKxWd-uvXEsuCAEfQhdvDRc7X_jOx)
-- [MLOps: Machine Learning as an Engineering Discipline](https://towardsdatascience.com/ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f)
-- [MLOps with Ray](https://a.co/d/0e4j5ycK)
+- [MLOps: Overview of Machine Learning Operations on the Cloud | AISC](https://www.youtube.com/watch?v=VU5Em1qkWDU)
+- [Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps](https://a.co/d/aMYSdSu)
+- [MLOps Manifesto with Luke Marsden from Dotscience](https://www.youtube.com/watch?v=hqxQO7MoQIE&list=PL3vkEKxWd-uvXEsuCAEfQhdvDRc7X_jOx)
+- [ML Ops: Machine Learning as an Engineering Discipline](https://towardsdatascience.com/ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f)
+- [MLOps with Ray: Best Practices and Strategies for Adopting Machine Learning Operations](https://a.co/d/0e4j5ycK)
 
 ### 🧹Testing
 - [Python Testing with pytest: Simple, Rapid, Effective, and Scalable](https://www.amazon.com/Python-Testing-pytest-Effective-Scalable/dp/1680502409)
