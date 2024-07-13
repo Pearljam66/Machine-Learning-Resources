@@ -8,7 +8,6 @@
 - ⌛️ To do later
 - 📚 Own the book
 - ⭐️ Favorite
-- 🧹 Need to clean up and test links in section
 
 <details>
 <summary><h2>Core Concepts of Machine Learning</h2></summary>
@@ -281,7 +280,7 @@
 - https://github.com/alexeygrigorev/data-science-interviews
 - [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
 
-</details><details><summary><h2>ML & AI Related Books & Podcasts 👩🏼‍💻 </h2></summary>
+</details><details><summary><h2>ML & AI Related Books & Podcasts </h2></summary>
  
 - [Quick Start Guide to Large Language Models: Strategies and Best Practices for Using ChatGPT and Other LLMs](https://a.co/d/0d3Btiqm) 📚👩🏼‍💻
 - [Deep Learning (Adaptive Computation and Machine Learning series)](https://a.co/d/06t5y3xr) 📚
