@@ -5,7 +5,6 @@
 ### Icon Key:
 - 👩🏼‍💻 Current task
 - ✅ Completed task
-- ⌛️ To do later
 - 📚 Own the book
 - ⭐️ Favorite
 
@@ -19,12 +18,12 @@
   - [How you can get a world-class machine learning education for free](https://elitedatascience.com/learn-machine-learning#step-0) ✅
   - [Getting Started with Applied Machine Learning](https://machinelearningmastery.com/start-here/#getstarted) ✅
   - [Get started with AI and machine learning in 3 months](https://medium.com/@gordicaleksa/get-started-with-ai-and-machine-learning-in-3-months-5236d5e0f230) ✅ ⭐️
-  - [HarvardX: Data Science: Machine Learning](https://www.edx.org/learn/machine-learning/harvard-university-data-science-machine-learning) ⌛️
+  - [HarvardX: Data Science: Machine Learning](https://www.edx.org/learn/machine-learning/harvard-university-data-science-machine-learning) 
 
 - **Deep Learning**
-  - [Inside Deep Learning: Math, Algorithms, Models](https://a.co/d/02Fq4g2S) 📚⌛️
-  - [Generative Deep Learning: Teaching Machines To Paint, Write, Compose, and Play](https://a.co/d/05eavlbG) ⌛️
-  - [Practical Deep Learning for Coders](https://course.fast.ai) ⌛️
+  - [Inside Deep Learning: Math, Algorithms, Models](https://a.co/d/02Fq4g2S) 📚
+  - [Generative Deep Learning: Teaching Machines To Paint, Write, Compose, and Play](https://a.co/d/05eavlbG) 
+  - [Practical Deep Learning for Coders](https://course.fast.ai) 
   - [NYU Deep Learning Course Series](https://www.youtube.com/watch?v=0bMe_vCZo30&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
 
 ### Learning Paradigms
@@ -78,7 +77,7 @@
 ### Advanced Topics
 - **Neural Networks**
   - [Neural Networks by 3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) ✅ ⭐️
-  - [Beginner Introduction to Neural Networks Playlist](https://www.youtube.com/playlist?list=PLxt59R_fWVzT9bDxA76AHm3ig0Gg9S3So)👩🏼‍💻
+  - [Beginner Introduction to Neural Networks Playlist](https://www.youtube.com/playlist?list=PLxt59R_fWVzT9bDxA76AHm3ig0Gg9S3So)
   - [CS231n Winter 2016 Playlist](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
   - [Make Your Own Neural Network](https://a.co/d/0fJAUlJz)
   - [Neural Networks and Deep Learning: A Textbook](https://a.co/d/00X5CE4c)
@@ -204,7 +203,7 @@
 - **R:**
 
 ### Software design & Architecture
-- [Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications](https://a.co/d/0iO9WJJB) 📚👩🏼‍💻
+- [Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications](https://a.co/d/0iO9WJJB) 📚
 - [Software Design Basics Playlist](https://www.youtube.com/playlist?list=PLzMcBGfZo4-nVu4ANTe7NuU0Ny6_oyQmV)
 - [A Philosophy of Software Design | John Ousterhout | Talks at Google](https://www.youtube.com/watch?v=bmSAYlu0NcY)
 - [Martin Fowler - Software Design in the 21st Century](https://www.youtube.com/watch?v=6wDoopbtEqk)
@@ -282,9 +281,9 @@
 
 </details><details><summary><h2>ML & AI Related Books & Podcasts </h2></summary>
  
-- [Quick Start Guide to Large Language Models: Strategies and Best Practices for Using ChatGPT and Other LLMs](https://a.co/d/0d3Btiqm) 📚👩🏼‍💻
+- [Quick Start Guide to Large Language Models: Strategies and Best Practices for Using ChatGPT and Other LLMs](https://a.co/d/0d3Btiqm) 📚
 - [Deep Learning (Adaptive Computation and Machine Learning series)](https://a.co/d/06t5y3xr) 📚
-- [The Coming Wave](https://a.co/d/08w5jQQU) 📚👩🏼‍💻
+- [The Coming Wave](https://a.co/d/08w5jQQU) 📚
 - [Superintelligence: Paths, Dangers, Strategies](https://a.co/d/0czbkhMV)
 - [One year of deep learning](https://www.fast.ai/2019/01/02/one-year-of-deep-learning/) ✅
 - [Aravind Srinivas: Perplexity CEO on Future of AI, Search & the Internet | Lex Fridman Podcast](https://www.youtube.com/watch?v=e-gwvmhyU7A) ✅
