@@ -3,7 +3,6 @@
 > Resources (a majority of which are free) needed to become a Machine Learning Engineer which were inspired by (and many links borrowed from) [ml-engineer-roadmap](https://github.com/enkaranfiles/Machine-Learning-Engineer-Roadmap)
 
 ### Icon Key:
-- 👩🏼‍💻 Current task
 - ✅ Completed task
 - 📚 Own the book
 - ⭐️ Favorite
