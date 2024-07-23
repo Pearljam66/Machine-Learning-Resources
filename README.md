@@ -3,6 +3,7 @@
 > Resources (a majority of which are free) needed to become a Machine Learning Engineer which were inspired by (and many links borrowed from) [ml-engineer-roadmap](https://github.com/enkaranfiles/Machine-Learning-Engineer-Roadmap)
 
 ### Icon Key:
+- 👩🏼‍💻 Current task
 - ✅ Completed task
 - 📚 Own the book
 - ⭐️ Favorite
@@ -20,7 +21,7 @@
   - [HarvardX: Data Science: Machine Learning](https://www.edx.org/learn/machine-learning/harvard-university-data-science-machine-learning) 
 
 - **Deep Learning:**
-  - [MIT 6.S191: Introduction to Deep Learning Playlist](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+  - [MIT 6.S191: Introduction to Deep Learning Playlist](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) 👩🏼‍💻
   - [Inside Deep Learning: Math, Algorithms, Models](https://a.co/d/02Fq4g2S) 📚
   - [Generative Deep Learning: Teaching Machines To Paint, Write, Compose, and Play](https://a.co/d/05eavlbG) 
   - [Practical Deep Learning for Coders](https://course.fast.ai) 
