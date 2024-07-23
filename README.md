@@ -11,7 +11,7 @@
 <summary><h2>Core Concepts of Machine Learning</h2></summary>
 
 ### Fundamentals
-- **General ML**
+- **General ML:**
   - [The cold start problem: how to break into machine learning](https://towardsdatascience.com/the-cold-start-problem-how-to-break-into-machine-learning-732ee9fedf1d) ✅
   - [How to Start Learning Machine Learning?](https://www.geeksforgeeks.org/how-to-start-learning-machine-learning/) ✅
   - [How you can get a world-class machine learning education for free](https://elitedatascience.com/learn-machine-learning#step-0) ✅
@@ -19,36 +19,36 @@
   - [Get started with AI and machine learning in 3 months](https://medium.com/@gordicaleksa/get-started-with-ai-and-machine-learning-in-3-months-5236d5e0f230) ✅ ⭐️
   - [HarvardX: Data Science: Machine Learning](https://www.edx.org/learn/machine-learning/harvard-university-data-science-machine-learning) 
 
-- **Deep Learning**
+- **Deep Learning:**
   - [Inside Deep Learning: Math, Algorithms, Models](https://a.co/d/02Fq4g2S) 📚
   - [Generative Deep Learning: Teaching Machines To Paint, Write, Compose, and Play](https://a.co/d/05eavlbG) 
   - [Practical Deep Learning for Coders](https://course.fast.ai) 
   - [NYU Deep Learning Course Series](https://www.youtube.com/watch?v=0bMe_vCZo30&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
 
 ### Learning Paradigms
-- **Supervised Learning**
+- **Supervised Learning:**
   - [The Supervised Learning Workshop: A New, Interactive Approach to Understanding Supervised Learning Algorithms, 2nd Edition](https://a.co/d/0j5D1QiC)
   - [The Hundred-Page Machine Learning Book](https://a.co/d/0bPoJHC8)
   - [Supervised Learning Crash Course](https://www.youtube.com/watch?v=4qVRBYAdLAo)✅
 
-- **Unsupervised Learning**
+- **Unsupervised Learning:**
   - [Hands-On Unsupervised Learning Using Python: How to Build Applied Machine Learning Solutions from Unlabeled Data](https://a.co/d/0aVPVWBQ)
   - [Unsupervised learning explained](https://www.youtube.com/watch?v=lEfrr0Yr684)✅
   - [Unsupervised Learning Crash Course](https://www.youtube.com/watch?v=JnnaDNNb380)✅
 
 ### Essential Libraries
-- **Numpy**
+- **Numpy:**
   - [Python NumPy tutorials for Beginners](https://www.youtube.com/watch?v=GB9ByFAIAH4)
   - [NumPy Tutorial : Numpy Full Course](https://www.youtube.com/watch?v=8Y0qQEh7dJg)
   - [Introduction to Numerical Computing with NumPy](https://www.youtube.com/watch?v=ZB7BZMhfPgk)
 
-- **Pandas**
+- **Pandas:**
   - [Complete Python Pandas Data Science Tutorial! (Reading CSV/Excel files, Sorting, Filtering, Groupby)](https://www.youtube.com/watch?v=vmEHCJofslg)
   - [Introduction to Data Processing in Python with Pandas | SciPy 2019 Tutorial | Daniel Chen](https://www.youtube.com/watch?v=5rNu16O3YNE)
   - [Solving real world data science tasks with Python Pandas!](https://www.youtube.com/watch?v=eMOA1pPVUc4)
   - [Python Pandas Tutorial (Part 1): Getting Started with Data Analysis - Installation and Loading Data](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
 
-- **Scikit-learn**
+- **Scikit-learn:**
   - [Machine Learning with PyTorch and Scikit-Learn](https://a.co/d/03kjoWyM) 📚
   - [Data Science from Scratch: First Principles with Python](https://a.co/d/02awIyRQ)
   - [Scikit-Learn Course - Machine Learning in Python Tutorial](https://www.youtube.com/watch?v=pqNCD_5r0IU)
@@ -73,7 +73,7 @@
   - [Deep Learning with Swift for TensorFlow](https://a.co/d/0bcGgzme) 📚
 
 ### Advanced Topics
-- **Neural Networks**
+- **Neural Networks:**
   - [Neural Networks by 3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) ✅ ⭐️
   - [Beginner Introduction to Neural Networks Playlist](https://www.youtube.com/playlist?list=PLxt59R_fWVzT9bDxA76AHm3ig0Gg9S3So)
   - [CS231n Winter 2016 Playlist](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
@@ -156,19 +156,19 @@
 
 </details><details><summary><h2>Databases & Query Languages</h2></summary>
   
-- **Database Concepts**
+- **Database Concepts:**
   - [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://a.co/d/0gnicFTy)
   - [Column vs Row Oriented Databases](https://www.youtube.com/watch?v=Vw1fCeD06YI)
   - [SQL vs NoSQL or MySQL vs MongoDB](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
     
-- **SQL & Relational Databases**
+- **SQL & Relational Databases:**
   - [Full MySQL Course for Beginners Playlist](https://www.youtube.com/playlist?list=PLyuRouwmQCjlXvBkTfGeDTq79r9_GoMt9)
     
-- **NoSQL Databases**
+- **NoSQL Databases:**
   - [Redis Crash Course Tutorial](https://www.youtube.com/watch?v=Hbt56gFj998)
   - [5 Redis Use Cases with Gur Dotan - Redis Labs](https://www.youtube.com/watch?v=znjGckK8abw)
     
-- **Vector Databases**
+- **Vector Databases:**
   - [Why are vector databases so FAST?](https://www.youtube.com/watch?v=cpLi-82koFM)
   - [Vector Databases simply explained! (Embeddings & Indexes)](https://www.youtube.com/watch?v=dN0lsF2cvm4)
   - [Pinecomb User Guide Playlist](https://www.youtube.com/playlist?list=PLRLVhGQeJDTLiw-ZJpgUtZW-bseS2gq9-)
