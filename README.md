@@ -30,12 +30,11 @@
   - [The Supervised Learning Workshop: A New, Interactive Approach to Understanding Supervised Learning Algorithms, 2nd Edition](https://a.co/d/0j5D1QiC)
   - [The Hundred-Page Machine Learning Book](https://a.co/d/0bPoJHC8)
   - [Supervised Learning Crash Course](https://www.youtube.com/watch?v=4qVRBYAdLAo)✅
-  - [An Introduction to Linear Regression Analysis](https://www.youtube.com/watch?v=zPG4NjIkCjc)
 
 - **Unsupervised Learning**
   - [Hands-On Unsupervised Learning Using Python: How to Build Applied Machine Learning Solutions from Unlabeled Data](https://a.co/d/0aVPVWBQ)
-  - [Unsupervised learning explained](https://www.youtube.com/watch?v=lEfrr0Yr684)
-  - [Unsupervised Learning Crash Course](https://www.youtube.com/watch?v=JnnaDNNb380)
+  - [Unsupervised learning explained](https://www.youtube.com/watch?v=lEfrr0Yr684)✅
+  - [Unsupervised Learning Crash Course](https://www.youtube.com/watch?v=JnnaDNNb380)✅
 
 ### Essential Libraries
 - **Numpy**
@@ -153,6 +152,7 @@
 - [Pattern Recognition and Machine Learning (Information Science and Statistics)](https://a.co/d/05EwUSsG)
 - [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics)](https://a.co/d/048KNpku)
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
+- [An Introduction to Linear Regression Analysis](https://www.youtube.com/watch?v=zPG4NjIkCjc) ✅
 
 </details><details><summary><h2>Databases & Query Languages</h2></summary>
   
