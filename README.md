@@ -20,6 +20,7 @@
   - [HarvardX: Data Science: Machine Learning](https://www.edx.org/learn/machine-learning/harvard-university-data-science-machine-learning) 
 
 - **Deep Learning:**
+  - [MIT 6.S191: Introduction to Deep Learning Playlist](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
   - [Inside Deep Learning: Math, Algorithms, Models](https://a.co/d/02Fq4g2S) 📚
   - [Generative Deep Learning: Teaching Machines To Paint, Write, Compose, and Play](https://a.co/d/05eavlbG) 
   - [Practical Deep Learning for Coders](https://course.fast.ai) 
@@ -91,6 +92,7 @@
   - [CMU Multilingual NLP 2020 Class](http://demo.clab.cs.cmu.edu/11737fa20/)
 
 - **Generative AI:**
+  - [Prompt Engineering Overview](https://www.youtube.com/watch?v=dOxUroR57xs)✅
   - [Generative AI for Beginners (Version 2) - A Course](https://github.com/microsoft/generative-ai-for-beginners)
   - [OpenAI Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
   - [Your AI Product Needs Evals](https://hamel.dev/blog/posts/evals)
@@ -112,7 +114,6 @@
   - [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE)
   - [A Hackers' Guide to Language Models](https://www.youtube.com/watch?v=jkrNMKz9pWU)
   - [A Survey of Techniques for Maximizing LLM Performance](https://www.youtube.com/watch?v=ahnGLM-RC1Y)
-  - [Prompt Engineering Overview](https://www.youtube.com/watch?v=dOxUroR57xs)
   - [Building Blocks for LLM Systems & Products: Eugene Yan](https://www.youtube.com/watch?v=LzeC1AQ-U5o)
  
 ### Datasets
