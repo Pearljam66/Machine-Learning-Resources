@@ -294,6 +294,7 @@
 - [Book of Why](https://a.co/d/0iBcoV4d)
 - [Great YT channel to learn more about ML](https://www.youtube.com/@deeplizard)
 - [Data Science (The MIT Press Essential Knowledge series)](https://a.co/d/0ilRs9sz)
+- [DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters | Lex Fridman Podcast #459](https://www.youtube.com/watch?v=_1f-o0nqpEI)
 
 </details><details><summary><h2>AI Conferences & Competitions</h2></summary>
  
