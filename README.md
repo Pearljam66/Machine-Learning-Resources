@@ -39,6 +39,7 @@
 
 ### Essential Libraries
 - **Numpy:**
+  - [Python NumPy tutorial(with Jupyter and Colab)](https://cs231n.github.io/python-numpy-tutorial/)
   - [Python NumPy tutorials for Beginners](https://www.youtube.com/watch?v=GB9ByFAIAH4)
   - [NumPy Tutorial : Numpy Full Course](https://www.youtube.com/watch?v=8Y0qQEh7dJg)
   - [Introduction to Numerical Computing with NumPy](https://www.youtube.com/watch?v=ZB7BZMhfPgk)
