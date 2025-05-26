@@ -184,6 +184,7 @@
 
 ### Languages
 - **Python:**
+  - [The Python Tutorial](https://docs.python.org/3/tutorial/)
   - [Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter](https://a.co/d/0gzV89xk) 📚
   - [Automate The Boring Stuff with Python](https://automatetheboringstuff.com/)
   - [Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming](https://a.co/d/09Tjn2fs)
